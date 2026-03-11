@@ -20,16 +20,5 @@
         "expires_at": "2026-03-12T00:49:09.236542",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "0a606969",
-        "tweet_text": "Big changes in Orlando! \ud83d\ude80 Oscar Pareja is out as head coach after 6 seasons. Who's next to lead the Lions? \ud83e\udd81 #MLS #CoachingChange",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48175112/oscar-pareja-orlando-city-coach-mls",
-        "article_title": "Pareja out as Orlando City coach after 6 seasons",
-        "created_at": "2026-03-11T20:49:14.381462",
-        "scheduled_for": null,
-        "expires_at": "2026-03-12T00:49:14.381462",
-        "type": "manual",
-        "status": "pending"
     }
 ]
