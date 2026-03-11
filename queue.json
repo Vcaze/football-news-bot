@@ -20,5 +20,38 @@
         "expires_at": "2026-03-11T19:41:12.714429",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "359bd810",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Iran's minister announces they will NOT be competing in the 2026 World Cup! What does this mean for the tournament? \ud83e\udd14\u26bd #WorldCup2026 #Football",
+        "source_url": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Iranian minister says country will not play in World Cup",
+        "created_at": "2026-03-11T16:42:59.569425",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T20:42:59.569425",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "a35332aa",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS! Arsenal is gearing up to face Bayer Leverkusen in the Champions League last 16! \u26bd\ufe0f Can they make history this season? Get ready for an epic showdown! \ud83d\udd25 #ChampionsLeague #Arsenal",
+        "source_url": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
+        "article_title": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
+        "created_at": "2026-03-11T16:43:02.138140",
+        "scheduled_for": "2026-03-11T16:53:02.138140",
+        "expires_at": "2026-03-11T17:43:02.138140",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "b1cb1174",
+        "tweet_text": "Exciting times ahead! \ud83d\ude80 The Union of European Clubs is pushing for a radical revenue redistribution plan to level the playing field in UEFA competitions! \u26bd\ufe0f #Football #ChampionsLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/11/clubs-propose-revenue-redistribution-predictable-champions-league-union-of-european-clubs",
+        "article_title": "Clubs propose radical redistribution of riches to avoid \u2018predictable\u2019 Champions League",
+        "created_at": "2026-03-11T16:43:04.991108",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T20:43:04.991108",
+        "type": "manual",
+        "status": "pending"
     }
 ]
