@@ -1,16 +1,5 @@
 [
     {
-        "id": "97f95f58",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS! Harvey Barnes believes Newcastle can outplay Barcelona at Camp Nou after their first-leg showdown! Confidence is sky-high! \ud83d\udcaa\u26bd\ufe0f #ChampionsLeague #NewcastleUnited",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/harvey-barnes-newcastle-barcelona-camp-nou-champions-league",
-        "article_title": "Harvey Barnes urges Newcastle to outplay Barcelona again at Camp Nou",
-        "created_at": "2026-03-11T12:42:13.599900",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T16:42:13.599900",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "fb54b7a9",
         "tweet_text": "Tottenham's 5-2 loss to Atletico Madrid has fans wondering: if not Tudor, then who? \ud83e\udd14\u26bd\ufe0f Time for some big decisions at Spurs! #Tottenham #ChampionsLeague",
         "source_url": "https://www.bbc.com/sport/football/articles/cly8er8d13mo?at_medium=RSS&at_campaign=rss",
@@ -30,17 +19,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-11T20:42:59.569425",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "a35332aa",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS! Arsenal is gearing up to face Bayer Leverkusen in the Champions League last 16! \u26bd\ufe0f Can they make history this season? Get ready for an epic showdown! \ud83d\udd25 #ChampionsLeague #Arsenal",
-        "source_url": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
-        "article_title": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
-        "created_at": "2026-03-11T16:43:02.138140",
-        "scheduled_for": "2026-03-11T16:53:02.138140",
-        "expires_at": "2026-03-11T17:43:02.138140",
-        "type": "auto",
         "status": "pending"
     },
     {
