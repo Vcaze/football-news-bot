@@ -42,5 +42,27 @@
         "expires_at": "2026-03-11T16:42:13.599900",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "fb54b7a9",
+        "tweet_text": "Tottenham's 5-2 loss to Atletico Madrid has fans wondering: if not Tudor, then who? \ud83e\udd14\u26bd\ufe0f Time for some big decisions at Spurs! #Tottenham #ChampionsLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/cly8er8d13mo?at_medium=RSS&at_campaign=rss",
+        "article_title": "'Wrong person at wrong time' - but if not Tudor then who?",
+        "created_at": "2026-03-11T15:41:12.714429",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T19:41:12.714429",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "16a9c96f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Iran\u2019s sports minister confirms the national football team will NOT participate in the 2026 World Cup! \ud83d\ude31 What a shocking turn of events! #Football #WorldCup2026",
+        "source_url": "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino",
+        "article_title": "Iran\u2019s sports minister says football team will not play at 2026 World Cup",
+        "created_at": "2026-03-11T15:41:15.776355",
+        "scheduled_for": "2026-03-11T15:51:15.776355",
+        "expires_at": "2026-03-11T16:41:15.776355",
+        "type": "auto",
+        "status": "pending"
     }
 ]
