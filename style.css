@@ -52,9 +52,19 @@ header {
 .status-indicator {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 1.5rem;
     font-size: 0.9rem;
     color: var(--text-muted);
+}
+
+.next-run-info {
+    padding-right: 1.5rem;
+    border-right: 1px solid var(--border-color);
+}
+
+.next-run-info span {
+    color: var(--warning);
+    font-weight: 600;
 }
 
 .dot {

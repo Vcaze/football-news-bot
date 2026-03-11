@@ -280,6 +280,30 @@ saveTokenBtn.addEventListener('click', async () => {
 
 closeModalBtn.addEventListener('click', () => authModal.classList.remove('active'));
 
+// ── Next Run Timer ────────────────────────────────────────────────────────────
+function updateNextRunTimer() {
+    const nextRunEl = document.getElementById('next-run-time');
+    if (!nextRunEl) return;
+
+    // Cron is: 0 6-22 * * * (UTC)
+    const now = new Date();
+    let next = new Date(now.getTime());
+    next.setUTCMinutes(0, 0, 0);
+    next.setUTCHours(next.getUTCHours() + 1);
+
+    // Find next valid hour (6-22 UTC)
+    while (true) {
+        const hour = next.getUTCHours();
+        if (hour >= 6 && hour <= 22) break;
+        next.setUTCHours(next.getUTCHours() + 1);
+    }
+
+    const options = { hour: '2-digit', minute: '2-digit' };
+    nextRunEl.textContent = next.toLocaleTimeString(undefined, options);
+}
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 loadData();
+updateNextRunTimer();
 setInterval(loadData, 30000);
+setInterval(updateNextRunTimer, 60000);
