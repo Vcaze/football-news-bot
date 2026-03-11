@@ -172,6 +172,19 @@ main {
     border: 1px solid var(--border-color);
 }
 
+.btn.publish {
+    background: var(--success);
+    color: white;
+}
+.btn.publish:hover {
+    background: #2ea043;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
 .tweet-card.posted {
     opacity: 0.7;
 }

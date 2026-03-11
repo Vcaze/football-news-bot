@@ -54,7 +54,10 @@ function renderQueue() {
             <a href="${item.source_url}" target="_blank" class="source-link">Read Original Article ↗</a>
             <div style="margin-top: 1rem;" class="tweet-actions">
                 <span class="countdown" id="cd-${item.id}">Calculating...</span>
-                <button class="btn danger" onclick="attemptCancel('${item.id}')">Cancel Tweet</button>
+                <div class="action-buttons">
+                    <button class="btn publish" onclick="attemptPublishNow('${item.id}')">Publish Now</button>
+                    <button class="btn danger" onclick="attemptCancel('${item.id}')">Cancel</button>
+                </div>
             </div>
         `;
         queueContainer.appendChild(el);
@@ -103,6 +106,48 @@ setInterval(() => {
         }
     });
 }, 1000);
+
+// --- PUBLISH NOW LOGIC ---
+
+function attemptPublishNow(tweetId) {
+    const token = localStorage.getItem('gh_token');
+    if (!token) {
+        authModal.classList.add('active');
+        authModal.dataset.pendingPublishId = tweetId;
+        return;
+    }
+    triggerPublishNowWorkflow(tweetId, token);
+}
+
+async function triggerPublishNowWorkflow(tweetId, token) {
+    if (!confirm("Post this tweet to X right now, skipping the 10-minute window?")) return;
+
+    try {
+        const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`, {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/vnd.github.v3+json',
+                'Authorization': `token ${token}`
+            },
+            body: JSON.stringify({
+                event_type: 'publish-now',
+                client_payload: { tweet_id: tweetId }
+            })
+        });
+
+        if (response.ok) {
+            alert("✅ Publish request sent! The tweet will be posted within a few seconds.");
+            // Optimistically remove from UI
+            queueData = queueData.filter(i => i.id !== tweetId);
+            renderQueue();
+        } else {
+            alert("Failed to publish. Check token permissions.");
+            localStorage.removeItem('gh_token');
+        }
+    } catch (e) {
+        alert("Network error occurred.");
+    }
+}
 
 // --- CANCELLATION LOGIC ---
 
@@ -156,11 +201,15 @@ saveTokenBtn.addEventListener('click', () => {
         localStorage.setItem('gh_token', token);
         authModal.classList.remove('active');
 
-        // Resume cancellation if we were interrupting one
-        const pendingId = authModal.dataset.pendingCancelId;
-        if (pendingId) {
-            triggerCancelWorkflow(pendingId, token);
+        // Resume pending action if we were interrupted
+        const pendingCancelId = authModal.dataset.pendingCancelId;
+        const pendingPublishId = authModal.dataset.pendingPublishId;
+        if (pendingCancelId) {
+            triggerCancelWorkflow(pendingCancelId, token);
             delete authModal.dataset.pendingCancelId;
+        } else if (pendingPublishId) {
+            triggerPublishNowWorkflow(pendingPublishId, token);
+            delete authModal.dataset.pendingPublishId;
         }
     }
 });

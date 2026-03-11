@@ -1,0 +1,83 @@
+name: Publish Tweet Now
+
+on:
+  repository_dispatch:
+    types: [publish-now]
+
+jobs:
+  publish_now:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Publish specific tweet immediately
+        env:
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: |
+          cat << 'EOF' > publish_now_script.py
+          import sys
+          import json
+          import os
+          sys.path.insert(0, '.')
+          from publisher import post_tweet
+
+          tweet_id = "${{ github.event.client_payload.tweet_id }}"
+
+          with open('queue.json', 'r') as f:
+              queue = json.load(f)
+
+          tweet = next((i for i in queue if i['id'] == tweet_id), None)
+
+          if not tweet:
+              print(f"Tweet {tweet_id} not found in queue (may have already been posted or cancelled).")
+              sys.exit(0)
+
+          # Post immediately
+          tweet_url = post_tweet(tweet['tweet_text'], tweet['source_url'])
+
+          if tweet_url:
+              # Move to history
+              with open('history.json', 'r') as f:
+                  history = json.load(f)
+
+              tweet['status'] = 'posted'
+              tweet['posted_at'] = __import__('datetime').datetime.now().isoformat()
+              tweet['posted_tweet_url'] = tweet_url
+              history.insert(0, tweet)
+              history = history[:50]
+
+              remaining = [i for i in queue if i['id'] != tweet_id]
+              with open('queue.json', 'w') as f:
+                  json.dump(remaining, f, indent=4)
+              with open('history.json', 'w') as f:
+                  json.dump(history, f, indent=4)
+
+              print(f"Successfully posted tweet: {tweet_url}")
+          else:
+              print("Failed to post tweet.")
+          EOF
+          python publish_now_script.py
+
+      - name: Commit state changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add queue.json history.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: manual publish via dashboard" && git push)
