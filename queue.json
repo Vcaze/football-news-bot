@@ -1,38 +1,5 @@
 [
     {
-        "id": "bfb0cf72",
-        "tweet_text": "So close yet so far! \ud83d\ude29 Newcastle fought hard but fell to a late penalty by Lamine Yamal. Can they turn it around in the second leg? \ud83d\udcaa #UCL #NewcastleUnited",
-        "source_url": "https://www.bbc.com/sport/football/articles/cvg37lqdy46o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Sense of missed opportunity for Newcastle after late Barca blow",
-        "created_at": "2026-03-11T06:42:36.826391",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T10:42:36.826391",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "c9f27cda",
-        "tweet_text": "Galatasaray takes the lead in the Champions League clash, thanks to Mario Lemina! \ud83d\ude31 Can Liverpool turn it around in the second leg? \ud83d\udd25 #ChampionsLeague #Liverpool",
-        "source_url": "https://www.theguardian.com/football/2026/mar/10/galatasaray-liverpool-champions-league-last-16-first-leg-match-report",
-        "article_title": "Familiar tale for Slot after Lemina gives Galatasaray edge over Liverpool",
-        "created_at": "2026-03-11T06:42:38.765745",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T10:42:38.765745",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "053ebd09",
-        "tweet_text": "Millwall is on fire! \ud83d\udd25 They clinched a 1-0 win against Derby, closing the gap on Middlesbrough to just one point! Can they keep this momentum going? \ud83d\udcaa #Championship #PromotionPush",
-        "source_url": "https://www.theguardian.com/football/2026/mar/10/championship-roundup-millwall-keep-promotion-push-going-with-win-against-derby",
-        "article_title": "Championship roundup: Millwall keep promotion push going with win against Derby",
-        "created_at": "2026-03-11T06:42:41.306328",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T10:42:41.306328",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "17bafb5a",
         "tweet_text": "Tottenham's nightmare continues! \ud83d\ude31 A shocking performance in Madrid leaves fans fuming. Can they turn it around? #COYS #PremierLeague",
         "source_url": "https://www.skysports.com/football/news/12040/13518035/tottenham-and-antonin-kinsky-humiliated-in-atletico-madrid-defeat-as-igor-tudor-hits-embarrassing-spurs-low",
