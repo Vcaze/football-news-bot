@@ -20,16 +20,5 @@
         "expires_at": "2026-03-11T21:43:30.253367",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "8b48093f",
-        "tweet_text": "\ud83d\udea8 PSG vs Chelsea team news LIVE! Get ready for some thrilling action as these giants clash on the pitch! Who will come out on top? \u26bd\ufe0f\ud83d\udd25 #Football #ChampionsLeague",
-        "source_url": "https://www.skysports.com/football/paris-saint-germain-vs-chelsea/live/554898",
-        "article_title": "PSG vs Chelsea team news LIVE!",
-        "created_at": "2026-03-11T18:44:46.669958",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T22:44:46.669958",
-        "type": "manual",
-        "status": "pending"
     }
 ]
