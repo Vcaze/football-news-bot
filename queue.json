@@ -42,5 +42,27 @@
         "expires_at": "2026-03-11T07:27:21.467134",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d237dd7c",
+        "tweet_text": "Galatasaray takes the edge over Liverpool with a 1-0 lead thanks to Lemina! Can the Reds bounce back in the second leg? \ud83e\udd14\u26bd\ufe0f #ChampionsLeague #Galatasaray",
+        "source_url": "https://www.theguardian.com/football/2026/mar/10/galatasaray-liverpool-champions-league-last-16-first-leg-match-report",
+        "article_title": "Familiar tale for Slot after Lemina gives Galatasaray edge over Liverpool",
+        "created_at": "2026-03-11T03:51:31.801672",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T07:51:31.801672",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "24c63285",
+        "tweet_text": "Millwall keep their promotion dreams alive with a crucial 1-0 win against Derby! \ud83d\ude80 They\u2019re just 1 point behind Middlesbrough! \ud83d\udd25\u26bd #Championship #PromotionPush",
+        "source_url": "https://www.theguardian.com/football/2026/mar/10/championship-roundup-millwall-keep-promotion-push-going-with-win-against-derby",
+        "article_title": "Championship roundup: Millwall keep promotion push going with win against Derby",
+        "created_at": "2026-03-11T03:51:33.576772",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T07:51:33.576772",
+        "type": "manual",
+        "status": "pending"
     }
 ]
