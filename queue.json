@@ -1,27 +1,5 @@
 [
     {
-        "id": "a400ec43",
-        "tweet_text": "What a finish! \ud83d\udd25 Shai Gilgeous-Alexander nails a clutch three-pointer to seal the win for the Thunder against the Nuggets! \ud83c\udfc0 #NBA #ThunderNation",
-        "source_url": "https://www.skysports.com/watch/video/13517627/nba-reigning-mvp-shai-gilgeous-alexanders-hits-incredible-game-winner-to-sink-denver-nuggets",
-        "article_title": "EPIC ending! MVP Gilgeous-Alexander's incredible game-winner sinks Nuggets!",
-        "created_at": "2026-03-11T09:35:34.852874",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T13:35:34.852874",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "f403dc65",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Trump gives the green light for Iran to play at the 2026 World Cup! \ud83c\uddee\ud83c\uddf7\u26bd\ufe0f What a twist in the lead-up to the tournament! #WorldCup2026 #Football",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino",
-        "article_title": "Infantino insists Trump has assured him Iran are \u2018welcome\u2019 to play at 2026 World Cup",
-        "created_at": "2026-03-11T09:35:44.471913",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T13:35:44.471913",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "248cb37b",
         "tweet_text": "\ud83d\udea8 HUGE NEWS! The Hundred Auction is LIVE! \ud83c\udf1f Overseas stars Devine and Mooney have been sold for a staggering \u00a3210k! \ud83d\udcb0 Who else will make waves today? #CricketAuction #SportsNews",
         "source_url": "https://www.skysports.com/cricket/live-blog/12040/13517800/the-hundred-auction-2026-live-stream-and-updates-as-teams-add-to-squads-for-100-ball-competition",
@@ -63,28 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-11T16:42:13.599900",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "2322d104",
-        "tweet_text": "Walsall have made a HUGE move! \ud83d\udea8 They\u2019ve sacked head coach Mat Sadler after a tough run, following that loss to Salford City. What\u2019s next for the club? \ud83e\udd14 #Football #LeagueTwo",
-        "source_url": "https://www.bbc.com/sport/football/articles/cn0exygeryko?at_medium=RSS&at_campaign=rss",
-        "article_title": "Walsall sack head coach Sadler after poor run",
-        "created_at": "2026-03-11T14:01:21.028072",
-        "scheduled_for": "2026-03-11T14:11:21.028072",
-        "expires_at": "2026-03-11T15:01:21.028072",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "4ad4701a",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS for Sheffield Wednesday fans! \ud83e\udd89 A potential 15-point deduction looms if the preferred bidder deal is completed! What does this mean for their season? #EFL #SheffieldWednesday",
-        "source_url": "https://www.bbc.com/sport/football/articles/c0lj5n6gl9ro?at_medium=RSS&at_campaign=rss",
-        "article_title": "Sheff Wed to be docked 15 points next season if preferred bidder deal completed",
-        "created_at": "2026-03-11T14:01:24.149408",
-        "scheduled_for": "2026-03-11T14:11:24.149408",
-        "expires_at": "2026-03-11T15:01:24.149408",
-        "type": "auto",
         "status": "pending"
     }
 ]
