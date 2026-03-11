@@ -212,13 +212,19 @@ async function attemptPublishNow(tweetId) {
 }
 
 async function attemptCancel(tweetId) {
-    const confirmed = await showConfirm(
-        'Cancel Tweet?',
-        'Remove this tweet permanently?',
-        '✕ Yes, cancel it',
-        'danger'
-    );
-    if (!confirmed) return;
+    const item = queueData.find(i => i.id === tweetId);
+    const isManual = item && item.type === 'manual';
+
+    // Only show confirm if it's an 'auto' tweet (to prevent accidents)
+    if (!isManual) {
+        const confirmed = await showConfirm(
+            'Cancel Tweet?',
+            'Remove this tweet permanently?',
+            '✕ Yes, cancel it',
+            'danger'
+        );
+        if (!confirmed) return;
+    }
 
     let token = localStorage.getItem('gh_token');
     if (!token) {
