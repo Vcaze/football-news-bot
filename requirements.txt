@@ -1,0 +1,6 @@
+feedparser
+openai
+tweepy
+python-dotenv
+requests
+pytz

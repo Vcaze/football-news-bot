@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FootballNewsC1 - AI Bot Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="logo">⚽ FootballNewsC1 <span>Bot Dashboard</span></div>
+        <div class="status-indicator">
+            <span class="dot"></span> System Active
+        </div>
+    </header>
+
+    <main>
+        <!-- 10-Minute Pending Queue Section -->
+        <section class="panel queue-panel">
+            <div class="panel-header">
+                <h2>Pending Tweets (10-Min Window)</h2>
+                <span class="badge" id="queue-count">0</span>
+            </div>
+            
+            <div id="queue-container">
+                <div class="loading">Loading queue...</div>
+                <!-- Pending tweets injected here via JS -->
+            </div>
+        </section>
+
+        <!-- Posted History Section -->
+        <section class="panel history-panel">
+            <div class="panel-header">
+                <h2>Recent History</h2>
+            </div>
+            
+            <div id="history-container">
+                <div class="loading">Loading history...</div>
+                <!-- Posted tweets injected here via JS -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal for GitHub Token Entry -->
+    <div id="auth-modal" class="modal">
+        <div class="modal-content">
+            <h3>Authentication Required</h3>
+            <p>To cancel tweets from this dashboard, enter a GitHub Personal Access Token with repo access.</p>
+            <input type="password" id="gh-token-input" placeholder="ghp_................">
+            <div class="modal-buttons">
+                <button id="save-token-btn" class="btn primary">Save Locally</button>
+                <button id="close-modal-btn" class="btn secondary">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

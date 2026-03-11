@@ -1,0 +1,49 @@
+name: Cancel Pending Tweet
+
+on:
+  repository_dispatch:
+    types: [cancel-tweet]
+
+jobs:
+  cancel_tweet:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Run Cancel Script
+        run: |
+          cat << 'EOF' > cancel_script.py
+          import sys
+          import json
+          
+          tweet_id = sys.argv[1]
+          
+          with open('queue.json', 'r') as f:
+              queue = json.load(f)
+              
+          new_queue = [item for item in queue if item['id'] != tweet_id]
+          
+          if len(queue) != len(new_queue):
+              with open('queue.json', 'w') as f:
+                  json.dump(new_queue, f, indent=4)
+              print(f"Successfully cancelled and removed tweet {tweet_id}")
+          else:
+              print(f"Tweet {tweet_id} not found in queue.")
+          EOF
+          python cancel_script.py "${{ github.event.client_payload.tweet_id }}"
+          
+      - name: Commit state changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add queue.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: cancelled tweet" && git push)
