@@ -72,6 +72,7 @@ function renderQueues() {
 function createTweetCard(item) {
     const el = document.createElement('div');
     el.className = 'tweet-card';
+    el.id = `card-${item.id}`;
     const isAuto = item.type === 'auto' || !item.type;
 
     el.innerHTML = `
@@ -211,6 +212,15 @@ async function attemptCancel(tweetId) {
 
     // Add to local 'ignore' list immediately so it doesn't flicker back
     recentlyCancelled.add(tweetId);
+    
+    // Apply visual "pending" state
+    const card = document.getElementById(`card-${tweetId}`);
+    if (card) {
+        card.classList.add('pending-cancel');
+        const countdown = document.getElementById(`cd-${tweetId}`);
+        if (countdown) countdown.textContent = 'Removing...';
+    }
+
     setTimeout(() => recentlyCancelled.delete(tweetId), 120000); // Clear after 2 mins
 
     const ok = await triggerDispatch('cancel-tweet', { tweet_id: tweetId }, token);
@@ -221,6 +231,8 @@ async function attemptCancel(tweetId) {
     } else {
         showToast('❌ Failed to cancel.', 'error');
         recentlyCancelled.delete(tweetId);
+        const card = document.getElementById(`card-${tweetId}`);
+        if (card) card.classList.remove('pending-cancel');
         localStorage.removeItem('gh_token');
     }
 }
