@@ -6,132 +6,99 @@ from datetime import datetime, timedelta
 QUEUE_FILE = 'queue.json'
 HISTORY_FILE = 'history.json'
 
-def _load_json(filepath):
-    """Utility to load a JSON file or return empty list if it doesn't exist."""
-    if not os.path.exists(filepath):
+def load_data(file_path):
+    if not os.path.exists(file_path):
         return []
     try:
-        with open(filepath, 'r') as f:
+        with open(file_path, 'r') as f:
             return json.load(f)
-    except json.JSONDecodeError:
+    except (json.JSONDecodeError, IOError):
         return []
 
-def _save_json(filepath, data):
-    """Utility to save data to a JSON file."""
-    with open(filepath, 'w') as f:
+def save_data(file_path, data):
+    with open(file_path, 'w') as f:
         json.dump(data, f, indent=4)
 
-def add_to_queue(tweet_text, source_url, article_title):
+def add_to_queue(tweet_text, source_url, article_title, q_type='auto'):
     """
-    Adds a newly generated tweet to the queue, scheduled to be posted
-    10 minutes from now.
+    Adds a tweet to the queue.
+    q_type='auto': 10-minute automatic wait (scheduled_for).
+    q_type='manual': 4-hour review pool (expires_at, no automatic posting).
     """
-    queue = _load_json(QUEUE_FILE)
+    queue = load_data(QUEUE_FILE)
     
-    # Calculate the exact time this should drop
-    post_time = datetime.now() + timedelta(minutes=10)
+    now = datetime.now()
     
-    new_item = {
-        "id": str(uuid.uuid4()),
+    # Calculate scheduling/expiration
+    if q_type == 'auto':
+        # 10 minutes from now
+        scheduled_for = (now + timedelta(minutes=10)).isoformat()
+        expires_at = (now + timedelta(hours=1)).isoformat() # Backup expiry
+    else:
+        # Manual review pool - expires in 4 hours
+        scheduled_for = None
+        expires_at = (now + timedelta(hours=4)).isoformat()
+
+    item = {
+        "id": str(uuid.uuid4())[:8],
         "tweet_text": tweet_text,
         "source_url": source_url,
         "article_title": article_title,
-        "created_at": datetime.now().isoformat(),
-        "scheduled_for": post_time.isoformat(),
+        "created_at": now.isoformat(),
+        "scheduled_for": scheduled_for,
+        "expires_at": expires_at,
+        "type": q_type,
         "status": "pending"
     }
     
-    queue.append(new_item)
-    _save_json(QUEUE_FILE, queue)
-    print(f"Added item to queue (ID: {new_item['id']}). Scheduled for {new_item['scheduled_for']}")
-    return new_item
+    queue.append(item)
+    save_data(QUEUE_FILE, queue)
+    return item
 
 def get_due_tweets():
-    """
-    Returns a list of tweets from the queue whose 'scheduled_for' time has passed
-    and which haven't been cancelled.
-    """
-    queue = _load_json(QUEUE_FILE)
-    due_tweets = []
-    
-    now = datetime.now()
-    for item in queue:
-        if item.get("status") == "pending":
-            scheduled_time = datetime.fromisoformat(item["scheduled_for"])
-            if now >= scheduled_time:
-                due_tweets.append(item)
-                
-    return due_tweets
+    """Returns only 'auto' tweets that have passed their scheduled_for time."""
+    queue = load_data(QUEUE_FILE)
+    now = datetime.now().isoformat()
+    return [i for i in queue if i.get('type') == 'auto' and i.get('scheduled_for') and i['scheduled_for'] <= now]
 
-def move_to_history(tweet_id, posted_tweet_url=None):
-    """
-    Called after a tweet is successfully posted. Removes it from the queue
-    and adds it to the history.json.
-    """
-    queue = _load_json(QUEUE_FILE)
-    history = _load_json(HISTORY_FILE)
+def remove_from_queue(tweet_id):
+    queue = load_data(QUEUE_FILE)
+    new_queue = [i for i in queue if i['id'] != tweet_id]
+    save_data(QUEUE_FILE, new_queue)
+    return len(queue) > len(new_queue)
+
+def move_to_history(tweet_id, posted_tweet_url):
+    queue = load_data(QUEUE_FILE)
+    history = load_data(HISTORY_FILE)
     
-    # Find the item in the queue
-    item_to_move = None
-    remaining_queue = []
+    tweet = next((i for i in queue if i['id'] == tweet_id), None)
+    if not tweet:
+        return False
+        
+    # Update tweet details
+    tweet['status'] = 'posted'
+    tweet['posted_at'] = datetime.now().isoformat()
+    tweet['posted_tweet_url'] = posted_tweet_url
     
-    for item in queue:
-        if item["id"] == tweet_id:
-            item_to_move = item
-        else:
-            remaining_queue.append(item)
-            
-    if item_to_move:
-        # Update status and save to history
-        item_to_move["status"] = "posted"
-        item_to_move["posted_at"] = datetime.now().isoformat()
-        if posted_tweet_url:
-            item_to_move["posted_tweet_url"] = posted_tweet_url
-            
-        history.insert(0, item_to_move) # Add to top of history
-        
-        # Keep history file from getting infinitely large (max 50)
-        history = history[:50]
-        
-        _save_json(QUEUE_FILE, remaining_queue)
-        _save_json(HISTORY_FILE, history)
-        print(f"Moved tweet {tweet_id} to history.")
+    # Add to beginning of history and keep last 50
+    history.insert(0, tweet)
+    history = history[:50]
+    
+    # Remove from queue
+    new_queue = [i for i in queue if i['id'] != tweet_id]
+    
+    save_data(QUEUE_FILE, new_queue)
+    save_data(HISTORY_FILE, history)
+    return True
+
+def cleanup_expired_items():
+    """Removes any items that have passed their expires_at time."""
+    queue = load_data(QUEUE_FILE)
+    now = datetime.now().isoformat()
+    
+    new_queue = [i for i in queue if i.get('expires_at', '') > now]
+    if len(new_queue) < len(queue):
+        print(f"Cleaned up {len(queue) - len(new_queue)} expired items.")
+        save_data(QUEUE_FILE, new_queue)
         return True
-    
-    print(f"Error: Tweet {tweet_id} not found in queue.")
     return False
-
-def cancel_tweet(tweet_id):
-    """
-    Called via the web dashboard. Removes a tweet from the queue so it is never posted.
-    """
-    queue = _load_json(QUEUE_FILE)
-    remaining_queue = []
-    found = False
-    
-    for item in queue:
-        if item["id"] == tweet_id:
-            found = True
-            print(f"Tweet {tweet_id} cancelled and removed from queue.")
-        else:
-            remaining_queue.append(item)
-            
-    if found:
-        _save_json(QUEUE_FILE, remaining_queue)
-        return True
-        
-    return False
-
-if __name__ == "__main__":
-    # Test queue management
-    print("Testing Queue Manager...")
-    test_item = add_to_queue("This is a test tweet!", "http://example.com/test", "Test News")
-    
-    # Check due (should be empty since it's scheduled 10 min from now)
-    due = get_due_tweets()
-    print(f"Due tweets right now: {len(due)} (Expected: 0)")
-    
-    # Cancel it to clean up
-    cancel_tweet(test_item['id'])
-    
-    print("Queue manager test complete.")

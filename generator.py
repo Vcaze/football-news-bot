@@ -10,8 +10,9 @@ try:
 except Exception:
     client = None
 
-# Minimum importance score (1-10) to queue a tweet. Below this = skipped.
-IMPORTANCE_THRESHOLD = 6
+# Thresholds for the dual-queue system
+AUTO_THRESHOLD = 8    # 8-10 = Automatic 10-min queue
+MANUAL_THRESHOLD = 6  # 6-7 = Manual review (4h window)
 
 SYSTEM_PROMPT = """
 You are the social media manager for @FootballNewsC1.
@@ -30,11 +31,10 @@ SCORING_PROMPT = """
 You are a football news editor. Rate the newsworthiness of the following football article on a scale of 1 to 10.
 
 Scoring guide:
-- 9-10: Major breaking news (confirmed transfer, manager sacked/appointed, Champions League/World Cup result, serious injury to star player)
-- 7-8: Significant news (big transfer rumour at a top club, important match result, key squad news)
-- 5-6: Average news (press conference quotes, minor injuries, squad depth reports)
-- 3-4: Minor news (youth team, minor club announcements)
-- 1-2: Not newsworthy (generic stats, recycled old news, unverified rumours)
+- 8-10: CRITICAL (Confirmed major transfers, manager sackings, huge match results, star player injuries)
+- 6-7: IMPORTANT (Solid transfer rumours, standard match results, key squad news)
+- 4-5: AVERAGE (Press conference quotes, minor injuries, training updates)
+- 1-3: MINOR/NONE (Youth team news, generic stats, unverified tier-3 rumours)
 
 Reply with ONLY a single integer from 1 to 10. Nothing else.
 """
@@ -54,7 +54,9 @@ def score_article(title, summary):
             temperature=0.1,
             max_tokens=5
         )
-        score = int(response.choices[0].message.content.strip())
+        score_text = response.choices[0].message.content.strip()
+        # Handle cases where AI might add a period or text
+        score = int(''.join(filter(str.isdigit, score_text)))
         return max(1, min(10, score))
     except Exception as e:
         print(f"Error scoring article: {e}")
