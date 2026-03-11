@@ -56,6 +56,18 @@
         </div>
     </div>
 
+    <!-- Custom Confirmation Modal (replaces browser confirm() popup) -->
+    <div id="confirm-modal" class="modal">
+        <div class="modal-content">
+            <h3 id="confirm-title">Are you sure?</h3>
+            <p id="confirm-message"></p>
+            <div class="modal-buttons">
+                <button id="confirm-yes-btn" class="btn primary">Yes, proceed</button>
+                <button id="confirm-no-btn" class="btn secondary">No, go back</button>
+            </div>
+        </div>
+    </div>
+
     <script src="app.js"></script>
 </body>
 </html>

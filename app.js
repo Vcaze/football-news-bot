@@ -5,40 +5,74 @@ const authModal = document.getElementById('auth-modal');
 const ghTokenInput = document.getElementById('gh-token-input');
 const saveTokenBtn = document.getElementById('save-token-btn');
 const closeModalBtn = document.getElementById('close-modal-btn');
+const confirmModal = document.getElementById('confirm-modal');
+const confirmTitle = document.getElementById('confirm-title');
+const confirmMessage = document.getElementById('confirm-message');
+const confirmYesBtn = document.getElementById('confirm-yes-btn');
+const confirmNoBtn = document.getElementById('confirm-no-btn');
 
-// Replace this with your actual GitHub username and repository name once hosted!
 const GITHUB_OWNER = 'Vcaze';
 const GITHUB_REPO = 'football-news-bot';
 
 let queueData = [];
 let historyData = [];
 
-// Load data immediately and then every 30 seconds
-async function loadData() {
-    try {
-        // Fetch bypasses cache to get fresh data
-        const qRes = await fetch('queue.json?t=' + Date.now());
-        if (qRes.ok) {
-            queueData = await qRes.json();
-            renderQueue();
+// ── Custom in-page confirm (returns a Promise<boolean>) ──────────────────────
+function showConfirm(title, message, yesBtnLabel = 'Yes, proceed', yesBtnClass = 'primary') {
+    return new Promise(resolve => {
+        confirmTitle.textContent = title;
+        confirmMessage.textContent = message;
+        confirmYesBtn.textContent = yesBtnLabel;
+        confirmYesBtn.className = `btn ${yesBtnClass}`;
+        confirmModal.classList.add('active');
+
+        const yes = () => { cleanup(); resolve(true); };
+        const no  = () => { cleanup(); resolve(false); };
+
+        function cleanup() {
+            confirmModal.classList.remove('active');
+            confirmYesBtn.removeEventListener('click', yes);
+            confirmNoBtn.removeEventListener('click', no);
         }
 
+        confirmYesBtn.addEventListener('click', yes);
+        confirmNoBtn.addEventListener('click', no);
+    });
+}
+
+// ── Toast notification (replaces alert()) ────────────────────────────────────
+function showToast(message, type = 'info') {
+    const toast = document.createElement('div');
+    toast.className = `toast toast-${type}`;
+    toast.textContent = message;
+    document.body.appendChild(toast);
+    setTimeout(() => toast.classList.add('visible'), 10);
+    setTimeout(() => {
+        toast.classList.remove('visible');
+        setTimeout(() => toast.remove(), 400);
+    }, 4000);
+}
+
+// ── Data Loading ─────────────────────────────────────────────────────────────
+async function loadData() {
+    try {
+        const qRes = await fetch('queue.json?t=' + Date.now());
+        if (qRes.ok) { queueData = await qRes.json(); renderQueue(); }
+
         const hRes = await fetch('history.json?t=' + Date.now());
-        if (hRes.ok) {
-            historyData = await hRes.json();
-            renderHistory();
-        }
+        if (hRes.ok) { historyData = await hRes.json(); renderHistory(); }
     } catch (e) {
-        console.error("Error loading data", e);
+        console.error('Error loading data', e);
     }
 }
 
+// ── Render Queue ─────────────────────────────────────────────────────────────
 function renderQueue() {
     queueContainer.innerHTML = '';
     queueCount.textContent = queueData.length;
 
     if (queueData.length === 0) {
-        queueContainer.innerHTML = '<div class="tweet-card" style="text-align:center; color: var(--text-muted)">No tweets currently pending.</div>';
+        queueContainer.innerHTML = '<div class="tweet-card empty-state">No tweets currently pending.</div>';
         return;
     }
 
@@ -47,16 +81,16 @@ function renderQueue() {
         el.className = 'tweet-card';
         el.innerHTML = `
             <div class="tweet-meta">
-                <span>Created: ${new Date(item.created_at).toLocaleTimeString()}</span>
-                <span>Source: ${item.article_title}</span>
+                <span>Queued: ${new Date(item.created_at).toLocaleTimeString()}</span>
             </div>
+            <div class="tweet-source-title">${item.article_title}</div>
             <div class="tweet-text">${item.tweet_text}</div>
             <a href="${item.source_url}" target="_blank" class="source-link">Read Original Article ↗</a>
             <div style="margin-top: 1rem;" class="tweet-actions">
                 <span class="countdown" id="cd-${item.id}">Calculating...</span>
                 <div class="action-buttons">
-                    <button class="btn publish" onclick="attemptPublishNow('${item.id}')">Publish Now</button>
-                    <button class="btn danger" onclick="attemptCancel('${item.id}')">Cancel</button>
+                    <button class="btn publish" onclick="attemptPublishNow('${item.id}')">⚡ Publish Now</button>
+                    <button class="btn danger" onclick="attemptCancel('${item.id}')">✕ Cancel</button>
                 </div>
             </div>
         `;
@@ -64,15 +98,16 @@ function renderQueue() {
     });
 }
 
+// ── Render History ────────────────────────────────────────────────────────────
 function renderHistory() {
     historyContainer.innerHTML = '';
 
     if (historyData.length === 0) {
-        historyContainer.innerHTML = '<div class="tweet-card" style="text-align:center; color: var(--text-muted)">No history yet.</div>';
+        historyContainer.innerHTML = '<div class="tweet-card empty-state">No history yet.</div>';
         return;
     }
 
-    historyData.slice(0, 10).forEach(item => { // Show last 10
+    historyData.slice(0, 15).forEach(item => {
         const el = document.createElement('div');
         el.className = 'tweet-card posted';
         el.innerHTML = `
@@ -86,131 +121,118 @@ function renderHistory() {
     });
 }
 
-// Countdown Timer Logic
+// ── Countdown Timers ──────────────────────────────────────────────────────────
 setInterval(() => {
     queueData.forEach(item => {
         const el = document.getElementById(`cd-${item.id}`);
         if (!el) return;
-
-        const scheduledTime = new Date(item.scheduled_for).getTime();
-        const now = new Date().getTime();
-        const diff = scheduledTime - now;
-
+        const diff = new Date(item.scheduled_for).getTime() - Date.now();
         if (diff <= 0) {
-            el.textContent = "Processing now...";
-            el.style.color = "var(--success)";
+            el.textContent = 'Posting soon...';
+            el.style.color = 'var(--success)';
         } else {
-            const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((diff % (1000 * 60)) / 1000);
-            el.textContent = `Posts in: ${minutes}m ${seconds}s`;
+            const m = Math.floor(diff / 60000);
+            const s = Math.floor((diff % 60000) / 1000);
+            el.textContent = `Posts in: ${m}m ${s}s`;
         }
     });
 }, 1000);
 
-// --- PUBLISH NOW LOGIC ---
-
-function attemptPublishNow(tweetId) {
-    const token = localStorage.getItem('gh_token');
-    if (!token) {
-        authModal.classList.add('active');
-        authModal.dataset.pendingPublishId = tweetId;
-        return;
-    }
-    triggerPublishNowWorkflow(tweetId, token);
+// ── Auth helper ───────────────────────────────────────────────────────────────
+function getToken() {
+    return localStorage.getItem('gh_token');
 }
 
-async function triggerPublishNowWorkflow(tweetId, token) {
-    if (!confirm("Post this tweet to X right now, skipping the 10-minute window?")) return;
-
-    try {
-        const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/vnd.github.v3+json',
-                'Authorization': `token ${token}`
-            },
-            body: JSON.stringify({
-                event_type: 'publish-now',
-                client_payload: { tweet_id: tweetId }
-            })
-        });
-
-        if (response.ok) {
-            alert("✅ Publish request sent! The tweet will be posted within a few seconds.");
-            // Optimistically remove from UI
-            queueData = queueData.filter(i => i.id !== tweetId);
-            renderQueue();
-        } else {
-            alert("Failed to publish. Check token permissions.");
-            localStorage.removeItem('gh_token');
-        }
-    } catch (e) {
-        alert("Network error occurred.");
-    }
+function requestToken(onSuccess) {
+    authModal.classList.add('active');
+    authModal.dataset.onSuccess = onSuccess;
 }
 
-// --- CANCELLATION LOGIC ---
+// ── GitHub API trigger ────────────────────────────────────────────────────────
+async function triggerDispatch(eventType, payload, token) {
+    const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`, {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/vnd.github.v3+json',
+            'Authorization': `token ${token}`
+        },
+        body: JSON.stringify({ event_type: eventType, client_payload: payload })
+    });
+    return response.ok;
+}
 
-function attemptCancel(tweetId) {
-    const token = localStorage.getItem('gh_token');
+// ── Publish Now ───────────────────────────────────────────────────────────────
+async function attemptPublishNow(tweetId) {
+    const confirmed = await showConfirm(
+        'Publish Now?',
+        'Post this tweet to X immediately, skipping the 10-minute window?',
+        '⚡ Yes, post it now',
+        'publish'
+    );
+    if (!confirmed) return;
+
+    let token = getToken();
     if (!token) {
         authModal.classList.add('active');
-        // Store the ID we were trying to cancel
-        authModal.dataset.pendingCancelId = tweetId;
+        authModal.dataset.pendingAction = JSON.stringify({ type: 'publish', id: tweetId });
         return;
     }
 
-    triggerCancelWorkflow(tweetId, token);
-}
-
-async function triggerCancelWorkflow(tweetId, token) {
-    if (!confirm("Are you sure you want to cancel this tweet? It will be removed from the queue permanently.")) return;
-
-    try {
-        const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/vnd.github.v3+json',
-                'Authorization': `token ${token}`
-            },
-            body: JSON.stringify({
-                event_type: 'cancel-tweet',
-                client_payload: { tweet_id: tweetId }
-            })
-        });
-
-        if (response.ok) {
-            alert("Cancellation request sent! The queue will update shortly.");
-            // Optimistically remove from UI
-            queueData = queueData.filter(i => i.id !== tweetId);
-            renderQueue();
-        } else {
-            console.error(await response.text());
-            alert("Failed to cancel. Check console or token permissions.");
-            localStorage.removeItem('gh_token'); // Might be invalid
-        }
-    } catch (e) {
-        alert("Network error occurred.");
+    const ok = await triggerDispatch('publish-now', { tweet_id: tweetId }, token);
+    if (ok) {
+        showToast('✅ Publish request sent! Tweet will appear on X shortly.', 'success');
+        queueData = queueData.filter(i => i.id !== tweetId);
+        renderQueue();
+    } else {
+        showToast('❌ Failed to publish. Check your GitHub token permissions.', 'error');
+        localStorage.removeItem('gh_token');
     }
 }
 
-// Modal Handlers
-saveTokenBtn.addEventListener('click', () => {
+// ── Cancel Tweet ──────────────────────────────────────────────────────────────
+async function attemptCancel(tweetId) {
+    const confirmed = await showConfirm(
+        'Cancel Tweet?',
+        'Remove this tweet from the queue permanently. It will not be posted.',
+        '✕ Yes, cancel it',
+        'danger'
+    );
+    if (!confirmed) return;
+
+    let token = getToken();
+    if (!token) {
+        authModal.classList.add('active');
+        authModal.dataset.pendingAction = JSON.stringify({ type: 'cancel', id: tweetId });
+        return;
+    }
+
+    const ok = await triggerDispatch('cancel-tweet', { tweet_id: tweetId }, token);
+    if (ok) {
+        showToast('🗑 Tweet cancelled and removed from queue.', 'success');
+        queueData = queueData.filter(i => i.id !== tweetId);
+        renderQueue();
+    } else {
+        showToast('❌ Failed to cancel. Check your GitHub token permissions.', 'error');
+        localStorage.removeItem('gh_token');
+    }
+}
+
+// ── Auth Modal Handlers ───────────────────────────────────────────────────────
+saveTokenBtn.addEventListener('click', async () => {
     const token = ghTokenInput.value.trim();
-    if (token) {
-        localStorage.setItem('gh_token', token);
-        authModal.classList.remove('active');
+    if (!token) return;
 
-        // Resume pending action if we were interrupted
-        const pendingCancelId = authModal.dataset.pendingCancelId;
-        const pendingPublishId = authModal.dataset.pendingPublishId;
-        if (pendingCancelId) {
-            triggerCancelWorkflow(pendingCancelId, token);
-            delete authModal.dataset.pendingCancelId;
-        } else if (pendingPublishId) {
-            triggerPublishNowWorkflow(pendingPublishId, token);
-            delete authModal.dataset.pendingPublishId;
-        }
+    localStorage.setItem('gh_token', token);
+    authModal.classList.remove('active');
+    ghTokenInput.value = '';
+
+    // Resume pending action if any
+    const pendingRaw = authModal.dataset.pendingAction;
+    if (pendingRaw) {
+        delete authModal.dataset.pendingAction;
+        const pending = JSON.parse(pendingRaw);
+        if (pending.type === 'publish') await attemptPublishNow(pending.id);
+        else if (pending.type === 'cancel') await attemptCancel(pending.id);
     }
 });
 
@@ -218,6 +240,6 @@ closeModalBtn.addEventListener('click', () => {
     authModal.classList.remove('active');
 });
 
-// Initial Load
+// ── Init ──────────────────────────────────────────────────────────────────────
 loadData();
-setInterval(loadData, 30000); // refresh json every 30s
+setInterval(loadData, 30000);
