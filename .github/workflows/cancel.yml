@@ -46,4 +46,4 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add queue.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: cancelled tweet" && git push)
+          git diff --staged --quiet || git commit -m "bot: cancelled tweet" && git push || true
