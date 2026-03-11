@@ -2,7 +2,7 @@ name: Generator - Fetch News and Queue Tweet
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour at minute 0
+    - cron: '0 6-22 * * *' # Every hour from 06:00-22:00 UTC (= 08:00-00:00 CEST)
   workflow_dispatch: # Allow manual triggering
 
 jobs:
