@@ -8,7 +8,12 @@ from datetime import datetime
 FEEDS = [
     "https://www.skysports.com/rss/12040", # Sky Sports Football
     "http://feeds.bbci.co.uk/sport/football/rss.xml", # BBC Sport Football
-    "https://www.theguardian.com/football/rss" # Guardian Football
+    "https://www.theguardian.com/football/rss", # Guardian Football
+    "https://www.mirror.co.uk/sport/football/?service=rss", # Mirror Football
+    # "https://www.manchestereveningnews.co.uk/sport/football/?service=rss", # MEN Football
+    "https://www.espn.com/espn/rss/soccer/news", # ESPN FC
+    "https://talksport.com/football/feed/", # TalkSport
+    "https://www.dailymail.co.uk/sport/football/index.rss" # Daily Mail
 ]
 
 def get_history():
@@ -66,7 +71,8 @@ def is_live_report(title, summary, url):
     url_lower = url.lower()
     
     # Specific patterns for live blogs/reports
-    live_patterns = ['– live', 'live –', 'live coverage', 'match report']
+    live_patterns = ['– live', 'live –', '- live', 'live -', 'live:', 'live coverage', 'match report', 'match-report']
+    url_live_patterns = ['/live/', '/live-blog/', '/match-report/']
     
     # Check Title
     for pattern in live_patterns:
@@ -74,11 +80,41 @@ def is_live_report(title, summary, url):
             print(f"Skipping live report article: {title} (Pattern: {pattern})")
             return True
             
-    # Check URL for /live/ (common in Guardian/BBC)
-    if "/live/" in url_lower:
-        print(f"Skipping live report article: {title} (URL contains /live/)")
-        return True
+    # Check URL for live patterns
+    for pattern in url_live_patterns:
+        if pattern in url_lower:
+            print(f"Skipping live report article: {title} (URL contains {pattern})")
+            return True
         
+    return False
+
+def is_other_sport(title, summary, url):
+    """
+    Check if an article is about other sports (Golf, Tennis, F1, etc.)
+    that might be mixed in general sports feeds.
+    """
+    other_sport_keywords = [
+        'golf', 'tennis', 'f1', 'formula 1', 'cricket', 'rugby', 
+        'boxing', 'mma', 'ufc', 'basketball', 'nba', 'baseball', 
+        'horse racing', 'racing', 'snooker', 'darts', 'athletics', 'cycling'
+    ]
+    
+    text_to_check = (title + " " + summary).lower()
+    url_lower = url.lower()
+
+    # Check for other sports in URL path
+    for sport in other_sport_keywords:
+        if f"/{sport}/" in url_lower:
+             print(f"Skipping {sport} article: {title} (Found {sport} in URL)")
+             return True
+
+    for kw in other_sport_keywords:
+        if kw in text_to_check:
+            # Basic check to avoid false positives (e.g. "Boxing Day" or "Tennis balls" used as metaphor)
+            # This is a bit aggressive but safer for a niche bot.
+            print(f"Skipping potential other sport article: {title} (Keyword: {kw})")
+            return True
+            
     return False
 
 def is_article_processed(article_url, article_title):
@@ -137,6 +173,10 @@ def fetch_latest_news(max_articles=3):
             # Skip if it's a live match report
             if is_live_report(title, summary, url):
                 continue
+
+            # Skip if it's other sports (Golf, Tennis, etc.)
+            if is_other_sport(title, summary, url):
+                continue
             
             # Clean up empty summaries if needed
             if not summary or len(summary) < 5:
@@ -161,7 +201,7 @@ def fetch_latest_news(max_articles=3):
 if __name__ == "__main__":
     # Test fetch functionality
     print("Testing fetcher...")
-    articles = fetch_latest_news()
+    articles = fetch_latest_news(max_articles=5)
     for idx, a in enumerate(articles):
         print(f"\nArticle {idx+1}:")
         print(f"Title: {a['title']}")
