@@ -4,3 +4,4 @@ tweepy
 python-dotenv
 requests
 pytz
+PyGithub
