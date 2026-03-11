@@ -31,19 +31,29 @@ def get_queue():
     except json.JSONDecodeError:
         return []
 
-def is_article_processed(article_url):
-    """Check if an article exists in either the history or the current queue."""
+def is_article_processed(article_url, article_title):
+    """
+    Check if an article exists in either the history or the current queue.
+    Checks both URL (exact match) and Title (to prevent same news from different sites).
+    """
     history = get_history()
     queue = get_queue()
+    
+    # Normalize title for comparison (lowercase and strip)
+    target_title = article_title.lower().strip()
     
     # Check history
     for item in history:
         if item.get('source_url') == article_url:
             return True
+        if item.get('article_title', '').lower().strip() == target_title:
+            return True
             
     # Check queue
     for item in queue:
         if item.get('source_url') == article_url:
+            return True
+        if item.get('article_title', '').lower().strip() == target_title:
             return True
             
     return False
@@ -64,8 +74,8 @@ def fetch_latest_news(max_articles=3):
         for entry in feed.entries[:5]:
             url = entry.link
             
-            # Skip if we already tweeted about this exactly
-            if is_article_processed(url):
+            # Skip if we already tweeted about this exactly (URL or similar Title)
+            if is_article_processed(url, entry.title):
                 continue
                 
             title = entry.title
