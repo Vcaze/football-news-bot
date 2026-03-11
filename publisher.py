@@ -36,26 +36,30 @@ def post_tweet(text, link):
     """
     client = get_twitter_client()
     
-    # Combine text and link, ensuring a newline separation
+    # Combine text and link
     final_tweet_text = f"{text}\n\n{link}"
     
     if client is None:
-        print("[DRY RUN / ERROR] Would have posted to Twitter:")
-        print(f"{'-'*30}")
-        print(final_tweet_text)
-        print(f"{'-'*30}")
-        return "fake_tweet_id_for_testing"
+        print("ERROR: Cannot post tweet because Twitter client is not authenticated (keys missing or invalid).")
+        return None
 
     try:
+        # Posting to X
+        print(f"Attempting to post tweet: {final_tweet_text[:50]}...")
         response = client.create_tweet(text=final_tweet_text)
+        
+        if not response or not response.data:
+            print(f"Failed to post: No data returned in response. Response: {response}")
+            return None
+            
         tweet_id = response.data['id']
         print(f"Successfully posted tweet! ID: {tweet_id}")
         
-        # Construct the URL for the user to click
-        tweet_url = f"https://twitter.com/user/status/{tweet_id}"
+        # Construct the URL
+        tweet_url = f"https://twitter.com/anyuser/status/{tweet_id}"
         return tweet_url
     except Exception as e:
-        print(f"Failed to post tweet: {e}")
+        print(f"Failed to post tweet due to exception: {e}")
         return None
 
 if __name__ == "__main__":

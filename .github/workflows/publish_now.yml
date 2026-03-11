@@ -71,7 +71,8 @@ jobs:
 
               print(f"Successfully posted tweet: {tweet_url}")
           else:
-              print("Failed to post tweet.")
+              print("ERROR: Failed to post tweet. Check logs for details.")
+              sys.exit(1)
           EOF
           python publish_now_script.py
 
