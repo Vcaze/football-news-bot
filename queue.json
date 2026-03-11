@@ -1,50 +1,5 @@
 [
     {
-        "id": "1ead94f9-963e-43a7-a74a-10fc09f58dee",
-        "tweet_text": "\ud83d\udd25 Big shocker in the Champions League! Igor Tudor's bold move to start Kinsky over Vicario backfires as Spurs face a crushing 5-2 defeat to Atletico! What a game! \ud83d\ude31 #ChampionsLeague #Tottenham",
-        "source_url": "https://www.skysports.com/football/atletico-madrid-vs-tottenham-hotspur/report/554846",
-        "article_title": "Tudor under huge scrutiny as Kinsky horror show ends with sub and snub",
-        "created_at": "2026-03-11T01:48:02.477335",
-        "scheduled_for": "2026-03-11T01:58:02.477309",
-        "status": "pending"
-    },
-    {
-        "id": "393cdad3-266f-42bb-99fb-1649d2f48838",
-        "tweet_text": "Tottenham in turmoil! \u26bd\ufe0f Igor Tudor struggles to find his footing, becoming the first Spurs coach to lose his first four matches! What's next for the club? \ud83d\udd25 #Tottenham #PremierLeague",
-        "source_url": "https://www.skysports.com/football/news/12040/13517874/igor-tudor-unable-to-defend-position-at-tottenham-amid-antonin-kinsky-criticism-and-record-breaking-successive-defeat",
-        "article_title": "Spurs 'fragile' and 'weak' and Tudor can't even say he deserves to stick around",
-        "created_at": "2026-03-11T02:06:53.045133",
-        "scheduled_for": "2026-03-11T02:16:53.045084",
-        "status": "pending"
-    },
-    {
-        "id": "aad4462f-26be-401a-8e64-beb32dc71d9f",
-        "tweet_text": "What a dramatic finish! \ud83c\udf89 Lamine Yamal's last-minute penalty snatched a draw for Barcelona at Newcastle! Can they build on this momentum? \u26bd\ufe0f #LaLiga #FootballNews",
-        "source_url": "https://www.skysports.com/football/newcastle-united-vs-barcelona/report/554848",
-        "article_title": "Yamal penalty with last kick of game rescues Barcelona draw at Newcastle",
-        "created_at": "2026-03-11T02:06:57.582195",
-        "scheduled_for": "2026-03-11T02:16:57.582169",
-        "status": "pending"
-    },
-    {
-        "id": "f643874d-7fe7-4d0d-a7a1-ab0f1dd2616b",
-        "tweet_text": "\ud83d\udea8 Is Tudor's time at Spurs already nearing its end? After a tough loss to Atletico Madrid, questions are swirling! \ud83d\udd25 What\u2019s next for the North London club? #Tottenham #ChampionsLeague",
-        "source_url": "https://www.bbc.com/sport/football/articles/cy4w53719k7o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Is Tudor's Spurs reign almost up after only four games?",
-        "created_at": "2026-03-11T02:07:02.070028",
-        "scheduled_for": "2026-03-11T02:17:02.070003",
-        "status": "pending"
-    },
-    {
-        "id": "1d2845ef-989f-4fee-835d-174673a09365",
-        "tweet_text": "Heartbreak for Newcastle \u26bd\ud83d\udc94 After a valiant effort, a late penalty from Lamine Yamal leaves them with a mountain to climb in the second leg! Can they turn it around? #UCL #NUFC",
-        "source_url": "https://www.bbc.com/sport/football/articles/cvg37lqdy46o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Sense of missed opportunity for Newcastle after late Barca blow",
-        "created_at": "2026-03-11T02:07:12.165854",
-        "scheduled_for": "2026-03-11T02:17:12.165828",
-        "status": "pending"
-    },
-    {
         "id": "22fda0a6",
         "tweet_text": "\ud83d\udea8 Big news! Arsenal is eyeing Julian Brandt for a free transfer! \ud83d\udd25 Plus, Newcastle's Tonali is still in demand! What a transfer window this is shaping up to be! #TransferNews #Arsenal",
         "source_url": "https://www.bbc.com/sport/football/articles/c4geyndly41o?at_medium=RSS&at_campaign=rss",
@@ -53,28 +8,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-11T07:05:48.132898",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "ffdb5577",
-        "tweet_text": "\ud83c\udff4\u200d\u2620\ufe0f Big news! Kyle Walker hangs up his international boots after an incredible career with England. Thank you for the memories, Kyle! \ud83c\uddec\ud83c\udde7 #Football #ThreeLions",
-        "source_url": "https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&at_campaign=rss",
-        "article_title": "England's Walker retires from international football",
-        "created_at": "2026-03-11T03:05:49.886197",
-        "scheduled_for": "2026-03-11T03:15:49.886197",
-        "expires_at": "2026-03-11T04:05:49.886197",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "5fc49db9",
-        "tweet_text": "Tottenham's nightmare continues! \ud83d\ude31 A disastrous start leads to a humiliating 5-2 defeat against Atl\u00e9tico Madrid. Can they bounce back? #Spursy #ChampionsLeague \u26bd\ufe0f",
-        "source_url": "https://www.theguardian.com/football/2026/mar/10/humiliation-for-kinsky-as-tottenham-are-thrashed-by-atletico-madrid",
-        "article_title": "Humiliation for Kinsky as Tottenham crumble early in thrashing by Atl\u00e9tico Madrid",
-        "created_at": "2026-03-11T03:05:52.422335",
-        "scheduled_for": "2026-03-11T03:15:52.422335",
-        "expires_at": "2026-03-11T04:05:52.422335",
-        "type": "auto",
         "status": "pending"
     },
     {
