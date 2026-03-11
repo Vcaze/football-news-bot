@@ -1,38 +1,5 @@
 [
     {
-        "id": "248cb37b",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS! The Hundred Auction is LIVE! \ud83c\udf1f Overseas stars Devine and Mooney have been sold for a staggering \u00a3210k! \ud83d\udcb0 Who else will make waves today? #CricketAuction #SportsNews",
-        "source_url": "https://www.skysports.com/cricket/live-blog/12040/13517800/the-hundred-auction-2026-live-stream-and-updates-as-teams-add-to-squads-for-100-ball-competition",
-        "article_title": "The Hundred Auction LIVE! Overseas stars Devine and Mooney sell for \u00a3210k",
-        "created_at": "2026-03-11T11:28:16.246010",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T15:28:16.246010",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "01d61d43",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS! Aberdeen are keen on St Mirren's boss Stephen Robinson! \ud83e\udd14 Will he make the switch? Stay tuned! #ScottishPremiership #ManagerNews",
-        "source_url": "https://www.bbc.com/sport/football/articles/c3ewkn83l5yo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Aberdeen given permission to talk to St Mirren boss Robinson",
-        "created_at": "2026-03-11T11:28:20.472968",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T15:28:20.472968",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "5ca1a436",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS in European football! Clubs are pushing for a radical revenue redistribution model to level the playing field in the Champions League! \u26bd\ufe0f\ud83d\udcb0 #Football #ChampionsLeague",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/clubs-propose-revenue-redistribution-predictable-champions-league-union-of-european-clubs",
-        "article_title": "Clubs propose radical redistribution of riches to avoid \u2018predictable\u2019 Champions League",
-        "created_at": "2026-03-11T11:28:22.677850",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T15:28:22.677850",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "97f95f58",
         "tweet_text": "\ud83d\udea8 HUGE NEWS! Harvey Barnes believes Newcastle can outplay Barcelona at Camp Nou after their first-leg showdown! Confidence is sky-high! \ud83d\udcaa\u26bd\ufe0f #ChampionsLeague #NewcastleUnited",
         "source_url": "https://www.theguardian.com/football/2026/mar/11/harvey-barnes-newcastle-barcelona-camp-nou-champions-league",
@@ -52,17 +19,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-11T19:41:12.714429",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "16a9c96f",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Iran\u2019s sports minister confirms the national football team will NOT participate in the 2026 World Cup! \ud83d\ude31 What a shocking turn of events! #Football #WorldCup2026",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino",
-        "article_title": "Iran\u2019s sports minister says football team will not play at 2026 World Cup",
-        "created_at": "2026-03-11T15:41:15.776355",
-        "scheduled_for": "2026-03-11T15:51:15.776355",
-        "expires_at": "2026-03-11T16:41:15.776355",
-        "type": "auto",
         "status": "pending"
     }
 ]
