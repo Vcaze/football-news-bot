@@ -39,7 +39,13 @@ Scoring guide:
 - 8-10: CRITICAL (Confirmed major transfers, manager sackings, huge match results, star player injuries)
 - 6-7: IMPORTANT (Solid transfer rumours, standard match results, key squad news)
 - 4-5: AVERAGE (Press conference quotes, minor injuries, training updates)
-- 1-3: MINOR/NONE (Youth team news, generic stats, unverified tier-3 rumours)
+- 1-3: MINOR/NONE (Youth team news, generic stats, unverified tier-3 rumours, OR non-soccer sports)
+
+CRITICAL RULES:
+1. If the article is about American Football (NFL), Rugby, or any other sport that is NOT Association Football (Soccer), you MUST give it a score of 1.
+2. If the article is a "Live" report, match preview, or rolling coverage of a game, give it a maximum score of 3.
+3. If it is a generic "Transfer Gossip" or roundup without a confirmed major move, give it a maximum score of 5.
+4. ONLY give 8-10 for TRULY "Breaking News" (e.g., "Official: Mbappe signs", "Klopp sacked").
 
 Reply with ONLY a single integer from 1 to 10. Nothing else.
 """

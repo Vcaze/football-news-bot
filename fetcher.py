@@ -31,6 +31,56 @@ def get_queue():
     except json.JSONDecodeError:
         return []
 
+def is_american_football(title, summary, url):
+    """
+    Check if an article is about American Football (NFL) rather than Soccer.
+    """
+    # NFL specific keywords
+    nfl_keywords = [
+        'nfl', 'super bowl', 'quarterback', 'touchdown', 'ravens', 
+        'chiefs', '49ers', 'packers', 'cowboys', 'nfl draft',
+        'nfc', 'afc', 'gridiron', 'linebacker'
+    ]
+    
+    text_to_check = (title + " " + summary).lower()
+    
+    # Check URL for /nfl/
+    if "/nfl/" in url.lower():
+        return True
+        
+    for kw in nfl_keywords:
+        if kw in text_to_check:
+            # Check for false positives like "Ravens" (could be a soccer team, but rare in these feeds)
+            # For now, we assume these keywords strongly indicate NFL in these specific feeds.
+            print(f"Skipping potential American Football article: {title} (Keyword: {kw})")
+            return True
+            
+    return False
+
+def is_live_report(title, summary, url):
+    """
+    Check if an article is a live match report or rolling coverage.
+    These are often noisy and shouldn't be tweeted as 'Breaking News'.
+    """
+    title_lower = title.lower()
+    url_lower = url.lower()
+    
+    # Specific patterns for live blogs/reports
+    live_patterns = ['– live', 'live –', 'live coverage', 'match report']
+    
+    # Check Title
+    for pattern in live_patterns:
+        if pattern in title_lower:
+            print(f"Skipping live report article: {title} (Pattern: {pattern})")
+            return True
+            
+    # Check URL for /live/ (common in Guardian/BBC)
+    if "/live/" in url_lower:
+        print(f"Skipping live report article: {title} (URL contains /live/)")
+        return True
+        
+    return False
+
 def is_article_processed(article_url, article_title):
     """
     Check if an article exists in either the history or the current queue.
@@ -78,9 +128,15 @@ def fetch_latest_news(max_articles=3):
             if is_article_processed(url, entry.title):
                 continue
                 
+            # Skip if it's American Football
             title = entry.title
-            # Some feeds put the summary in 'summary', others in 'description'
             summary = entry.get('summary', '')
+            if is_american_football(title, summary, url):
+                continue
+
+            # Skip if it's a live match report
+            if is_live_report(title, summary, url):
+                continue
             
             # Clean up empty summaries if needed
             if not summary or len(summary) < 5:
