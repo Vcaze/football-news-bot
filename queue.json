@@ -20,5 +20,38 @@
         "expires_at": "2026-03-12T00:49:09.236542",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "30f2cf6c",
+        "tweet_text": "Cristiano Ronaldo is pulling out all the stops for his last World Cup! \ud83c\udfc6\ud83d\udcaa Will his unusual treatment get him fit in time? The excitement is REAL! #WorldCup2026 #Ronaldo",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-world-cup-injury-36853376",
+        "article_title": "Cristiano Ronaldo turns to unusual treatment in race to be fit for World Cup",
+        "created_at": "2026-03-11T21:26:26.239320",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T01:26:26.239320",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "b96a70b5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Orlando City has parted ways with head coach Oscar Pareja after 6 seasons! What\u2019s next for the Lions? \ud83e\udd81\u26bd\ufe0f #MLS #CoachingChange",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48175112/oscar-pareja-orlando-city-coach-mls",
+        "article_title": "Pareja out as Orlando City coach after 6 seasons",
+        "created_at": "2026-03-11T21:26:39.520098",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T01:26:39.520098",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "cf2cb7a9",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Igor Tudor is facing a player revolt at Tottenham! \ud83e\udd75\ud83d\udc40 Will a club legend step in as his replacement? This is getting spicy! \ud83d\udd25 #Tottenham #FootballNews",
+        "source_url": "https://talksport.com/football/4044626/igor-tudor-tottenham-hotspur-next-manager-robbie-keane/",
+        "article_title": "Igor Tudor faces Tottenham player revolt as replacements, including club legend, eyed for job",
+        "created_at": "2026-03-11T21:26:41.238193",
+        "scheduled_for": "2026-03-11T21:36:41.238193",
+        "expires_at": "2026-03-11T22:26:41.238193",
+        "type": "auto",
+        "status": "pending"
     }
 ]
