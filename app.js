@@ -20,50 +20,25 @@ const GITHUB_REPO = 'football-news-bot';
 
 let queueData = [];
 let historyData = [];
+let recentlyCancelled = new Set(); // To prevent "flickering" back after cancel
 
 // ── Custom in-page confirm (returns a Promise<boolean>) ──────────────────────
-function showConfirm(title, message, yesBtnLabel = 'Yes, proceed', yesBtnClass = 'primary') {
-    return new Promise(resolve => {
-        confirmTitle.textContent = title;
-        confirmMessage.textContent = message;
-        confirmYesBtn.textContent = yesBtnLabel;
-        confirmYesBtn.className = `btn ${yesBtnClass}`;
-        confirmModal.classList.add('active');
-
-        const yes = () => { cleanup(); resolve(true); };
-        const no = () => { cleanup(); resolve(false); };
-
-        function cleanup() {
-            confirmModal.classList.remove('active');
-            confirmYesBtn.removeEventListener('click', yes);
-            confirmNoBtn.removeEventListener('click', no);
-        }
-
-        confirmYesBtn.addEventListener('click', yes);
-        confirmNoBtn.addEventListener('click', no);
-    });
-}
-
-// ── Toast notification ───────────────────────────────────────────────────────
-function showToast(message, type = 'info') {
-    const toast = document.createElement('div');
-    toast.className = `toast toast-${type}`;
-    toast.textContent = message;
-    document.body.appendChild(toast);
-    setTimeout(() => toast.classList.add('visible'), 10);
-    setTimeout(() => {
-        toast.classList.remove('visible');
-        setTimeout(() => toast.remove(), 400);
-    }, 4000);
-}
+// ... (omitted same lines) ...
 
 // ── Data Loading ─────────────────────────────────────────────────────────────
 async function loadData() {
     try {
-        const qRes = await fetch('queue.json?t=' + Date.now());
-        if (qRes.ok) { queueData = await qRes.json(); renderQueues(); }
+        // Use cache-busting timestamp plus random to be sure
+        const buster = Date.now() + Math.random();
+        const qRes = await fetch(`queue.json?t=${buster}`);
+        if (qRes.ok) { 
+            let data = await qRes.json();
+            // Filter out items we just cancelled to prevent them coming back while Actions run
+            queueData = data.filter(item => !recentlyCancelled.has(item.id));
+            renderQueues(); 
+        }
 
-        const hRes = await fetch('history.json?t=' + Date.now());
+        const hRes = await fetch(`history.json?t=${buster}`);
         if (hRes.ok) { historyData = await hRes.json(); renderHistory(); }
     } catch (e) {
         console.error('Error loading data', e);
@@ -213,9 +188,10 @@ async function attemptPublishNow(tweetId) {
 
 async function attemptCancel(tweetId) {
     const item = queueData.find(i => i.id === tweetId);
+    // If it's a 'manual' type, we skip confirmation. 
+    // Anything else (auto or legacy) gets a confirmation.
     const isManual = item && item.type === 'manual';
 
-    // Only show confirm if it's an 'auto' tweet (to prevent accidents)
     if (!isManual) {
         const confirmed = await showConfirm(
             'Cancel Tweet?',
@@ -233,6 +209,10 @@ async function attemptCancel(tweetId) {
         return;
     }
 
+    // Add to local 'ignore' list immediately so it doesn't flicker back
+    recentlyCancelled.add(tweetId);
+    setTimeout(() => recentlyCancelled.delete(tweetId), 120000); // Clear after 2 mins
+
     const ok = await triggerDispatch('cancel-tweet', { tweet_id: tweetId }, token);
     if (ok) {
         showToast('🗑 Tweet removed.', 'success');
@@ -240,6 +220,7 @@ async function attemptCancel(tweetId) {
         renderQueues();
     } else {
         showToast('❌ Failed to cancel.', 'error');
+        recentlyCancelled.delete(tweetId);
         localStorage.removeItem('gh_token');
     }
 }
