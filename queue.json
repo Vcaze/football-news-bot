@@ -53,5 +53,16 @@
         "expires_at": "2026-03-11T15:28:22.677850",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "97f95f58",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS! Harvey Barnes believes Newcastle can outplay Barcelona at Camp Nou after their first-leg showdown! Confidence is sky-high! \ud83d\udcaa\u26bd\ufe0f #ChampionsLeague #NewcastleUnited",
+        "source_url": "https://www.theguardian.com/football/2026/mar/11/harvey-barnes-newcastle-barcelona-camp-nou-champions-league",
+        "article_title": "Harvey Barnes urges Newcastle to outplay Barcelona again at Camp Nou",
+        "created_at": "2026-03-11T12:42:13.599900",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T16:42:13.599900",
+        "type": "manual",
+        "status": "pending"
     }
 ]
