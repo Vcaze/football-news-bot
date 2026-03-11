@@ -11,28 +11,6 @@
         "status": "pending"
     },
     {
-        "id": "cf2cb7a9",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Igor Tudor is facing a player revolt at Tottenham! \ud83e\udd75\ud83d\udc40 Will a club legend step in as his replacement? This is getting spicy! \ud83d\udd25 #Tottenham #FootballNews",
-        "source_url": "https://talksport.com/football/4044626/igor-tudor-tottenham-hotspur-next-manager-robbie-keane/",
-        "article_title": "Igor Tudor faces Tottenham player revolt as replacements, including club legend, eyed for job",
-        "created_at": "2026-03-11T21:26:41.238193",
-        "scheduled_for": "2026-03-11T21:36:41.238193",
-        "expires_at": "2026-03-11T22:26:41.238193",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "ca449e21",
-        "tweet_text": "\ud83d\udea8 Federico Valverde nets a first-half hat-trick as Real Madrid crush Manchester City 3-0, putting Pep's side on the brink of Champions League exit! \u26bd\ufe0f\ud83c\udfc6 #UCL #RealMadrid",
-        "source_url": "https://www.skysports.com/football/real-madrid-vs-manchester-city/report/554899",
-        "article_title": "Valverde's first-half hat-trick leaves Man City on brink of CL exit",
-        "created_at": "2026-03-11T22:21:06.367051",
-        "scheduled_for": "2026-03-11T22:31:06.367051",
-        "expires_at": "2026-03-11T23:21:06.367051",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
         "id": "30a64ac7",
         "tweet_text": "\ud83d\udea8 Tottenham face a tough setback as they lose 5-2 to Atletico Madrid in the Champions League last 16 first leg. Goalkeeper Antonin Kinsky was subbed off after just 17 minutes! \u26bd\ufe0f\ud83d\udc94 #ChampionsLeague #THFC",
         "source_url": "https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo?at_medium=RSS&at_campaign=rss",
@@ -41,28 +19,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-12T02:21:10.937755",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "792a0bc2",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Federico Valverde scores a stunning first-half hat-trick as Real Madrid dominates Manchester City 3-0 in the Champions League first leg! \ud83d\udd25\u26bd\ufe0f #ChampionsLeague #RealMadrid",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/real-madrid-manchester-city-champions-league-last-16-first-leg-match-report",
-        "article_title": "Valverde hat-trick fires Real Madrid to emphatic first-leg lead over Manchester City",
-        "created_at": "2026-03-11T22:21:14.408690",
-        "scheduled_for": "2026-03-11T22:31:14.408690",
-        "expires_at": "2026-03-11T23:21:14.408690",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "54fd7016",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Real Madrid thrash Man City 3-0 in the Champions League, with Federico Valverde scoring a stunning hat-trick! Pep's side faces a tough road ahead for the quarter-finals. \u26bd\ufe0f\ud83d\udd25 #UCL #RealMadrid",
-        "source_url": "https://www.mirror.co.uk/sport/football/match-reports/real-madrid-man-city-goals-36853241",
-        "article_title": "Real Madrid destroy Man City as Federico Valverde nets stunning Champions League hat-trick",
-        "created_at": "2026-03-11T22:21:18.651073",
-        "scheduled_for": "2026-03-11T22:31:18.651073",
-        "expires_at": "2026-03-11T23:21:18.651073",
-        "type": "auto",
         "status": "pending"
     },
     {
