@@ -85,6 +85,7 @@ function createTweetCard(item) {
         <div style="margin-top: 1rem;" class="tweet-actions">
             <span class="countdown" id="cd-${item.id}">${isAuto ? 'Posting soon...' : 'Expires soon...'}</span>
             <div class="action-buttons">
+                <button class="btn copy" onclick="copyTweetToClipboard('${item.id}')">📋 Copy</button>
                 <button class="btn publish" onclick="attemptPublishNow('${item.id}')">⚡ Publish Now</button>
                 <button class="btn danger" onclick="attemptCancel('${item.id}')">✕ Cancel</button>
             </div>
@@ -108,7 +109,10 @@ function renderHistory() {
                 <span>Posted: ${new Date(item.posted_at || item.created_at).toLocaleString()}</span>
             </div>
             <div class="tweet-text">${item.tweet_text}</div>
-            ${item.posted_tweet_url ? `<a href="${item.posted_tweet_url}" target="_blank" class="source-link">View on X ↗</a>` : ''}
+            <div class="action-buttons" style="margin-top: 0.5rem;">
+                <button class="btn copy" onclick="copyTweetToClipboard('${item.id}', true)">📋 Copy</button>
+                ${item.posted_tweet_url ? `<a href="${item.posted_tweet_url}" target="_blank" class="btn secondary" style="text-decoration: none; text-align: center;">View on X ↗</a>` : ''}
+            </div>
         `;
         historyContainer.appendChild(el);
     });
@@ -145,6 +149,28 @@ setInterval(() => {
         }
     });
 }, 1000);
+
+// ── Copy to Clipboard ────────────────────────────────────────────────────────
+async function copyTweetToClipboard(tweetId, fromHistory = false) {
+    let item;
+    if (fromHistory) {
+        item = historyData.find(i => i.id === tweetId);
+    } else {
+        item = queueData.find(i => i.id === tweetId);
+    }
+
+    if (!item) return;
+
+    const fullTweet = `${item.tweet_text}\n\n${item.source_url}`;
+    
+    try {
+        await navigator.clipboard.writeText(fullTweet);
+        showToast('📋 Copied to clipboard!', 'success');
+    } catch (err) {
+        console.error('Failed to copy: ', err);
+        showToast('❌ Failed to copy.', 'error');
+    }
+}
 
 // ── API Triggers ──────────────────────────────────────────────────────────────
 async function triggerDispatch(eventType, payload, token) {

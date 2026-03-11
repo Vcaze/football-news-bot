@@ -184,8 +184,10 @@ main {
 
 .btn.secondary { background: transparent; color: var(--text-muted); border: 1px solid var(--border-color); }
 
-.btn.publish { background: var(--success); color: white; }
 .btn.publish:hover { background: var(--success-hover); }
+
+.btn.copy { background: #30363d; color: var(--text-main); border: 1px solid var(--border-color); }
+.btn.copy:hover { background: #3fb950; color: white; border-color: #3fb950; }
 
 .empty-state {
     text-align: center;
