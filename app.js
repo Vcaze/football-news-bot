@@ -7,8 +7,8 @@ const saveTokenBtn = document.getElementById('save-token-btn');
 const closeModalBtn = document.getElementById('close-modal-btn');
 
 // Replace this with your actual GitHub username and repository name once hosted!
-const GITHUB_OWNER = 'YOUR_GITHUB_USERNAME';
-const GITHUB_REPO = 'YOUR_GITHUB_REPO_NAME';
+const GITHUB_OWNER = 'Vcaze';
+const GITHUB_REPO = 'football-news-bot';
 
 let queueData = [];
 let historyData = [];
@@ -18,13 +18,13 @@ async function loadData() {
     try {
         // Fetch bypasses cache to get fresh data
         const qRes = await fetch('queue.json?t=' + Date.now());
-        if(qRes.ok) {
+        if (qRes.ok) {
             queueData = await qRes.json();
             renderQueue();
         }
 
         const hRes = await fetch('history.json?t=' + Date.now());
-        if(hRes.ok) {
+        if (hRes.ok) {
             historyData = await hRes.json();
             renderHistory();
         }
@@ -119,7 +119,7 @@ function attemptCancel(tweetId) {
 }
 
 async function triggerCancelWorkflow(tweetId, token) {
-    if(!confirm("Are you sure you want to cancel this tweet? It will be removed from the queue permanently.")) return;
+    if (!confirm("Are you sure you want to cancel this tweet? It will be removed from the queue permanently.")) return;
 
     try {
         const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/dispatches`, {
@@ -144,7 +144,7 @@ async function triggerCancelWorkflow(tweetId, token) {
             alert("Failed to cancel. Check console or token permissions.");
             localStorage.removeItem('gh_token'); // Might be invalid
         }
-    } catch(e) {
+    } catch (e) {
         alert("Network error occurred.");
     }
 }
@@ -152,13 +152,13 @@ async function triggerCancelWorkflow(tweetId, token) {
 // Modal Handlers
 saveTokenBtn.addEventListener('click', () => {
     const token = ghTokenInput.value.trim();
-    if(token) {
+    if (token) {
         localStorage.setItem('gh_token', token);
         authModal.classList.remove('active');
-        
+
         // Resume cancellation if we were interrupting one
         const pendingId = authModal.dataset.pendingCancelId;
-        if(pendingId) {
+        if (pendingId) {
             triggerCancelWorkflow(pendingId, token);
             delete authModal.dataset.pendingCancelId;
         }
