@@ -9,5 +9,27 @@
         "expires_at": "2026-03-12T00:18:53.350864",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "308a5172",
+        "tweet_text": "Big news from League Two! \ud83c\udfc6 Dino Maamria is out as Barrow's head coach after just 28 days! What\u2019s next for the Bluebirds? \ud83d\udd35 #Football #EFL",
+        "source_url": "https://www.bbc.com/sport/football/articles/clyvj9jr7gro?at_medium=RSS&at_campaign=rss",
+        "article_title": "Maamria becomes third head coach to leave Barrow in 2026",
+        "created_at": "2026-03-11T20:27:39.732750",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T00:27:39.732750",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "9c12d9de",
+        "tweet_text": "Big news in MLS! \ud83d\udea8 Orlando City parts ways with head coach Oscar Pareja after 6 seasons! Who will take the reins next? \ud83e\udd14\u26bd\ufe0f #MLS #CoachingChange",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48175112/oscar-pareja-orlando-city-coach-mls",
+        "article_title": "Pareja out as Orlando City coach after 6 seasons",
+        "created_at": "2026-03-11T20:27:47.125046",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T00:27:47.125046",
+        "type": "manual",
+        "status": "pending"
     }
 ]
