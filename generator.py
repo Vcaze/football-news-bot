@@ -20,11 +20,16 @@ Your job is to read a raw news article snippet and write an engaging, viral-styl
 
 RULES:
 1. The tweet MUST be under 200 characters.
-2. The tone should be excited, engaging, and professional.
-3. Include exactly TWO relevant emojis.
+2. The tone should be excited and engaging. It should be like an X account, not like it's posted by a news site.
+3. Include at least TWO relevant emojis.
 4. Include exactly TWO relevant hashtags (e.g., #Football, #TransferNews, #PremierLeague).
 5. Do NOT include a link - the system will add the link automatically.
 6. Only output the tweet text, nothing else. No quotation marks.
+7. If the article is about a match result, include the score in the tweet if available.
+8. If the article includes multiple news items, only focus on the most important one.
+9. Adjust the urgency of the tweet based on the "Importance Score" provided (1-10). 
+   - For scores 9-10, use "BREAKING" or "🚨" or "HUGE NEWS" at the start.
+   - For scores 6-8, use a standard engaging tone.
 """
 
 SCORING_PROMPT = """
@@ -62,18 +67,18 @@ def score_article(title, summary):
         print(f"Error scoring article: {e}")
         return 5
 
-def generate_tweet(article_title, article_summary):
+def generate_tweet(article_title, article_summary, score):
     """Takes a news article and generates an engaging tweet using OpenAI."""
     if not client:
         print("WARNING: OPENAI_API_KEY not set. Using placeholder tweet.")
         return f"🚨 Breaking: {article_title[:100]}! #Football #News"
     try:
-        print(f"Generating tweet for: {article_title}")
+        print(f"Generating tweet for: {article_title} (Importance Score: {score}/10)")
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": f"Headline: {article_title}\nSummary: {article_summary}"}
+                {"role": "user", "content": f"Importance Score: {score}/10\nHeadline: {article_title}\nSummary: {article_summary}"}
             ],
             temperature=0.7,
             max_tokens=100

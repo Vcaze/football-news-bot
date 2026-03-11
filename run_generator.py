@@ -44,7 +44,7 @@ def main():
             continue
 
         # 3. Generate tweet text
-        tweet_text = generate_tweet(title, summary)
+        tweet_text = generate_tweet(title, summary, score)
 
         # 4. Add to the chosen queue type
         queued_item = add_to_queue(tweet_text, article['source_url'], title, q_type=q_type)
