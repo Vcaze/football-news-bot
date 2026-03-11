@@ -31,7 +31,7 @@ function showConfirm(title, message, yesBtnLabel = 'Yes, proceed', yesBtnClass =
         confirmModal.classList.add('active');
 
         const yes = () => { cleanup(); resolve(true); };
-        const no  = () => { cleanup(); resolve(false); };
+        const no = () => { cleanup(); resolve(false); };
 
         function cleanup() {
             confirmModal.classList.remove('active');
@@ -74,10 +74,10 @@ async function loadData() {
 function renderQueues() {
     autoContainer.innerHTML = '';
     manualContainer.innerHTML = '';
-    
-    const autoItems = queueData.filter(i => i.type === 'auto');
+
+    const autoItems = queueData.filter(i => i.type === 'auto' || !i.type);
     const manualItems = queueData.filter(i => i.type === 'manual');
-    
+
     autoCount.textContent = autoItems.length;
     manualCount.textContent = manualItems.length;
 
@@ -97,8 +97,8 @@ function renderQueues() {
 function createTweetCard(item) {
     const el = document.createElement('div');
     el.className = 'tweet-card';
-    const isAuto = item.type === 'auto';
-    
+    const isAuto = item.type === 'auto' || !item.type;
+
     el.innerHTML = `
         <div class="tweet-meta">
             <span>Fetched: ${new Date(item.created_at).toLocaleTimeString()}</span>
@@ -143,14 +143,17 @@ setInterval(() => {
     queueData.forEach(item => {
         const el = document.getElementById(`cd-${item.id}`);
         if (!el) return;
-        
-        const isAuto = item.type === 'auto';
-        const targetTime = isAuto 
-            ? new Date(item.scheduled_for).getTime() 
-            : new Date(item.expires_at).getTime();
-            
+
+        const isAuto = item.type === 'auto' || !item.type;
+        const targetTimeStr = isAuto ? item.scheduled_for : item.expires_at;
+        if (!targetTimeStr) {
+            el.textContent = isAuto ? 'Posting soon...' : 'Manual Review';
+            return;
+        }
+
+        const targetTime = new Date(targetTimeStr).getTime();
         const diff = targetTime - Date.now();
-        
+
         if (diff <= 0) {
             el.textContent = isAuto ? 'Posting now...' : 'Expired (will be removed)';
             el.style.color = isAuto ? 'var(--success)' : 'var(--danger)';
@@ -158,10 +161,10 @@ setInterval(() => {
             const h = Math.floor(diff / 3600000);
             const m = Math.floor((diff % 3600000) / 60000);
             const s = Math.floor((diff % 60000) / 1000);
-            
+
             let timeStr = `${m}m ${s}s`;
             if (h > 0) timeStr = `${h}h ${timeStr}`;
-            
+
             el.textContent = isAuto ? `Posts in: ${timeStr}` : `Expires in: ${timeStr}`;
         }
     });

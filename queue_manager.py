@@ -56,10 +56,11 @@ def add_to_queue(tweet_text, source_url, article_title, q_type='auto'):
     return item
 
 def get_due_tweets():
-    """Returns only 'auto' tweets that have passed their scheduled_for time."""
+    """Returns only 'auto' tweets (or legacy ones without 'type') that are due."""
     queue = load_data(QUEUE_FILE)
     now = datetime.now().isoformat()
-    return [i for i in queue if i.get('type') == 'auto' and i.get('scheduled_for') and i['scheduled_for'] <= now]
+    # If q_type is missing, we assume 'auto' for backward compatibility
+    return [i for i in queue if (i.get('type') == 'auto' or 'type' not in i) and i.get('scheduled_for') and i['scheduled_for'] <= now]
 
 def remove_from_queue(tweet_id):
     queue = load_data(QUEUE_FILE)
