@@ -43,5 +43,60 @@
         "created_at": "2026-03-11T02:07:12.165854",
         "scheduled_for": "2026-03-11T02:17:12.165828",
         "status": "pending"
+    },
+    {
+        "id": "22fda0a6",
+        "tweet_text": "\ud83d\udea8 Big news! Arsenal is eyeing Julian Brandt for a free transfer! \ud83d\udd25 Plus, Newcastle's Tonali is still in demand! What a transfer window this is shaping up to be! #TransferNews #Arsenal",
+        "source_url": "https://www.bbc.com/sport/football/articles/c4geyndly41o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Arsenal want Brandt on free - Wednesday's gossip",
+        "created_at": "2026-03-11T03:05:48.132898",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T07:05:48.132898",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ffdb5577",
+        "tweet_text": "\ud83c\udff4\u200d\u2620\ufe0f Big news! Kyle Walker hangs up his international boots after an incredible career with England. Thank you for the memories, Kyle! \ud83c\uddec\ud83c\udde7 #Football #ThreeLions",
+        "source_url": "https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&at_campaign=rss",
+        "article_title": "England's Walker retires from international football",
+        "created_at": "2026-03-11T03:05:49.886197",
+        "scheduled_for": "2026-03-11T03:15:49.886197",
+        "expires_at": "2026-03-11T04:05:49.886197",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "5fc49db9",
+        "tweet_text": "Tottenham's nightmare continues! \ud83d\ude31 A disastrous start leads to a humiliating 5-2 defeat against Atl\u00e9tico Madrid. Can they bounce back? #Spursy #ChampionsLeague \u26bd\ufe0f",
+        "source_url": "https://www.theguardian.com/football/2026/mar/10/humiliation-for-kinsky-as-tottenham-are-thrashed-by-atletico-madrid",
+        "article_title": "Humiliation for Kinsky as Tottenham crumble early in thrashing by Atl\u00e9tico Madrid",
+        "created_at": "2026-03-11T03:05:52.422335",
+        "scheduled_for": "2026-03-11T03:15:52.422335",
+        "expires_at": "2026-03-11T04:05:52.422335",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "fbb3bdcc",
+        "tweet_text": "What a thrilling night in the Champions League! \ud83c\udf1f Lamine Yamal's late equalizer steals the show and leaves Newcastle dreaming of their next chance! \u26bd\ufe0f #ChampionsLeague #NewcastleUnited",
+        "source_url": "https://www.theguardian.com/football/2026/mar/10/newcastle-barcelona-champions-league-last-16-first-leg-match-report",
+        "article_title": "Lamine Yamal hurts Newcastle hopes as Barcelona snatch draw with last kick",
+        "created_at": "2026-03-11T03:05:55.240078",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T07:05:55.240078",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "15b4d9c6",
+        "tweet_text": "Galatasaray takes the upper hand against Liverpool with a stunning goal from Lemina! \ud83d\udd25 Can the Reds turn it around in the second leg? Stay tuned! \u26bd\ufe0f #ChampionsLeague #Galatasaray",
+        "source_url": "https://www.theguardian.com/football/2026/mar/10/galatasaray-liverpool-champions-league-last-16-first-leg-match-report",
+        "article_title": "Familiar tale for Slot after Lemina gives Galatasaray edge over Liverpool",
+        "created_at": "2026-03-11T03:05:57.773907",
+        "scheduled_for": null,
+        "expires_at": "2026-03-11T07:05:57.773907",
+        "type": "manual",
+        "status": "pending"
     }
 ]
