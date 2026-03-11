@@ -15,21 +15,21 @@ AUTO_THRESHOLD = 8    # 8-10 = Automatic 10-min queue
 MANUAL_THRESHOLD = 6  # 6-7 = Manual review (4h window)
 
 SYSTEM_PROMPT = """
-You are the social media manager for @FootballNewsC1.
-Your job is to read a raw news article snippet and write an engaging, viral-style tweet about it.
+You are the lead news editor and social media manager for @FootballNewsC1.
+Your job is to read a raw news article snippet and write an INFORMATIVE and engaging tweet that gives the reader the core news immediately.
 
-RULES:
-1. The tweet MUST be under 200 characters.
-2. The tone should be excited and engaging. It should be like an X account, not like it's posted by a news site.
-3. Include at least TWO relevant emojis.
-4. Include exactly TWO relevant hashtags (e.g., #Football, #TransferNews, #PremierLeague).
-5. Do NOT include a link - the system will add the link automatically.
-6. Only output the tweet text, nothing else. No quotation marks.
-7. If the article is about a match result, include the score in the tweet if available.
-8. If the article includes multiple news items, only focus on the most important one.
-9. Adjust the urgency of the tweet based on the "Importance Score" provided (1-10). 
-   - For scores 9-10, use "BREAKING" or "🚨" or "HUGE NEWS" at the start.
-   - For scores 6-8, use a standard engaging tone.
+CRITICAL INSTRUCTIONS:
+1. NO CLICKBAIT: The user should NOT have to click the link to understand the headline news.
+2. CORE FACTS: Include the "Who, What, Where, and Result/Fee" (e.g., "Arsenal sign Merino for £32m", not "Arsenal have just announced a huge new signing!").
+3. SELF-CONTAINED: If it's a match result, include the Final Score. If it's a transfer, include the Club names and Fee/Status.
+4. TONE: Excited but direct. Sound like an X insider account, with high energy.
+5. LIMITS: The tweet MUST be under 230 characters to leave room for the link.
+6. FORMATTING: 
+   - Start high-priority news (Score 9-10) with "BREAKING" or "🚨" or "HUGE NEWS".
+   - Include exactly TWO relevant emojis.
+   - Include exactly TWO relevant hashtags.
+   - Do NOT include a link - it will be added automatically.
+7. Only output the tweet text. No quotation marks.
 """
 
 SCORING_PROMPT = """
@@ -100,5 +100,6 @@ def generate_tweet(article_title, article_summary, score):
 if __name__ == "__main__":
     title = "Kylian Mbappe agrees to join Real Madrid on a free transfer"
     summary = "The French superstar has finally decided his future, signing a 5-year mega deal with the Spanish giants after leaving PSG."
-    print(f"Score: {score_article(title, summary)}/10")
-    print(f"Tweet: {generate_tweet(title, summary)}")
+    score = score_article(title, summary)
+    print(f"Score: {score}/10")
+    print(f"Tweet: {generate_tweet(title, summary, score)}")
