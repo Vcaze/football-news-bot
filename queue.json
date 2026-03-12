@@ -1,1 +1,35 @@
-[]
+[
+    {
+        "id": "a1967f0d",
+        "tweet_text": "\ud83d\udea8 Federico Valverde nets a stunning hat-trick for Real Madrid, leading them to a 3-1 victory over Manchester City in the Champions League first leg! \ud83c\udf1f #ChampionsLeague #RealMadrid",
+        "source_url": "https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Most underrated player on the planet? Valverde steps up for Real",
+        "created_at": "2026-03-12T06:44:13.851392",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T10:44:13.851392",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d372ac2b",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Federico Valverde scores a stunning first-half hat-trick as Real Madrid defeats Manchester City 3-0 in the Champions League last-16 at the Bernabeu! \u26bd\ufe0f\ud83d\udd25 #ChampionsLeague #ValverdeMagic",
+        "source_url": "https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Valverde's brilliant first-half hat-trick stuns Man City",
+        "created_at": "2026-03-12T06:44:16.796546",
+        "scheduled_for": "2026-03-12T06:54:16.796546",
+        "expires_at": "2026-03-12T07:44:16.796546",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "4055db30",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Paris Saint-Germain dominate Chelsea with a 5-2 victory in the first leg of their Champions League last-16 tie, thanks to Khvicha Kvaratskhelia's late brace! \u26bd\ufe0f\ud83d\udd25 #PSG #UCL",
+        "source_url": "https://www.bbc.com/sport/football/videos/cn0e76xrw3eo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Chelsea crumble late on as PSG score five to take control of tie",
+        "created_at": "2026-03-12T06:44:19.830903",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T10:44:19.830903",
+        "type": "manual",
+        "status": "pending"
+    }
+]
