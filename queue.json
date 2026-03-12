@@ -31,5 +31,38 @@
         "expires_at": "2026-03-12T12:34:32.615027",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "41763c29",
+        "tweet_text": "\ud83d\udea8 Manchester United's new stadium project faces further delays, pushing costs beyond \u00a33 billion as land acquisition issues arise. \ud83c\udfdf\ufe0f\ud83d\udcb0 #MUFC #StadiumUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/manutd-new-stadium-cost-update-36854502",
+        "article_title": "Man Utd new stadium hit by further delays sending cost of project beyond \u00a33BILLION",
+        "created_at": "2026-03-12T09:35:58.487264",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T13:35:58.487264",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "276f302b",
+        "tweet_text": "\ud83d\udea8 England has secured a \u00a35.8m agreement to resolve the stadium dispute affecting their World Cup game in the USA! \u26bd\ufe0f\ud83c\uddfa\ud83c\uddf8 #WorldCup2023 #ThreeLions",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/england-world-cup-stadium-usa-36854388",
+        "article_title": "England get update on at-risk World Cup game as agreement reached in \u00a35.8m stadium row",
+        "created_at": "2026-03-12T09:36:00.684080",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T13:36:00.684080",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f82f54b3",
+        "tweet_text": "\ud83d\udea8 Federico Valverde scores a stunning hat trick as Real Madrid defeats Man City, putting them in pole position to advance to the UCL quarterfinals! \u26bd\ufe0f\ud83d\udd25 #UCL #RealMadrid",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48178056/federico-valverdes-hat-trick-steals-show-real-madrid-dominate-manchester-city",
+        "article_title": "Valverde's hat trick was the cherry on top of Madrid's performance vs. Man City",
+        "created_at": "2026-03-12T09:36:03.810616",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T13:36:03.810616",
+        "type": "manual",
+        "status": "pending"
     }
 ]
