@@ -42,5 +42,38 @@
         "expires_at": "2026-03-12T13:36:03.810616",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "73707be9",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Stephen Robinson is appointed as the new head coach of Aberdeen following his exit from St Mirren! \u26bd\ufe0f #AberdeenFC #ScottishFootball",
+        "source_url": "https://www.skysports.com/football/news/12040/13518467/stephen-robinson-joins-aberdeen-from-st-mirren-as-new-pittodrie-head-coach-confirmed-after-switching-scottish-premiership-clubs",
+        "article_title": "Robinson named Aberdeen head coach after St Mirren exit",
+        "created_at": "2026-03-12T11:27:38.466445",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T15:27:38.466445",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "259baa06",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Federico Valverde scores a stunning hat-trick for Real Madrid, defeating Manchester City 3-1 in the Champions League first leg! \ud83c\udf1f\u26bd\ufe0f #ChampionsLeague #RealMadrid",
+        "source_url": "https://www.bbc.com/sport/football/articles/c4gj45gxedzo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Most underrated player on the planet? Valverde steps up for Real",
+        "created_at": "2026-03-12T11:27:41.375223",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T15:27:41.375223",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "03f3566f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Aberdeen appoint Stephen Robinson as their new head coach, leaving St Mirren for Pittodrie! Exciting times ahead for the Dons! \u26bd\ufe0f\ud83d\udd34 #AberdeenFC #ScottishPremiership",
+        "source_url": "https://www.bbc.com/sport/football/articles/c8xynz8ndj4o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Aberdeen announce Robinson as new head coach",
+        "created_at": "2026-03-12T11:27:44.840810",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T15:27:44.840810",
+        "type": "manual",
+        "status": "pending"
     }
 ]
