@@ -9,5 +9,27 @@
         "expires_at": "2026-03-12T17:59:08.737430",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "a10b5d2f",
+        "tweet_text": "Khadija Shaw is close to extending her contract with Manchester City, fending off Chelsea's interest! The WSL\u2019s leading scorer is set to stay with the league leaders. \u26bd\ufe0f\ud83d\udd35 #WSL #MCFC",
+        "source_url": "https://www.theguardian.com/football/2026/mar/12/khadija-shaw-extending-manchester-city-contract-chelsea-interest",
+        "article_title": "Khadija Shaw close to extending Manchester City contract despite Chelsea interest",
+        "created_at": "2026-03-12T15:52:55.092421",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T19:52:55.092421",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "95391530",
+        "tweet_text": "\ud83d\udea8 Chelsea's Pedro Neto faces a potential ban from UEFA for pushing a ballboy during their 5-2 defeat to PSG. Disciplinary proceedings have been instigated as he apologizes for the incident. \u26bd\ufe0f #UCL #Chelsea",
+        "source_url": "https://www.theguardian.com/football/2026/mar/12/chelsea-pedro-neto-faces-possible-ban-pushing-defeat-psg",
+        "article_title": "Chelsea\u2019s Pedro Neto faces possible ban for pushing ballboy in defeat by PSG",
+        "created_at": "2026-03-12T15:52:58.065057",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T19:52:58.065057",
+        "type": "manual",
+        "status": "pending"
     }
 ]
