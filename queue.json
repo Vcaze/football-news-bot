@@ -42,5 +42,16 @@
         "expires_at": "2026-03-12T17:59:08.737430",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "473228f8",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Concerns rise over potential disruption or cancellation of the 2026 FIFA World Cup in the USA, Canada, and Mexico amid escalating US-Iran tensions. Just 3 months to kick-off! \u26bd\ufe0f\ud83c\udf0d #WorldCup2026 #FootballNews",
+        "source_url": "https://www.mirror.co.uk/news/us-news/world-cup-disruption-cancellation-fears-36849163",
+        "article_title": "World Cup disruption or cancellation fears as US-Iran tensions escalate",
+        "created_at": "2026-03-12T14:52:55.013020",
+        "scheduled_for": "2026-03-12T15:02:55.013020",
+        "expires_at": "2026-03-12T15:52:55.013020",
+        "type": "auto",
+        "status": "pending"
     }
 ]
