@@ -20,5 +20,16 @@
         "expires_at": "2026-03-12T10:44:19.830903",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "92684e0a",
+        "tweet_text": "\ud83d\udea8 Harry Redknapp confirms he won't return to Tottenham amid links to the managerial position, as reports suggest players are unhappy with Igor Tudor's treatment. #THFC #ManagerialChanges",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/harry-redknapp-tottenham-igor-tudor-36853806",
+        "article_title": "Harry Redknapp explains Tottenham return stance as Igor Tudor faces sack deadline",
+        "created_at": "2026-03-12T08:34:32.615027",
+        "scheduled_for": null,
+        "expires_at": "2026-03-12T12:34:32.615027",
+        "type": "manual",
+        "status": "pending"
     }
 ]
