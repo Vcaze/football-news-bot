@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "fbeec43b",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Unai Emery becomes the fastest Aston Villa manager to reach 100 wins after his side defeats Lille in the Europa League last 16! \ud83c\udfc6\u26bd\ufe0f #AVFC #EuropaLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/c6204z3x4jqo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Fastest to 100 wins - Europa specialist Emery sets Villa record",
+        "created_at": "2026-03-13T06:42:32.115725",
+        "scheduled_for": null,
+        "expires_at": "2026-03-13T10:42:32.115725",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "b7aca9d2",
+        "tweet_text": "\ud83d\udea8 Thomas Partey, the former Arsenal midfielder now in Spain, is set to appear in court today facing two new charges. Stay tuned for updates! \u2696\ufe0f\u26bd\ufe0f #ThomasPartey #Arsenal",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/thomas-partey-court-london-2026-36854199",
+        "article_title": "Thomas Partey in court today: Everything we know with ex-Arsenal ace to face two new charges",
+        "created_at": "2026-03-13T06:42:41.418919",
+        "scheduled_for": null,
+        "expires_at": "2026-03-13T10:42:41.418919",
+        "type": "manual",
+        "status": "pending"
+    }
+]
