@@ -20,5 +20,16 @@
         "expires_at": "2026-03-13T10:42:41.418919",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "1272207e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Kraft Group will cover upfront security costs, resolving the dispute with Foxborough and the Boston 2026 host committee, securing 7 World Cup games for New England! \u26bd\ufe0f\ud83c\udfdf\ufe0f #WorldCup2026 #NewEnglandFootball",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48191280/kraft-group-guarantees-upfront-funding-boston-world-cup-games",
+        "article_title": "Kraft backs Foxborough World Cup security costs",
+        "created_at": "2026-03-13T09:33:30.791617",
+        "scheduled_for": null,
+        "expires_at": "2026-03-13T13:33:30.791617",
+        "type": "manual",
+        "status": "pending"
     }
 ]
