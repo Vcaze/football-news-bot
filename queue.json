@@ -20,16 +20,5 @@
         "expires_at": "2026-03-14T01:26:54.432760",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "bc3b10e4",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Thomas Partey to deny two new allegations of rape in court, as the former Arsenal midfielder was absent for the first hearing. \u2696\ufe0f #FootballNews #ThomasPartey",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48193738/thomas-partey-deny-two-new-allegations-rape",
-        "article_title": "Thomas Partey to deny two new allegations of rape",
-        "created_at": "2026-03-13T22:21:59.214590",
-        "scheduled_for": "2026-03-13T22:31:59.214590",
-        "expires_at": "2026-03-13T23:21:59.214590",
-        "type": "auto",
-        "status": "pending"
     }
 ]
