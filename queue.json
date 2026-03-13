@@ -9,5 +9,16 @@
         "expires_at": "2026-03-14T00:26:31.410084",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "cbb8ad40",
+        "tweet_text": "\ud83d\udea8 Igor Tudor sends a stern warning to Tottenham stars as relegation fears mount ahead of their crucial clash with Liverpool! \u26bd\ufe0f Will they rise to the occasion? #THFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-hotspur-relegation-igor-tudor-36865733",
+        "article_title": "Igor Tudor sends brutal message to Tottenham stars as relegation fears grow",
+        "created_at": "2026-03-13T21:26:54.432760",
+        "scheduled_for": null,
+        "expires_at": "2026-03-14T01:26:54.432760",
+        "type": "manual",
+        "status": "pending"
     }
 ]
