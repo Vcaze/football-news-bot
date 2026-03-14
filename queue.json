@@ -53,5 +53,38 @@
         "expires_at": "2026-03-15T01:20:44.746808",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "bfff7969",
+        "tweet_text": "\ud83d\udea8 Man City held to a 1-1 draw by West Ham, trailing Arsenal by nine points in the title race! Hammers celebrate moving out of the relegation zone! \u26bd\ufe0f\ud83d\udd1d #PremierLeague #ManCity",
+        "source_url": "https://www.skysports.com/football/west-ham-united-vs-manchester-city/report/531428",
+        "article_title": "Title race over? City held at rejuvenated Hammers to trail Arsenal by nine",
+        "created_at": "2026-03-14T22:18:49.382756",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T02:18:49.382756",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "1a8bd668",
+        "tweet_text": "\ud83d\udea8 West Ham hold Manchester City to a 1-1 draw, helping Arsenal in the title race! Ex-Gunner Konstantinos Mavropanos plays a crucial role in denting City's hopes. \u26bd\ufe0f\ud83d\udd34 #PL #ManCity",
+        "source_url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-city-west-ham-highlights-36868703",
+        "article_title": "West Ham dent Man City's title hopes as ex-Arsenal star does Gunners huge favour",
+        "created_at": "2026-03-14T22:18:55.185698",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T02:18:55.185698",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ad57c714",
+        "tweet_text": "\ud83d\udea8 Liam Rosenior to hold urgent talks with PGMOL following Chelsea's 1-0 loss to Newcastle, as frustration mounts over refereeing decisions impacting their Champions League hopes! \u26bd\ufe0f #CFC #PL",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liam-rosenior-pgmol-chelsea-newcastle-36868671",
+        "article_title": "Liam Rosenior to hold urgent PGMOL talks after Chelsea referee incident in Newcastle loss",
+        "created_at": "2026-03-14T22:18:56.390630",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T02:18:56.390630",
+        "type": "manual",
+        "status": "pending"
     }
 ]
