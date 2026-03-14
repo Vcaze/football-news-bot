@@ -31,5 +31,27 @@
         "expires_at": "2026-03-15T00:19:57.113025",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "71ce6a3a",
+        "tweet_text": "\ud83d\udea8 Arsenal wonderkid Max Dowman becomes the youngest goalscorer in Premier League history with a stoppage-time goal in their 2-0 win over Everton! \ud83c\udf89 #AFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-arsenal-max-dowman-36868567",
+        "article_title": "Mikel Arteta reveals what he told Arsenal wonderkid Max Dowman before Everton goal",
+        "created_at": "2026-03-14T21:20:42.718808",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T01:20:42.718808",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "91cc7930",
+        "tweet_text": "\ud83d\udea8 Huge news! Max Dowman of Arsenal has made history as the youngest scorer in Premier League history! \u26bd\ufe0f\ud83d\udd25 #Arsenal #PremierLeague",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48206506/max-dowman-16-becomes-youngest-goalscorer-ever-premier-league",
+        "article_title": "Arsenal's Dowman becomes youngest PL scorer",
+        "created_at": "2026-03-14T21:20:44.746808",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T01:20:44.746808",
+        "type": "manual",
+        "status": "pending"
     }
 ]
