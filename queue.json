@@ -1,27 +1,5 @@
 [
     {
-        "id": "438d5dee",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ashley Cole has been appointed head coach of Serie B side Cesena, marking his first managerial role! He signs until June with an option to extend. \u26bd\ufe0f\ud83c\uddee\ud83c\uddf9 #AshleyCole #Cesena",
-        "source_url": "https://www.theguardian.com/football/2026/mar/15/ashley-cole-appointed-head-coach-cesena-italy-serie-b",
-        "article_title": "Ashley Cole lands first managerial role as head coach of Serie B side Cesena",
-        "created_at": "2026-03-15T18:29:17.988797",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T22:29:17.988797",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "07b608e1",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester United secures a crucial 2-1 victory against Aston Villa at Old Trafford, boosting their Champions League hopes! Captain Bruno Fernandes shines again! \ud83d\udd34\u26bd #MUFC #ChampionsLeague",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-fernandes-villa-36871168",
-        "article_title": "Michael Carrick makes Bruno Fernandes appeal after record-breaking Man Utd display",
-        "created_at": "2026-03-15T18:29:20.775280",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T22:29:20.775280",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "d2c06d9b",
         "tweet_text": "Wayne Rooney urges Manchester United to appoint Michael Carrick as permanent manager following his impact on Champions League hopes! \u26bd\ufe0f\ud83d\udd25 #MUFC #CarrickForManager",
         "source_url": "https://www.bbc.com/sport/football/articles/cvg10yxlpgpo?at_medium=RSS&at_campaign=rss",
@@ -63,17 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-16T02:20:26.731670",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "43359965",
-        "tweet_text": "\ud83d\udea8 Chelsea Women secure the League Cup title with a 2-0 victory over Manchester United! Goals from James (19') and Beever-Jones (76') ensure they retain their trophy! \ud83c\udfc6\u26bd #ChelseaWomen #LeagueCupFinal",
-        "source_url": "https://www.theguardian.com/football/2026/mar/15/chelsea-manchester-united-womens-league-cup-final-match-report",
-        "article_title": "Chelsea\u2019s James leads way to win League Cup final against Manchester United",
-        "created_at": "2026-03-15T22:20:28.426252",
-        "scheduled_for": "2026-03-15T22:30:28.426252",
-        "expires_at": "2026-03-15T23:20:28.426252",
-        "type": "auto",
         "status": "pending"
     },
     {
