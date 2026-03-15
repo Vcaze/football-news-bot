@@ -64,5 +64,16 @@
         "expires_at": "2026-03-15T23:23:06.343923",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ad7053e7",
+        "tweet_text": "\ud83d\udea8 Manchester United defeat Aston Villa 2-1, with Matheus Cunha scoring the winner! Bruno Fernandes records his 100th assist for the club, showcasing his playmaking brilliance. \ud83d\udd25\u26bd #MUFC #PL",
+        "source_url": "https://www.theguardian.com/football/2026/mar/15/manchester-united-aston-villa-premier-league-match-report",
+        "article_title": "Manchester United sink Aston Villa to tighten grip on Champions League spot",
+        "created_at": "2026-03-15T21:21:48.283381",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T01:21:48.283381",
+        "type": "manual",
+        "status": "pending"
     }
 ]
