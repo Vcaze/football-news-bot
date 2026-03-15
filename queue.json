@@ -53,5 +53,38 @@
         "expires_at": "2026-03-16T01:21:48.283381",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "6248903f",
+        "tweet_text": "\ud83d\udea8 Raphinha nets a hat-trick as Barcelona crush Sevilla 5-2, maintaining a 4-point lead in La Liga! \ud83c\udf89 Meanwhile, Como comes from behind to beat 10-man Roma. #LaLiga #ChampionsLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/15/european-football-raphinha-fires-a-hat-trick-as-barcelona-thrash-sevilla",
+        "article_title": "European football: Raphinha hat-trick seals Barcelona win, Como sink Roma",
+        "created_at": "2026-03-15T22:20:26.731670",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T02:20:26.731670",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "43359965",
+        "tweet_text": "\ud83d\udea8 Chelsea Women secure the League Cup title with a 2-0 victory over Manchester United! Goals from James (19') and Beever-Jones (76') ensure they retain their trophy! \ud83c\udfc6\u26bd #ChelseaWomen #LeagueCupFinal",
+        "source_url": "https://www.theguardian.com/football/2026/mar/15/chelsea-manchester-united-womens-league-cup-final-match-report",
+        "article_title": "Chelsea\u2019s James leads way to win League Cup final against Manchester United",
+        "created_at": "2026-03-15T22:20:28.426252",
+        "scheduled_for": "2026-03-15T22:30:28.426252",
+        "expires_at": "2026-03-15T23:20:28.426252",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "a68e8fa8",
+        "tweet_text": "\ud83d\udea8 Dominik Szoboszlai calls on Liverpool teammates to \"wake up\" after a late equalizer from Richarlison saw Tottenham steal a point at Anfield! \ud83d\udd34 #LFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/dominik-szoboszlai-liverpool-tottenham-spurs-36871553",
+        "article_title": "Dominik Szoboszlai demands Liverpool team-mates 'wake up' in scathing Reds verdict",
+        "created_at": "2026-03-15T22:20:31.591381",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T02:20:31.591381",
+        "type": "manual",
+        "status": "pending"
     }
 ]
