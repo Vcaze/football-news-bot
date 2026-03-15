@@ -75,5 +75,38 @@
         "expires_at": "2026-03-15T17:41:41.088657",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "8fe23a60",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Finalissima between Argentina and Spain in Qatar has been CANCELLED due to the ongoing war in the Middle East. \ud83c\udf0d\u26bd\ufe0f #Finalissima #FootballNews",
+        "source_url": "https://www.bbc.com/sport/football/articles/cwy6903z140o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Spain-Argentina Finalissima in Qatar cancelled",
+        "created_at": "2026-03-15T14:23:48.080206",
+        "scheduled_for": "2026-03-15T14:33:48.080206",
+        "expires_at": "2026-03-15T15:23:48.080206",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "42fa5bcb",
+        "tweet_text": "\ud83d\udea8 Liverpool activate contract option for star goalkeeper Alisson Becker, fending off interest from Juventus! \ud83d\udd12 #LFC #AlissonBecker",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-alisson-juventus-contract-36870150",
+        "article_title": "Liverpool activate Alisson contract option as former boss eyes reunion",
+        "created_at": "2026-03-15T14:23:52.806214",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T18:23:52.806214",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "140f61fd",
+        "tweet_text": "\ud83d\udea8 Arne Slot under pressure as Liverpool struggles outside the top four in the Premier League! His criteria for staying in charge has been laid out amidst growing scrutiny. \ud83d\udd34\u26bd\ufe0f #LFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/arne-slot-liverpool-sack-tottenham-36870133",
+        "article_title": "Arne Slot sack criteria laid out with Liverpool boss under huge pressure",
+        "created_at": "2026-03-15T14:23:54.190172",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T18:23:54.190172",
+        "type": "manual",
+        "status": "pending"
     }
 ]
