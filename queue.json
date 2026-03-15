@@ -75,5 +75,27 @@
         "expires_at": "2026-03-15T13:27:46.705911",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "5593b8c3",
+        "tweet_text": "\ud83d\udea8 Max Dowman makes history as Arsenal's youngest Premier League goalscorer, netting against Everton! Big names like John Terry and Rio Ferdinand react to his incredible achievement! \u26bd\ufe0f\ud83d\ude4c #Arsenal #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/max-dowman-arsenal-goal-everton-36869453",
+        "article_title": "Max Dowman message sums up Arsenal feelings as John Terry and Rio Ferdinand react",
+        "created_at": "2026-03-15T10:22:46.815668",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T14:22:46.815668",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6cf3d5d5",
+        "tweet_text": "\ud83d\udea8 Neil Warnock is set to leave Torquay just TWO weeks after returning to management as the club seeks a new boss, aiming to avoid a decision they might regret. \u26bd\ufe0f\ud83d\udd04 #FootballNews #ManagerialChanges",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/neil-warnock-future-retirement-torquay-36869348",
+        "article_title": "Neil Warnock set to leave job after TWO weeks as club want to avoid 'decision they regret'",
+        "created_at": "2026-03-15T10:22:49.200215",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T14:22:49.200215",
+        "type": "manual",
+        "status": "pending"
     }
 ]
