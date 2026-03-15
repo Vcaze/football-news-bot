@@ -1,38 +1,5 @@
 [
     {
-        "id": "25c4c67a",
-        "tweet_text": "\ud83d\udea8 Anthony Gordon scores the winner as Newcastle secures a rare 1-0 victory at Chelsea, marking their first away win at Stamford Bridge since 2012! \ud83c\udf1f #NUFC #CFC",
-        "source_url": "https://www.bbc.com/sport/football/videos/czj18xgnkyvo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Gordon goal gives Newcastle rare win at Chelsea",
-        "created_at": "2026-03-15T11:20:25.657766",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T15:20:25.657766",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "cc21ed48",
-        "tweet_text": "\ud83d\udea8 Kylian Mbappe's future at Real Madrid is in turmoil just days before their crucial clash against Manchester City! Major decisions loom for the club. \u26bd\ufe0f\ud83d\udd25 #RealMadrid #Mbappe",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/man-city-kylian-mbappe-injury-36869577",
-        "article_title": "Kylian Mbappe row explodes at Real Madrid days before Manchester City clash",
-        "created_at": "2026-03-15T11:20:30.567553",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T15:20:30.567553",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "ed6f3eb1",
-        "tweet_text": "\ud83d\udea8 Arsenal star Max Dowman shines in crucial win against Everton, boosting their Premier League title hopes! Can the Gunners secure silverware this season? \u26bd\ufe0f\ud83c\udfc6 #AFC #PremierLeague",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-max-dowman-premier-league-36869553",
-        "article_title": "Premier League medal criteria and Max Dowman's chances of Arsenal silverware",
-        "created_at": "2026-03-15T11:20:31.838470",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T15:20:31.838470",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "ed01f1f8",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Max Dowman made history for Arsenal, playing a pivotal role in their title chase! Arteta's confidence in the teenager is paying off big time! \u26bd\ufe0f\ud83d\udd34 #Arsenal #PremierLeagueTitleRace",
         "source_url": "https://www.espn.com/soccer/story/_/id/48207771/dowman-was-arteta-risk-paid-tremendously-arsenal",
