@@ -53,5 +53,27 @@
         "expires_at": "2026-03-15T19:22:13.020883",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "7bc8b9b2",
+        "tweet_text": "\ud83d\udea8 Man Utd secure a crucial 3-1 victory over Aston Villa at Old Trafford, thanks to Bruno Fernandes' brilliance! The Red Devils now rise to third in the Premier League! \ud83d\udd34\u26bd\ufe0f #MUFC #PLHighlights",
+        "source_url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-aston-villa-goals-36870362",
+        "article_title": "Bruno Fernandes brilliance helps Man Utd past top-four rivals Aston Villa - 6 talking points",
+        "created_at": "2026-03-15T16:23:53.680326",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T20:23:53.680326",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "88962247",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester United solidify their Champions League ambitions with a 3-1 victory over Aston Villa! A crucial win as they chase a top-four finish! \ud83d\udd34\u26bd\ufe0f #MUFC #UCLChallenge",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/740892",
+        "article_title": "Man Utd take big stride toward UCL with Villa win",
+        "created_at": "2026-03-15T16:23:57.923223",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T20:23:57.923223",
+        "type": "manual",
+        "status": "pending"
     }
 ]
