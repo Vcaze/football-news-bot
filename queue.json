@@ -31,5 +31,16 @@
         "expires_at": "2026-03-15T10:47:43.474383",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "e0e480dc",
+        "tweet_text": "\ud83d\udea8 Max Dowman shines as he makes history for Arsenal, propelling them closer to the Premier League title! Huge moment for the teenager and the Gunners! \u26bd\ufe0f\ud83c\udfc6 #Arsenal #PremierLeague",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48207771/dowman-was-arteta-risk-paid-tremendously-arsenal",
+        "article_title": "Arteta turned to the teenage Dowman, and it paid off tremendously for Arsenal",
+        "created_at": "2026-03-15T07:40:06.026266",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T11:40:06.026266",
+        "type": "manual",
+        "status": "pending"
     }
 ]
