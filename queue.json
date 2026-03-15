@@ -1,27 +1,5 @@
 [
     {
-        "id": "47fa8998",
-        "tweet_text": "\ud83d\udea8 Everton's Thierno Barry reveals his friends were attacked by Everton fans during the match against Arsenal. Police are now investigating the disturbing incident. \u26bd\ufe0f\ud83d\udc6e\u200d\u2642\ufe0f #EFC #Arsenal",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/everton-barry-fans-arsenal-police-36869142",
-        "article_title": "Everton ace claims 'own fans attacked his friends at Arsenal' as police launch investigation",
-        "created_at": "2026-03-15T08:28:35.846077",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T12:28:35.846077",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "b8dde740",
-        "tweet_text": "\ud83d\udea8 Huge news! Arsenal's Max Dowman has made history as the youngest scorer in Premier League history! \u26bd\ufe0f\ud83d\udd25 #PLRecords #Arsenal",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48206506/max-dowman-16-becomes-youngest-goalscorer-ever-premier-league",
-        "article_title": "Arsenal's Dowman becomes youngest PL scorer",
-        "created_at": "2026-03-15T08:28:40.484662",
-        "scheduled_for": null,
-        "expires_at": "2026-03-15T12:28:40.484662",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "9c2caf16",
         "tweet_text": "\ud83d\udea8 Pep Guardiola insists Manchester City are still in the title race despite drawing 0-0 with West Ham, leaving them 9 points behind Arsenal! \ud83c\udfc6 #MCFC #PremierLeague",
         "source_url": "https://www.mirror.co.uk/sport/football/news/guardiola-mancity-arsenal-premier-league-36869187",
@@ -85,17 +63,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-15T15:20:31.838470",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "be050b39",
-        "tweet_text": "\ud83d\udea8 Max Dowman makes history as the youngest ever Premier League goalscorer, breaking a 20-year record in the match against Everton! \u26bd\ufe0f #PremierLeague #HistoryMaker",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/youngest-premier-league-goalscorers-dowman-36870011",
-        "article_title": "10 of the youngest Premier League goalscorers as Max Dowman makes history vs Everton",
-        "created_at": "2026-03-15T12:36:11.671612",
-        "scheduled_for": "2026-03-15T12:46:11.671612",
-        "expires_at": "2026-03-15T13:36:11.671612",
-        "type": "auto",
         "status": "pending"
     },
     {
