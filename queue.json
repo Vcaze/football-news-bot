@@ -75,5 +75,27 @@
         "expires_at": "2026-03-15T21:21:48.751362",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "438d5dee",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ashley Cole has been appointed head coach of Serie B side Cesena, marking his first managerial role! He signs until June with an option to extend. \u26bd\ufe0f\ud83c\uddee\ud83c\uddf9 #AshleyCole #Cesena",
+        "source_url": "https://www.theguardian.com/football/2026/mar/15/ashley-cole-appointed-head-coach-cesena-italy-serie-b",
+        "article_title": "Ashley Cole lands first managerial role as head coach of Serie B side Cesena",
+        "created_at": "2026-03-15T18:29:17.988797",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T22:29:17.988797",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "07b608e1",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester United secures a crucial 2-1 victory against Aston Villa at Old Trafford, boosting their Champions League hopes! Captain Bruno Fernandes shines again! \ud83d\udd34\u26bd #MUFC #ChampionsLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-fernandes-villa-36871168",
+        "article_title": "Michael Carrick makes Bruno Fernandes appeal after record-breaking Man Utd display",
+        "created_at": "2026-03-15T18:29:20.775280",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T22:29:20.775280",
+        "type": "manual",
+        "status": "pending"
     }
 ]
