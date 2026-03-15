@@ -75,5 +75,16 @@
         "expires_at": "2026-03-15T18:23:54.190172",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "4fca79fe",
+        "tweet_text": "\ud83d\udea8 BIG NEWS! Max Dowman becomes the youngest goalscorer in Premier League history as Arsenal secures a 2-0 victory over Everton! \ud83d\udd25 Pundits Joe Hart and Ashley Williams rave about his talent! #Arsenal #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/videos/ckgl549lv13o?at_medium=RSS&at_campaign=rss",
+        "article_title": "We've got a special player on our hands with Dowman - Hart",
+        "created_at": "2026-03-15T15:22:13.020883",
+        "scheduled_for": null,
+        "expires_at": "2026-03-15T19:22:13.020883",
+        "type": "manual",
+        "status": "pending"
     }
 ]
