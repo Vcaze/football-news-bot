@@ -97,5 +97,16 @@
         "expires_at": "2026-03-17T00:31:16.915096",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "81df6d9f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Brentford's Igor Thiago and Bournemouth's Rayan earn their first Brazil call-ups for friendlies against France and Croatia later this month! \ud83c\udde7\ud83c\uddf7\u26bd\ufe0f #BrazilNationalTeam #FootballTalent",
+        "source_url": "https://www.bbc.com/sport/football/articles/c8eg0y22w2ro?at_medium=RSS&at_campaign=rss",
+        "article_title": "Thiago and Rayan receive first Brazil call-ups",
+        "created_at": "2026-03-16T21:32:18.801292",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T01:32:18.801292",
+        "type": "manual",
+        "status": "pending"
     }
 ]
