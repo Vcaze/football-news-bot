@@ -9,5 +9,27 @@
         "expires_at": "2026-03-16T12:48:32.752235",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "243b02bf",
+        "tweet_text": "\ud83d\udea8 Wrexham's Kieffer Moore ruled out until April with a hamstring injury, missing Wales' World Cup play-offs this month! \ud83d\udc94 #Wales #KiefferMoore",
+        "source_url": "https://www.bbc.com/sport/football/articles/c4gqn013527o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Wrexham's Moore to miss Wales' World Cup play-offs",
+        "created_at": "2026-03-16T11:41:44.193706",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T15:41:44.193706",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "bcd93730",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Kylian Mbappe and Jude Bellingham are back in Real Madrid's squad for the Champions League clash against Manchester City! \u26bd\ufe0f\ud83d\udd25 #UCL #RMFC",
+        "source_url": "https://www.bbc.com/sport/football/articles/cvg3212g23yo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Real's Bellingham and Mbappe back for Man City trip",
+        "created_at": "2026-03-16T11:41:47.166263",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T15:41:47.166263",
+        "type": "manual",
+        "status": "pending"
     }
 ]
