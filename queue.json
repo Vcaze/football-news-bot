@@ -53,5 +53,16 @@
         "expires_at": "2026-03-16T18:17:57.268704",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "da092ac3",
+        "tweet_text": "\ud83d\udea8 Chelsea banned from signing academy players from Premier League and EFL clubs for 9 months and fined \u00a310.75m! This puts Rio Ngumoha's 'revenge' move at risk. #CFC #TransferNews",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-ban-liverpool-ngumoha-transfer-36876156",
+        "article_title": "Chelsea ban puts Rio Ngumoha 'revenge' move at risk but two potential transfers safe",
+        "created_at": "2026-03-16T15:59:06.319737",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T19:59:06.319737",
+        "type": "manual",
+        "status": "pending"
     }
 ]
