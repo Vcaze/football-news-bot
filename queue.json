@@ -44,17 +44,6 @@
         "status": "pending"
     },
     {
-        "id": "f343a7d2",
-        "tweet_text": "\ud83d\udea8 Chelsea fined \u00a310.75m and given a one-year transfer ban, suspended for two years, over secret agent payments! Major implications for their transfer strategy! \u26bd\ufe0f\ud83d\udcb0 #CFC #TransferBan",
-        "source_url": "https://www.skysports.com/football/news/12040/13520518/chelsea-fined-10-75m-and-handed-suspended-transfer-ban-over-secret-payments-breaching-premier-league-rules",
-        "article_title": "Chelsea handed big fine and suspended transfer ban over secret agent payments",
-        "created_at": "2026-03-16T14:17:51.338726",
-        "scheduled_for": "2026-03-16T14:27:51.338726",
-        "expires_at": "2026-03-16T15:17:51.338726",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
         "id": "b629caf3",
         "tweet_text": "\ud83d\udea8 Chelsea fined \u00a310.75m and handed a suspended transfer ban for breaching Premier League rules on financial reporting and youth development. \u26bd\ufe0f\ud83d\udcb0 #CFC #PremierLeague",
         "source_url": "https://www.bbc.com/sport/football/articles/ckg2m450zgzo?at_medium=RSS&at_campaign=rss",
@@ -63,28 +52,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-16T18:17:57.268704",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "b42d47c7",
-        "tweet_text": "\ud83d\udea8 Chelsea fined \u00a310.75m and handed a suspended one-window transfer ban for historical rule-breaking from 2011-2018. Additionally, a nine-month academy transfer ban is in place! \u2696\ufe0f #CFC #TransferBan",
-        "source_url": "https://www.theguardian.com/football/2026/mar/16/chelsea-fined-suspended-transfer-ban-historical-rule-breaking",
-        "article_title": "Chelsea fined \u00a310.75m and given suspended transfer ban over historical rule-breaking",
-        "created_at": "2026-03-16T14:18:01.264554",
-        "scheduled_for": "2026-03-16T14:28:01.264554",
-        "expires_at": "2026-03-16T15:18:01.264554",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "e6e49e54",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea hit with a record-breaking eight-figure fine and a nine-month academy transfer ban after admitting to breaking Premier League rules! \u26bd\ufe0f\ud83d\udcb0 #Chelsea #PremierLeague",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-premier-league-transfer-ban-36875314",
-        "article_title": "Chelsea punishments, rule breaches and Premier League investigation results explained",
-        "created_at": "2026-03-16T14:18:07.035825",
-        "scheduled_for": "2026-03-16T14:28:07.035825",
-        "expires_at": "2026-03-16T15:18:07.035825",
-        "type": "auto",
         "status": "pending"
     }
 ]
