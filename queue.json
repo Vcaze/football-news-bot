@@ -53,5 +53,16 @@
         "expires_at": "2026-03-16T12:48:32.752235",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d11ca654",
+        "tweet_text": "\ud83d\udea8 Turkish football mourns the loss of former top-flight player Baran Vardar, 20, after a brave battle with cancer. Istanbulspor pays tribute with a heartfelt statement. \ud83d\udc94\u26bd #RIPBaranVardar #FootballFamily",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/turkish-football-istanbulspor-vardar-dies-36873073",
+        "article_title": "Former top-flight footballer, 20, tragically dies after lengthy battle with cancer",
+        "created_at": "2026-03-16T09:58:18.860226",
+        "scheduled_for": "2026-03-16T10:08:18.860226",
+        "expires_at": "2026-03-16T10:58:18.860226",
+        "type": "auto",
+        "status": "pending"
     }
 ]
