@@ -75,5 +75,27 @@
         "expires_at": "2026-03-17T01:32:18.801292",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ab80f980",
+        "tweet_text": "\ud83d\udea8 Manchester United face a dilemma as the dressing room urges the club to reconsider the decision to let Casemiro go this summer! His performance has sparked a U-turn plea. \ud83d\udd34\u26bd #MUFC #Casemiro",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-face-awkward-casemiro-36877949",
+        "article_title": "Man Utd face 'awkward' Casemiro scenario as dressing room make U-turn plea",
+        "created_at": "2026-03-16T22:25:43.887704",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T02:25:43.887704",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "c438c357",
+        "tweet_text": "\ud83d\udea8 Bruno Fernandes breaks David Beckham's Premier League assists record as Manchester United defeats Aston Villa 3-1! \ud83d\udd25 Thierry Henry impressed by Fernandes' fiery performance! #MUFC #PLHighlights",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-henry-36877900",
+        "article_title": "Bruno Fernandes behaviour leaves Thierry Henry purring after fiery Amad incident",
+        "created_at": "2026-03-16T22:25:45.438738",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T02:25:45.438738",
+        "type": "manual",
+        "status": "pending"
     }
 ]
