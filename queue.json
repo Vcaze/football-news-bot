@@ -53,5 +53,60 @@
         "expires_at": "2026-03-16T21:04:46.864877",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "8cc99f29",
+        "tweet_text": "\ud83d\udea8 Chelsea fined a Premier League record \u00a310.75m and handed a suspended transfer ban for hidden payments in player signings. Major implications for the club! \u26bd\ufe0f\ud83d\udcb0 #ChelseaFC #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/cn48e171zlvo?at_medium=RSS&at_campaign=rss",
+        "article_title": "How Chelsea signed a star team with hidden payments",
+        "created_at": "2026-03-16T18:52:36.941004",
+        "scheduled_for": "2026-03-16T19:02:36.941004",
+        "expires_at": "2026-03-16T19:52:36.941004",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "cf19b71f",
+        "tweet_text": "\ud83d\udea8 Reece James is a doubt for the England World Cup squad after suffering a hamstring injury during Chelsea's defeat to Newcastle. Expected to miss several weeks, he will also miss the Champions League clash vs PSG. #CFC #ThreeLions",
+        "source_url": "https://www.theguardian.com/football/2026/mar/16/reece-james-hamstring-injury-liam-rosenior-chelsea-champions-league-last-16-second-leg-psg-england-world-cup-2026",
+        "article_title": "Chelsea\u2019s Reece James an England World Cup doubt with hamstring injury",
+        "created_at": "2026-03-16T18:52:44.134082",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T22:52:44.134082",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "12e0ad4a",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Joan Laporta re-elected as Barcelona president with 68.18% of the vote, following a thrilling 5-2 victory against Sevilla! \ud83c\udf89 His leadership continues as he celebrates with players and fans at Camp Nou! #FCBarcelona #Laporta2026",
+        "source_url": "https://www.theguardian.com/football/2026/mar/16/joan-laporta-victory-barcelona-fc-president",
+        "article_title": "Laporta shrugs off the flak and cruises to re-election as Barcelona president | Sid Lowe",
+        "created_at": "2026-03-16T18:52:47.581282",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T22:52:47.581282",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e5e0ecbc",
+        "tweet_text": "\ud83d\udea8 Chelsea hit with a record fine for breaching third-party investment rules and now face a second punishment from the FA! \ud83d\udcb0 #CFC #FAPunishment",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-punishment-fa-fine-premierleague-36877375",
+        "article_title": "Chelsea to face second punishment from FA for breaking rules after record fine issued",
+        "created_at": "2026-03-16T18:52:49.692669",
+        "scheduled_for": null,
+        "expires_at": "2026-03-16T22:52:49.692669",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "85dbae88",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea fined \u00a310.75m & handed a suspended one-year transfer ban for historical Premier League rule breaches. The club must navigate carefully ahead! \u26bd\ufe0f\ud83d\udcb0 #CFC #TransferNews",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48221999/chelsea-accept-fine-transfer-ban-premier-league-rule-breaches",
+        "article_title": "Chelsea given fine, suspended transfer ban by PL",
+        "created_at": "2026-03-16T18:52:52.732507",
+        "scheduled_for": "2026-03-16T19:02:52.732507",
+        "expires_at": "2026-03-16T19:52:52.732507",
+        "type": "auto",
+        "status": "pending"
     }
 ]
