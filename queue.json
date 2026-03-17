@@ -31,5 +31,27 @@
         "expires_at": "2026-03-17T22:52:17.482481",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "f2243589",
+        "tweet_text": "Federico Valverde, once rejected by Arsenal, has risen to become a Real Madrid legend! \ud83c\udf1f He played a crucial role in their Champions League victory over Manchester City! \u26bd\ufe0f #RealMadrid #Valverde",
+        "source_url": "https://www.bbc.com/sport/football/articles/cd9g12yl111o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Arsenal trial and self-doubt: Valverde's journey to Real legend",
+        "created_at": "2026-03-17T20:31:53.549923",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T00:31:53.549923",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6e072c03",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Premier League star has announced his switch to represent a new national team and could face Scotland at the upcoming World Cup! \ud83c\udf0d\u26bd #InternationalFootball #WorldCup2023",
+        "source_url": "https://talksport.com/football/4113658/world-cup-switch-france-haiti-wilson-isidor/",
+        "article_title": "Premier League star announces international switch and could face Scotland at World Cup",
+        "created_at": "2026-03-17T20:31:58.214549",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T00:31:58.214549",
+        "type": "manual",
+        "status": "pending"
     }
 ]
