@@ -20,5 +20,38 @@
         "expires_at": "2026-03-17T19:57:59.287593",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "67153d47",
+        "tweet_text": "\ud83d\udea8 Chelsea set to pay Roman Abramovich the remaining \u00a3150m from the 2022 sale following Premier League sanctions! \ud83d\udcb0 #CFC #Abramovich",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-roman-abramovich-premier-league-36883486",
+        "article_title": "Chelsea to make huge Roman Abramovich payment after Premier League sanction",
+        "created_at": "2026-03-17T18:52:13.034595",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T22:52:13.034595",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "b33ff0e5",
+        "tweet_text": "\ud83d\udea8 Furious clubs contact Premier League bosses after Chelsea escape a points deduction despite being fined \u00a310.75m for undisclosed payments related to transfers between 2011-2018! \u26bd\ufe0f\ud83d\udcb0 #PremierLeague #Chelsea",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-premier-league-points-deduction-36883058",
+        "article_title": "Furious clubs 'contact Premier League bosses' after Chelsea avoid points deduction",
+        "created_at": "2026-03-17T18:52:15.720849",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T22:52:15.720849",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "30bb5f04",
+        "tweet_text": "\ud83d\udea8 USMNT roster revealed! Christian Pulisic, Weston McKennie, and Chris Richards lead the 27-player squad, while Tyler Adams is out injured. \ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f #USMNT #InternationalBreak",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48231251/christian-pulisic-weston-mckennie-headline-march-united-states-friendlies-roster",
+        "article_title": "Pulisic, Reyna in USMNT roster; Adams out injured",
+        "created_at": "2026-03-17T18:52:17.482481",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T22:52:17.482481",
+        "type": "manual",
+        "status": "pending"
     }
 ]
