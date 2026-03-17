@@ -64,5 +64,60 @@
         "expires_at": "2026-03-18T01:30:28.174158",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "f6f902d7",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Real Madrid eliminates Manchester City from the Champions League again with a 2-1 win, securing a 5-1 aggregate victory! Vinicius Jr shines with two goals. \u26bd\ufe0f\ud83c\udfc6 #UCL #RealMadrid",
+        "source_url": "https://www.skysports.com/football/manchester-city-vs-real-madrid/report/554900",
+        "article_title": "Man City knocked out of Europe by Real Madrid AGAIN",
+        "created_at": "2026-03-17T22:25:57.258302",
+        "scheduled_for": "2026-03-17T22:35:57.258302",
+        "expires_at": "2026-03-17T23:25:57.258302",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "47bfadf3",
+        "tweet_text": "\ud83d\udea8 Arsenal defeat Bayer Leverkusen 3-1 on aggregate to secure a spot in the Champions League quarter-finals! Next up: Sporting Lisbon! \u26bd\ufe0f\ud83c\udfc6 #AFC #UCL",
+        "source_url": "https://www.skysports.com/football/arsenal-vs-bayer-leverkusen/report/554849",
+        "article_title": "Dominant Arsenal see off Leverkusen to reach Champions League quarters",
+        "created_at": "2026-03-17T22:26:00.191284",
+        "scheduled_for": "2026-03-17T22:36:00.191284",
+        "expires_at": "2026-03-17T23:26:00.191284",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "c5b85e96",
+        "tweet_text": "\ud83d\udea8 Chelsea booed off after a devastating 3-0 loss to PSG, resulting in an 8-2 aggregate defeat in the Champions League last-16! Tough night at Stamford Bridge! \u26bd\ufe0f\ud83d\udc94 #CFC #UCL",
+        "source_url": "https://www.skysports.com/football/chelsea-vs-paris-saint-germain/report/554901",
+        "article_title": "Chelsea booed off after PSG thrashing",
+        "created_at": "2026-03-17T22:26:02.737985",
+        "scheduled_for": "2026-03-17T22:36:02.737985",
+        "expires_at": "2026-03-17T23:26:02.737985",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "de6f7739",
+        "tweet_text": "\ud83d\udea8 Arsenal defeat Bayer Leverkusen 2-0 (3-1 on aggregate) as Eberechi Eze and Declan Rice score to secure their place in the Champions League! A crucial boost ahead of the Carabao Cup final! \u26bd\ufe0f\ud83c\udfc6 #AFC #ChampionsLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/match-reports/arsenal-bayer-leverkusen-eberechi-eze-36884271",
+        "article_title": "Eberechi Eze produces more big-match magic in Arsenal and Mikel Arteta's pivotal week",
+        "created_at": "2026-03-17T22:26:10.157829",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T02:26:10.157829",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "04bd305c",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Man City crash out of the Champions League after a 1-2 defeat to Real Madrid, losing 1-5 on aggregate. Bernardo Silva\u2019s red card proves costly for Pep Guardiola's side! \u26bd\ufe0f\ud83d\udd34 #ChampionsLeague #ManCity",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-city-real-madrid-highlights-36884236",
+        "article_title": "Pep Guardiola's Man City fail again vs Real Madrid as they crash out the Champions League",
+        "created_at": "2026-03-17T22:26:12.016601",
+        "scheduled_for": "2026-03-17T22:36:12.016601",
+        "expires_at": "2026-03-17T23:26:12.016601",
+        "type": "auto",
+        "status": "pending"
     }
 ]
