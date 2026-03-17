@@ -9,5 +9,38 @@
         "expires_at": "2026-03-17T12:42:25.344950",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "0f416619",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Wales omit captain Aaron Ramsey from the World Cup play-off squad, raising questions about his international future. \ud83c\uddfc\ud83c\uddf8\u26bd #Wales #AaronRamsey",
+        "source_url": "https://www.bbc.com/sport/football/articles/cwyk0znkdz5o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Wales leave captain Ramsey out of World Cup play-off squad",
+        "created_at": "2026-03-17T11:38:37.159607",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T15:38:37.159607",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "c09a07e0",
+        "tweet_text": "\ud83d\udea8 Federico Valverde, once rejected by Arsenal, is now a Real Madrid legend after leading them to Champions League victory over Manchester City! What a journey! \ud83c\udfc6\u26bd\ufe0f #RealMadrid #Valverde",
+        "source_url": "https://www.bbc.com/sport/football/articles/cd9g12yl111o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Arsenal trial and self-doubt: Valverde's journey to Real legend",
+        "created_at": "2026-03-17T11:38:39.208141",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T15:38:39.208141",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "89a7202c",
+        "tweet_text": "\ud83d\udea8 Major stadium declines to host 2030 World Cup matches after investing \u00a3100m! The tournament will still take place in Spain, Portugal, and Morocco. \ud83c\udfdf\ufe0f\u26bd\ufe0f #WorldCup2030 #FootballNews",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/world-cup-host-stadium-withdraws-36879542",
+        "article_title": "Major stadium refuses to host World Cup matches despite splashing out \u00a3100m",
+        "created_at": "2026-03-17T11:38:44.229988",
+        "scheduled_for": null,
+        "expires_at": "2026-03-17T15:38:44.229988",
+        "type": "manual",
+        "status": "pending"
     }
 ]
