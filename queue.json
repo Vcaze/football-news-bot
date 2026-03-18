@@ -20,5 +20,16 @@
         "expires_at": "2026-03-18T20:03:39.578784",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "857fafe1",
+        "tweet_text": "\ud83d\udea8 Premier League club targets PSV Eindhoven striker for a \u00a335m transfer! The player is in England for a medical and is set to sign a five-year deal. \ud83d\udd25 #TransferNews #EPL",
+        "source_url": "https://www.dailymail.co.uk/sport/football/article-15655229/Premier-League-club-closes-PSV-Eindhovens-35m-USA-striker-having-earlier-offer-rejected.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+        "article_title": "Premier League club target flies to England for medical as he closes in on \u00a335m transfer from PSV Eindhoven - with striker set to sign a five-year deal",
+        "created_at": "2026-03-18T17:55:17.999399",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T21:55:17.999399",
+        "type": "manual",
+        "status": "pending"
     }
 ]
