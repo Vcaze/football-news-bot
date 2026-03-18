@@ -31,5 +31,38 @@
         "expires_at": "2026-03-18T21:55:17.999399",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "2b07b3b8",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Portsmouth owner Michael Eisner warns of a looming financial catastrophe in the Championship as clubs face mounting losses, including Pompey's recent deficit. \u26bd\ufe0f\ud83d\udcb0 #Championship #FootballFinance",
+        "source_url": "https://www.bbc.com/sport/football/articles/ce3g3ygjkjvo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Championship faces financial 'catastrophe' warns Portsmouth owner Eisner",
+        "created_at": "2026-03-18T18:50:39.542337",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T22:50:39.542337",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "eab06ced",
+        "tweet_text": "\ud83d\udea8 Ex-Chelsea chief criticizes Premier League for an 'extremely lenient' \u00a310.75m fine and suspended transfer ban for historic breaches under Roman Abramovich. \u26bd\ufe0f #ChelseaFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-premier-league-transfer-ban-36889306",
+        "article_title": "Ex-Chelsea chief slams 'extremely lenient' Premier League fine as new punishment suggested",
+        "created_at": "2026-03-18T18:50:45.042477",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T22:50:45.042477",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "a76d1dca",
+        "tweet_text": "\ud83d\udea8 Michael Olise is at the center of transfer speculation as Real Madrid reportedly make a mega \u00a3138m offer! The young talent could be on the move soon! \u26bd\ufe0f\ud83d\udcb0 #TransferNews #OliseToMadrid",
+        "source_url": "https://talksport.com/football/4123455/michael-olise-real-madrid-transfer-bayern-munich/",
+        "article_title": "Michael Olise theory emerges amid reports of mega \u00a3138million Real Madrid offer",
+        "created_at": "2026-03-18T18:50:48.272793",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T22:50:48.272793",
+        "type": "manual",
+        "status": "pending"
     }
 ]
