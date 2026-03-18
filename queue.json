@@ -97,5 +97,16 @@
         "expires_at": "2026-03-19T00:29:23.990600",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "9cd67e6e",
+        "tweet_text": "\ud83d\udea8 Sandro Tonali injured in Newcastle's UCL loss to Barcelona, just eight days before Italy's World Cup qualifying playoffs! \ud83e\udd15\ud83c\uddee\ud83c\uddf9 #UCL #Italy",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48242590/sandro-tonali-injured-newcastle-loss-italy-playoff",
+        "article_title": "Tonali injured in UCL loss ahead of Italy playoff",
+        "created_at": "2026-03-18T21:28:31.101077",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T01:28:31.101077",
+        "type": "manual",
+        "status": "pending"
     }
 ]
