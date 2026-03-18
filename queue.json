@@ -64,5 +64,49 @@
         "expires_at": "2026-03-18T23:44:08.766352",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "07cde4fc",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Newcastle's Champions League hopes were shattered as they fell 7-2 to Barcelona, who progress to the quarter-finals with an 8-3 aggregate! \ud83d\ude31\u26bd\ufe0f #UCL #Newcastle",
+        "source_url": "https://www.skysports.com/football/barcelona-vs-newcastle-united/report/554850",
+        "article_title": "SEVEN! Newcastle mauled by Barcelona with CL dreams demolished",
+        "created_at": "2026-03-18T20:29:12.868433",
+        "scheduled_for": "2026-03-18T20:39:12.868433",
+        "expires_at": "2026-03-18T21:29:12.868433",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "037281c7",
+        "tweet_text": "\ud83d\udea8 Barcelona dominate Newcastle 7-2 at Camp Nou, advancing to the Champions League quarterfinals with an 8-3 aggregate victory! \u26bd\ufe0f\ud83d\udd25 #ChampionsLeague #Barcelona",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/401862582",
+        "article_title": "7-goal Barcelona run wild in rout of Newcastle",
+        "created_at": "2026-03-18T20:29:19.279309",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T00:29:19.279309",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f1b8407a",
+        "tweet_text": "HUGE NEWS: Eddie Howe is under pressure to resign as Newcastle makes unwanted Champions League history after a disappointing performance. \u26bd\ufe0f\ud83d\ude31 #NUFC #ChampionsLeague",
+        "source_url": "https://talksport.com/football/4123985/newcastle-barcelona-eddie-howe-resignation-champions-league/",
+        "article_title": "Eddie Howe told to offer resignation as Newcastle create unwanted Champions League history",
+        "created_at": "2026-03-18T20:29:21.245515",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T00:29:21.245515",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "5b12670b",
+        "tweet_text": "HUGE NEWS: Barcelona crush Newcastle 7-2 in the second leg, winning 8-3 on aggregate! Eddie Howe's defense falters in a record European defeat. \ud83d\udc94\u26bd\ufe0f #ChampionsLeague #FCBarcelona",
+        "source_url": "https://www.dailymail.co.uk/sport/football/article-15657307/Barcelona-7-2-Newcastle-8-3-agg-Eddie-Howe-record-European-defeat-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+        "article_title": "Barcelona 7-2 Newcastle (8-3 on agg): Eddie Howe's side produce dog's dinner in defence in record European defeat",
+        "created_at": "2026-03-18T20:29:23.990600",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T00:29:23.990600",
+        "type": "manual",
+        "status": "pending"
     }
 ]
