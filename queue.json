@@ -1,1 +1,35 @@
-[]
+[
+    {
+        "id": "f1fe57bd",
+        "tweet_text": "\ud83d\udea8 Sporting Lisbon stages a dramatic comeback, defeating Bod\u00f8/Glimt 5-0 after extra time to win 5-3 on aggregate and advance to the Champions League quarter-finals! \ud83d\udd25\u26bd #UCL #SportingLisbon",
+        "source_url": "https://www.theguardian.com/football/2026/mar/17/sporting-lisbon-bodo-glimt-champions-league-last-16-match-report",
+        "article_title": "Sporting\u2019s stunning turnaround ends Bod\u00f8/Glimt\u2019s Champions League run",
+        "created_at": "2026-03-18T06:54:14.959603",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T10:54:14.959603",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "72a7bde9",
+        "tweet_text": "\ud83d\udea8 Arsenal remain strong in their Premier League campaign, eyeing a potential quadruple as rivals falter! Can they keep up the momentum? \ud83d\udd25 #Arsenal #PremierLeague",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48233694/arsenal-unflappable-champions-league-stark-contrast-premier-league-counterparts",
+        "article_title": "As Premier League sides crumble around them, Arsenal keep cruising closer to a quadruple",
+        "created_at": "2026-03-18T06:54:20.095906",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T10:54:20.095906",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "0662ba02",
+        "tweet_text": "\ud83d\udea8 Manchester City suffer a devastating blow as they are eliminated by Real Madrid in the Champions League for the third consecutive year! \ud83d\ude31 #UCL #MCFC",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48233770/guardiola-champions-league-legacy-dealt-latest-blow-real-madrid",
+        "article_title": "Real Madrid deal latest blow to Guardiola's Champions League legacy",
+        "created_at": "2026-03-18T06:54:22.486354",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T10:54:22.486354",
+        "type": "manual",
+        "status": "pending"
+    }
+]
