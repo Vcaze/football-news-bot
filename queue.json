@@ -31,5 +31,16 @@
         "expires_at": "2026-03-18T10:54:22.486354",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d0106c6c",
+        "tweet_text": "\ud83d\udea8 Alexander Isak's agent could face an FA investigation over the ongoing Chelsea saga! \u26bd\ufe0f #FootballNews #TransferTalk",
+        "source_url": "https://talksport.com/football/4114191/alexander-isak-chelsea-rule-breaches-fa-investigation/",
+        "article_title": "Alexander Isak agent &#8216;could face FA investigation&#8217; over Chelsea saga",
+        "created_at": "2026-03-18T07:48:18.042673",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T11:48:18.042673",
+        "type": "manual",
+        "status": "pending"
     }
 ]
