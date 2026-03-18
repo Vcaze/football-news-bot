@@ -64,5 +64,27 @@
         "expires_at": "2026-03-18T22:50:48.272793",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "1ea85e9a",
+        "tweet_text": "\ud83d\udea8 Manchester United's chief confirms a new timeline for their record-breaking \u00a32bn stadium project, set to replace Old Trafford, but construction won't start anytime soon. \ud83c\udfdf\ufe0f #MUFC #StadiumPlans",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-new-stadium-update-36889959",
+        "article_title": "Man Utd chief confirms fresh timeline for record-breaking \u00a32bn new stadium",
+        "created_at": "2026-03-18T19:44:03.172578",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T23:44:03.172578",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6963a00b",
+        "tweet_text": "\ud83d\udea8 Manchester United is planning a \u00a32bn 'Wembley of the North' stadium in the next 18 months as discussions with top construction firms begin! \ud83c\udfdf\ufe0f #MUFC #StadiumRevamp",
+        "source_url": "https://www.dailymail.co.uk/sport/football/article-15658633/Manchester-United-target-planning-application-2bn-stadium-18-months.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+        "article_title": "Manchester United target planning application for \u00a32bn 'Wembley of the North' within 18 months as Old Trafford revamp gathers pace",
+        "created_at": "2026-03-18T19:44:08.766352",
+        "scheduled_for": null,
+        "expires_at": "2026-03-18T23:44:08.766352",
+        "type": "manual",
+        "status": "pending"
     }
 ]
