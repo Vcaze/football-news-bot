@@ -1,38 +1,5 @@
 [
     {
-        "id": "804c4e2e",
-        "tweet_text": "\ud83d\udea8 Michael Olise shines at Bayern Munich this season, putting him in the conversation for the Ballon d'Or! Can the ex-Palace winger secure this prestigious honor? \ud83c\udf1f #BallonDor #BayernMunich",
-        "source_url": "https://www.bbc.com/sport/football/articles/c5yjd459xreo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern",
-        "created_at": "2026-03-18T11:40:13.809422",
-        "scheduled_for": null,
-        "expires_at": "2026-03-18T15:40:13.809422",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "f068b760",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: FIFA announces a landmark broadcast deal, mandating significant changes for BBC and ITV coverage of World Cup 2026 matches! \ud83d\udcfa\u26bd\ufe0f #WorldCup2026 #FIFA",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/fifa-world-cup-bbc-itv-36886273",
-        "article_title": "FIFA strikes landmark deal to force huge change to BBC and ITV World Cup 2026 matches",
-        "created_at": "2026-03-18T11:40:20.966737",
-        "scheduled_for": null,
-        "expires_at": "2026-03-18T15:40:20.966737",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "d9e0ad01",
-        "tweet_text": "\ud83d\udea8 Arsenal remain strong at the top of the Premier League, eyeing a potential quadruple as other teams struggle around them! Can they keep up this momentum? \u26bd\ufe0f\ud83c\udfc6 #PremierLeague #Arsenal",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48233694/arsenal-unflappable-champions-league-stark-contrast-premier-league-counterparts",
-        "article_title": "As Premier League sides crumble around them, Arsenal keep cruising closer to a quadruple",
-        "created_at": "2026-03-18T11:40:23.114822",
-        "scheduled_for": null,
-        "expires_at": "2026-03-18T15:40:23.114822",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "2e694534",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City could face severe penalties as they confront 115 charges from the Premier League, while Chelsea receives leniency. The stakes are high! \u26bd\ufe0f\u2696\ufe0f #ManCity #Chelsea",
         "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-punishment-man-city-charges-36881426",
@@ -74,17 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-18T20:03:31.594582",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "277b6794",
-        "tweet_text": "\ud83d\udea8 BREAKING: Broadcast legend Danny Kelly announces he is taking a break from football coverage after revealing his cancer diagnosis. Wishing him strength during this tough time. \ud83d\udcaa\u2764\ufe0f #FootballCommunity #GetWellSoon",
-        "source_url": "https://talksport.com/football/4113137/danny-kelly-talksport-break-cancer/",
-        "article_title": "Broadcast legend Danny Kelly announces he is taking a break as he reveals cancer diagnosis",
-        "created_at": "2026-03-18T16:03:36.330939",
-        "scheduled_for": "2026-03-18T16:13:36.330939",
-        "expires_at": "2026-03-18T17:03:36.330939",
-        "type": "auto",
         "status": "pending"
     },
     {
