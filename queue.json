@@ -53,5 +53,27 @@
         "expires_at": "2026-03-20T01:28:58.085304",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "1aa7a2f4",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Premier League is set to amend its spending rules, allowing clubs more flexibility for transfers and extending the \u00a330 away ticket cap until 2027-28! \u26bd\ufe0f\ud83d\udcb0 #PremierLeague #Transfers",
+        "source_url": "https://www.theguardian.com/football/2026/mar/19/premier-league-spending-rules-squad-cost-ratio",
+        "article_title": "Premier League set to amend spending rules to give clubs more flexibility for transfers",
+        "created_at": "2026-03-19T22:20:50.065757",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T02:20:50.065757",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "60fbe51b",
+        "tweet_text": "\ud83d\udea8 Premier League clubs set to vote on giving VAR more power next season after IFAB approves new proposal to be showcased during the World Cup! \u26bd\ufe0f #VAR #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/premier-league-var-corners-vote-36896508",
+        "article_title": "Premier League clubs to vote on handing VAR more power after World Cup decision",
+        "created_at": "2026-03-19T22:20:52.131901",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T02:20:52.131901",
+        "type": "manual",
+        "status": "pending"
     }
 ]
