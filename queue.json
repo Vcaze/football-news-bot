@@ -20,5 +20,16 @@
         "expires_at": "2026-03-19T14:33:07.927811",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "5b7f673e",
+        "tweet_text": "\ud83d\udea8 Premier League clubs brace for a managerial shakeup as new employment law changes complicate sacking processes, giving managers and players more rights! \u26bd\ufe0f\ud83d\udcc9 #PremierLeague #ManagerialChanges",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/premier-league-managers-sacked-rights-36892294",
+        "article_title": "Premier League clubs face sacking manager nightmare with major law change",
+        "created_at": "2026-03-19T12:44:28.377406",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T16:44:28.377406",
+        "type": "manual",
+        "status": "pending"
     }
 ]
