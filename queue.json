@@ -42,16 +42,5 @@
         "expires_at": "2026-03-19T14:33:07.927811",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "9a997b5c",
-        "tweet_text": "\ud83d\udea8 Galatasaray's Noa Lang updates fans from his hospital bed after suffering a serious injury during the Champions League clash against Liverpool. Wishing him a speedy recovery! \ud83c\udfe5\u26bd #NoaLang #UCL",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/noa-lang-horror-injury-liverpool-36892130",
-        "article_title": "Noa Lang posts update from hospital bed after horror injury in Liverpool clash",
-        "created_at": "2026-03-19T11:30:27.450935",
-        "scheduled_for": "2026-03-19T11:40:27.450935",
-        "expires_at": "2026-03-19T12:30:27.450935",
-        "type": "auto",
-        "status": "pending"
     }
 ]
