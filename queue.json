@@ -31,5 +31,16 @@
         "expires_at": "2026-03-19T19:45:37.535316",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "eeb6f533",
+        "tweet_text": "\ud83d\udea8 Thibaut Courtois is out for approximately six weeks due to a thigh injury suffered in the 2-1 win against Manchester City. Tough break for Real Madrid! \u26bd\ufe0f\ud83e\udd15 #CourtoisInjury #RealMadrid",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48248055/real-madrid-thibaut-courtois-injured-six-weeks",
+        "article_title": "Sources: Courtois set for six-week injury absence",
+        "created_at": "2026-03-19T16:51:26.465705",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T20:51:26.465705",
+        "type": "manual",
+        "status": "pending"
     }
 ]
