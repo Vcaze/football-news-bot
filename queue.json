@@ -75,5 +75,27 @@
         "expires_at": "2026-03-20T00:29:21.253319",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ab90f9d9",
+        "tweet_text": "\ud83d\udea8 Nottingham Forest advance to the Europa League quarter-finals after a thrilling penalty shoot-out win against Midtjylland! \u26bd\ufe0f #UEL #NFFC",
+        "source_url": "https://www.skysports.com/football/fc-midtjylland-vs-nottingham-forest/report/554933",
+        "article_title": "Forest reach EL quarter-finals with shoot-out victory over Midtjylland",
+        "created_at": "2026-03-19T21:28:51.496054",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T01:28:51.496054",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "a0d46cd1",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: FIFA mandates that each women's national team must include at least two female staff members ahead of the 2027 World Cup! \ud83c\udf0d\u26bd\ufe0f #FIFA #WomensFootball",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/fife-womens-world-cup-rules-36896309",
+        "article_title": "FIFA to impose new radical rule on women's national teams ahead of 2027 World Cup",
+        "created_at": "2026-03-19T21:28:58.085304",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T01:28:58.085304",
+        "type": "manual",
+        "status": "pending"
     }
 ]
