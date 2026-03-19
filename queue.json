@@ -53,5 +53,16 @@
         "expires_at": "2026-03-19T11:42:11.177849",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "140e0aa6",
+        "tweet_text": "\ud83d\udea8 Hansi Flick's inspiring half-time talk propelled Barcelona to a stunning 7-2 victory over Newcastle United, securing their place in the Champions League quarterfinals against Atl\u00e9tico Madrid! \u26bd\ufe0f\ud83d\udd25 #ChampionsLeague #FCBarcelona",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48243679/hansi-flick-barcelona-newcastle-united-champions-league",
+        "article_title": "Flick's talk inspires Bar\u00e7a's 2nd-half demolition",
+        "created_at": "2026-03-19T08:34:43.061813",
+        "scheduled_for": null,
+        "expires_at": "2026-03-19T12:34:43.061813",
+        "type": "manual",
+        "status": "pending"
     }
 ]
