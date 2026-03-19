@@ -75,5 +75,16 @@
         "expires_at": "2026-03-19T22:45:41.398968",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "6e2b3d71",
+        "tweet_text": "\ud83d\udea8 Igor Tudor charged with misconduct for claiming referee Thomas Bramall favored the \"home team\" in Tottenham's loss to Fulham. Major implications for the interim manager! \u26bd\ufe0f\u2696\ufe0f #Tottenham #RefereeControversy",
+        "source_url": "https://www.bbc.com/sport/football/articles/c9qdglrv05lo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Tudor charged over 'home referee' claim",
+        "created_at": "2026-03-19T20:29:21.253319",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T00:29:21.253319",
+        "type": "manual",
+        "status": "pending"
     }
 ]
