@@ -20,5 +20,16 @@
         "expires_at": "2026-03-20T20:34:38.138826",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "500ce3f5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Harry Maguire and Kobbie Mainoo are recalled in a 35-man England squad for friendlies against Uruguay and Japan! Notable omissions include Trent Alexander-Arnold. \ud83c\uddec\ud83c\udde7\u26bd #ENG #ThreeLions",
+        "source_url": "https://www.theguardian.com/football/2026/mar/20/harry-maguire-kobbie-mainoo-35-man-england-squad",
+        "article_title": "Harry Maguire and Kobbie Mainoo recalled in 35-man England squad",
+        "created_at": "2026-03-20T17:31:05.607080",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T21:31:05.607080",
+        "type": "manual",
+        "status": "pending"
     }
 ]
