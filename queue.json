@@ -42,5 +42,16 @@
         "expires_at": "2026-03-20T15:25:54.492437",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "74f67982",
+        "tweet_text": "\ud83d\udea8 Liverpool are \"appalled and disgusted\" by the racist abuse aimed at defender Ibrahima Konate on social media. The club stands firmly against such behavior! \ud83d\udc94\u270a #NoToRacism #LFC",
+        "source_url": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Liverpool 'disgusted' by racist abuse towards Konate",
+        "created_at": "2026-03-20T14:41:01.390410",
+        "scheduled_for": "2026-03-20T14:51:01.390410",
+        "expires_at": "2026-03-20T15:41:01.390410",
+        "type": "auto",
+        "status": "pending"
     }
 ]
