@@ -64,5 +64,16 @@
         "expires_at": "2026-03-21T01:24:26.860511",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "265e870e",
+        "tweet_text": "Bruno Fernandes surpasses Eden Hazard's Premier League goal tally in just 22 games fewer! \ud83d\udd25\u26bd\ufe0f A remarkable feat for the Manchester United star! #MUFC #PremierLeague",
+        "source_url": "https://talksport.com/football/4128997/manchester-united-bruno-fernandes-eden-hazard/",
+        "article_title": "Manchester United star Bruno Fernandes beats Eden Hazard&#8217;s Premier League tally in 22 games fewer",
+        "created_at": "2026-03-20T22:20:59.935310",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T02:20:59.935310",
+        "type": "manual",
+        "status": "pending"
     }
 ]
