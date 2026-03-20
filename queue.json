@@ -64,5 +64,27 @@
         "expires_at": "2026-03-20T23:33:14.168455",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "f8c90ea0",
+        "tweet_text": "Jose Mourinho shares a heartfelt tribute to Silvino Louro, his longtime goalkeeping coach who passed away. The duo achieved great success together at Porto, Chelsea, Inter Milan, Real Madrid, and Man Utd. \ud83d\udda4\u26bd #RIP #FootballFamily",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/jose-mourinho-man-utd-chelsea-36901777",
+        "article_title": "Jose Mourinho posts heartbreaking tribute after death of ex-Chelsea and Man Utd coach",
+        "created_at": "2026-03-20T20:24:11.785819",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T00:24:11.785819",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "7725f2c0",
+        "tweet_text": "\ud83d\udea8 Cristiano Ronaldo will miss Portugal's upcoming friendlies against the U.S. and Mexico as he was not included in the squad. \ud83c\uddf5\ud83c\uddf9\u26bd\ufe0f #Ronaldo #InternationalBreak",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48257794/cristiano-ronaldo-not-portugal-squad-pre-world-cup-friendlies",
+        "article_title": "Ronaldo to miss Portugal games vs. U.S., Mexico",
+        "created_at": "2026-03-20T20:24:17.630477",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T00:24:17.630477",
+        "type": "manual",
+        "status": "pending"
     }
 ]
