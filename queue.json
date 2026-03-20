@@ -42,5 +42,38 @@
         "expires_at": "2026-03-20T13:33:59.650060",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "3833bd03",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Trent Alexander-Arnold has been left out of England's 35-man squad, while Harry Maguire and Kobbie Mainoo make their return under manager Thomas Tuchel! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ENG #ThreeLions",
+        "source_url": "https://www.skysports.com/football/news/12040/13522092/england-squad-trent-alexander-arnold-omitted-from-35-man-group-as-harry-maguire-and-kobbie-mainoo-return",
+        "article_title": "Trent omitted from huge 35-man England squad as Maguire and Mainoo return",
+        "created_at": "2026-03-20T10:31:03.027814",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T14:31:03.027814",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3e5d0719",
+        "tweet_text": "\ud83d\udea8 BREAKING: Arne Slot confirms Mohamed Salah is an injury concern for Liverpool following their Champions League win over Galatasaray. Stay tuned for further updates! \u26bd\ufe0f\ud83d\udd34 #LFC #SalahInjury",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-mohamed-salah-injury-update-36897451",
+        "article_title": "BREAKING: Mohamed Salah injury update as Arne Slot reveals latest on Liverpool star",
+        "created_at": "2026-03-20T10:31:11.719874",
+        "scheduled_for": "2026-03-20T10:41:11.719874",
+        "expires_at": "2026-03-20T11:31:11.719874",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "e67fedc8",
+        "tweet_text": "\ud83d\udea8 Thomas Tuchel announces England squad for March friendlies against Uruguay and Japan as they gear up for the World Cup! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ThreeLions #WorldCup2026",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-england-squad-named-thomas-36897056",
+        "article_title": "England squad named as Thomas Tuchel hands out recalls ahead of World Cup",
+        "created_at": "2026-03-20T10:31:14.392898",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T14:31:14.392898",
+        "type": "manual",
+        "status": "pending"
     }
 ]
