@@ -53,5 +53,16 @@
         "expires_at": "2026-03-20T22:37:47.122090",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "67f98b35",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Alisson will miss Liverpool's clash against Brighton due to injury and has withdrawn from the Brazil squad for upcoming friendlies. \ud83e\udd45\ud83c\udde7\ud83c\uddf7 #LFC #BrazilNationalTeam",
+        "source_url": "https://www.bbc.com/sport/football/articles/crm1wr44vxvo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Alisson out of Brazil squad and will miss Brighton",
+        "created_at": "2026-03-20T19:33:14.168455",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T23:33:14.168455",
+        "type": "manual",
+        "status": "pending"
     }
 ]
