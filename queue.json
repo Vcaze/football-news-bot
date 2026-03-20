@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "7aabb4c1",
+        "tweet_text": "\ud83d\udea8 Tottenham confirm Guglielmo Vicario will undergo hernia surgery next week, leading to a potential return for Antonin Kinsky against Nottingham Forest. \ud83e\udde4\u26bd #THFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-hotspur-injury-guglielmo-vicario-36900900",
+        "article_title": "Tottenham make decision on keeper vs Nottingham Forest after brutal injury blow",
+        "created_at": "2026-03-20T16:34:36.195762",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T20:34:36.195762",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "961cab92",
+        "tweet_text": "\ud83d\udea8 Manchester United are in contract talks with Kobbie Mainoo and Harry Maguire following Michael Carrick's intervention as they prepare for a pivotal summer transfer window! \ud83d\udd34\u26bd #MUFC #TransferNews",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-harry-maguire-mainoo-36900556",
+        "article_title": "Kobbie Mainoo and Harry Maguire\u2019s Man Utd futures decided after Michael Carrick intervention",
+        "created_at": "2026-03-20T16:34:38.138826",
+        "scheduled_for": null,
+        "expires_at": "2026-03-20T20:34:38.138826",
+        "type": "manual",
+        "status": "pending"
+    }
+]
