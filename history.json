@@ -1,5 +1,18 @@
 [
     {
+        "id": "74f67982",
+        "tweet_text": "\ud83d\udea8 Liverpool are \"appalled and disgusted\" by the racist abuse aimed at defender Ibrahima Konate on social media. The club stands firmly against such behavior! \ud83d\udc94\u270a #NoToRacism #LFC",
+        "source_url": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Liverpool 'disgusted' by racist abuse towards Konate",
+        "created_at": "2026-03-20T14:41:01.390410",
+        "scheduled_for": "2026-03-20T14:51:01.390410",
+        "expires_at": "2026-03-20T15:41:01.390410",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-20T14:51:07.914800",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035006227030167759"
+    },
+    {
         "id": "59eb53f4",
         "tweet_text": "\ud83d\udea8 Liverpool FC condemns 'vile and abhorrent' racist abuse aimed at Ibrahima Konate following their Champions League victory over Galatasaray. #SayNoToRacism #LFC",
         "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-liverpool-konate-racially-abused-36899524",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T03:21:14.371582",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031571118977405250"
-    },
-    {
-        "id": "5fc49db9",
-        "tweet_text": "Tottenham's nightmare continues! \ud83d\ude31 A disastrous start leads to a humiliating 5-2 defeat against Atl\u00e9tico Madrid. Can they bounce back? #Spursy #ChampionsLeague \u26bd\ufe0f",
-        "source_url": "https://www.theguardian.com/football/2026/mar/10/humiliation-for-kinsky-as-tottenham-are-thrashed-by-atletico-madrid",
-        "article_title": "Humiliation for Kinsky as Tottenham crumble early in thrashing by Atl\u00e9tico Madrid",
-        "created_at": "2026-03-11T03:05:52.422335",
-        "scheduled_for": "2026-03-11T03:15:52.422335",
-        "expires_at": "2026-03-11T04:05:52.422335",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T03:15:59.636235",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031569799042449739"
     }
 ]

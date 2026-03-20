@@ -1,27 +1,5 @@
 [
     {
-        "id": "3833bd03",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Trent Alexander-Arnold has been left out of England's 35-man squad, while Harry Maguire and Kobbie Mainoo make their return under manager Thomas Tuchel! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ENG #ThreeLions",
-        "source_url": "https://www.skysports.com/football/news/12040/13522092/england-squad-trent-alexander-arnold-omitted-from-35-man-group-as-harry-maguire-and-kobbie-mainoo-return",
-        "article_title": "Trent omitted from huge 35-man England squad as Maguire and Mainoo return",
-        "created_at": "2026-03-20T10:31:03.027814",
-        "scheduled_for": null,
-        "expires_at": "2026-03-20T14:31:03.027814",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "e67fedc8",
-        "tweet_text": "\ud83d\udea8 Thomas Tuchel announces England squad for March friendlies against Uruguay and Japan as they gear up for the World Cup! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ThreeLions #WorldCup2026",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-england-squad-named-thomas-36897056",
-        "article_title": "England squad named as Thomas Tuchel hands out recalls ahead of World Cup",
-        "created_at": "2026-03-20T10:31:14.392898",
-        "scheduled_for": null,
-        "expires_at": "2026-03-20T14:31:14.392898",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "7b3d2937",
         "tweet_text": "\ud83d\udea8 HUGE NEWS for Millwall! The club has secured a transformative 999-year lease, marking a significant moment in its history and a step towards peace after years of tension. \u26bd\ufe0f\ud83c\udfdf\ufe0f #Millwall #FootballNews",
         "source_url": "https://www.theguardian.com/football/2026/mar/20/millwall-lease-new-den-lewisham",
@@ -41,17 +19,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-20T15:25:54.492437",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "74f67982",
-        "tweet_text": "\ud83d\udea8 Liverpool are \"appalled and disgusted\" by the racist abuse aimed at defender Ibrahima Konate on social media. The club stands firmly against such behavior! \ud83d\udc94\u270a #NoToRacism #LFC",
-        "source_url": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Liverpool 'disgusted' by racist abuse towards Konate",
-        "created_at": "2026-03-20T14:41:01.390410",
-        "scheduled_for": "2026-03-20T14:51:01.390410",
-        "expires_at": "2026-03-20T15:41:01.390410",
-        "type": "auto",
         "status": "pending"
     }
 ]
