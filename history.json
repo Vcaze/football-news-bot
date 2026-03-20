@@ -1,5 +1,18 @@
 [
     {
+        "id": "a707c8cd",
+        "tweet_text": "\ud83d\udea8 Galatasaray's chief faces backlash after making a vile comment regarding the racist abuse towards Liverpool's Ibrahima Konate following their Champions League clash. \ud83d\udc94 #NoToRacism #ChampionsLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/galatasaray-chief-liverpool-ibrahima-konate-36902048",
+        "article_title": "Galatasaray chief makes vile comment after racist abuse of Liverpool star Ibrahima Konate",
+        "created_at": "2026-03-20T21:24:22.082848",
+        "scheduled_for": "2026-03-20T21:34:22.082848",
+        "expires_at": "2026-03-20T22:24:22.082848",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-20T21:34:29.904660",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035107737512943972"
+    },
+    {
         "id": "74f67982",
         "tweet_text": "\ud83d\udea8 Liverpool are \"appalled and disgusted\" by the racist abuse aimed at defender Ibrahima Konate on social media. The club stands firmly against such behavior! \ud83d\udc94\u270a #NoToRacism #LFC",
         "source_url": "https://www.bbc.com/sport/football/articles/ce8j1j444r3o?at_medium=RSS&at_campaign=rss",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T03:29:54.826235",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031573301710004596"
-    },
-    {
-        "id": "22fda0a6",
-        "tweet_text": "\ud83d\udea8 Big news! Arsenal is eyeing Julian Brandt for a free transfer! \ud83d\udd25 Plus, Newcastle's Tonali is still in demand! What a transfer window this is shaping up to be! #TransferNews #Arsenal",
-        "source_url": "https://www.bbc.com/sport/football/articles/c4geyndly41o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Arsenal want Brandt on free - Wednesday's gossip",
-        "created_at": "2026-03-11T03:05:48.132898",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T07:05:48.132898",
-        "type": "manual",
-        "status": "posted",
-        "posted_at": "2026-03-11T03:21:14.371582",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031571118977405250"
     }
 ]
