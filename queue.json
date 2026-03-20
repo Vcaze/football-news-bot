@@ -64,5 +64,27 @@
         "expires_at": "2026-03-21T00:24:17.630477",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "a707c8cd",
+        "tweet_text": "\ud83d\udea8 Galatasaray's chief faces backlash after making a vile comment regarding the racist abuse towards Liverpool's Ibrahima Konate following their Champions League clash. \ud83d\udc94 #NoToRacism #ChampionsLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/galatasaray-chief-liverpool-ibrahima-konate-36902048",
+        "article_title": "Galatasaray chief makes vile comment after racist abuse of Liverpool star Ibrahima Konate",
+        "created_at": "2026-03-20T21:24:22.082848",
+        "scheduled_for": "2026-03-20T21:34:22.082848",
+        "expires_at": "2026-03-20T22:24:22.082848",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "4d33fe80",
+        "tweet_text": "\ud83d\udea8 Scott McTominay's goal secures a 1-0 victory for Napoli against Cagliari, propelling them to 2nd place in Serie A! \u26bd\ufe0f\ud83d\udd25 #SerieA #Napoli",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/737081",
+        "article_title": "McTominay goal takes in-form Napoli up to 2nd",
+        "created_at": "2026-03-20T21:24:26.860511",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T01:24:26.860511",
+        "type": "manual",
+        "status": "pending"
     }
 ]
