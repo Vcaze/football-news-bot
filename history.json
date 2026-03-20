@@ -1,5 +1,18 @@
 [
     {
+        "id": "3e5d0719",
+        "tweet_text": "\ud83d\udea8 BREAKING: Arne Slot confirms Mohamed Salah is an injury concern for Liverpool following their Champions League win over Galatasaray. Stay tuned for further updates! \u26bd\ufe0f\ud83d\udd34 #LFC #SalahInjury",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-mohamed-salah-injury-update-36897451",
+        "article_title": "BREAKING: Mohamed Salah injury update as Arne Slot reveals latest on Liverpool star",
+        "created_at": "2026-03-20T10:31:11.719874",
+        "scheduled_for": "2026-03-20T10:41:11.719874",
+        "expires_at": "2026-03-20T11:31:11.719874",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-20T10:41:17.187522",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2034943351309447315"
+    },
+    {
         "id": "9a997b5c",
         "tweet_text": "\ud83d\udea8 Galatasaray's Noa Lang updates fans from his hospital bed after suffering a serious injury during the Champions League clash against Liverpool. Wishing him a speedy recovery! \ud83c\udfe5\u26bd #NoaLang #UCL",
         "source_url": "https://www.mirror.co.uk/sport/football/news/noa-lang-horror-injury-liverpool-36892130",
@@ -635,16 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T03:15:59.367895",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031569797893239184"
-    },
-    {
-        "id": "f467f72b-6719-49aa-88cb-bfd5ead53907",
-        "tweet_text": "\u26bd News update: Tudor\u2019s 17-minute experiment with Kinsky piles pressure on Spurs boss... #FootballNews #Update",
-        "source_url": "https://www.skysports.com/football/news/12040/13517982/igor-tudor-pressure-grows-as-antonin-kinsky-experiment-backfires-and-raises-further-questions-over-spurs-head-coach",
-        "article_title": "Tudor\u2019s 17-minute experiment with Kinsky piles pressure on Spurs boss",
-        "created_at": "2026-03-11T01:54:25.803728",
-        "scheduled_for": "2026-03-11T02:04:25.803706",
-        "status": "posted",
-        "posted_at": "2026-03-11T01:54:55.402760",
-        "posted_tweet_url": "fake_tweet_id_for_testing"
     }
 ]
