@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "id": "35f30b2c",
+        "tweet_text": "\ud83d\udea8 Arne Slot confirms Alexander Isak will be fit for Liverpool's Champions League clash against PSG on April 8 after recovering from a fractured leg! \ud83d\udcaa #LFC #UCL",
+        "source_url": "https://www.theguardian.com/football/2026/mar/20/arne-slot-alexander-isak-mohamed-salah-liverpool-brighton-premier-league",
+        "article_title": "Arne Slot confirms Isak will be fit for Liverpool\u2019s trip to PSG next month",
+        "created_at": "2026-03-21T06:34:00.189100",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T10:34:00.189100",
+        "type": "manual",
+        "status": "pending"
+    }
+]
