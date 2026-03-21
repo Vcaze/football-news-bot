@@ -1,38 +1,5 @@
 [
     {
-        "id": "a56259de",
-        "tweet_text": "Hull City defeat Sheffield Wednesday 3-1 to strengthen their position in the Sky Bet Championship play-offs! \ud83c\udfc6\u26bd\ufe0f #HullCity #Championship",
-        "source_url": "https://www.skysports.com/football/hull-city-vs-sheffield-wednesday/report/534779",
-        "article_title": "Hull beat Sheff Wed to tighten grip on play-off spot",
-        "created_at": "2026-03-21T18:26:24.926240",
-        "scheduled_for": null,
-        "expires_at": "2026-03-21T22:26:24.926240",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "17ef57ea",
-        "tweet_text": "\ud83d\udea8 Bunny Shaw shines with a record-breaking hat-trick in just 21 minutes as Manchester City defeats Tottenham Hotspur 5-2! \ud83c\udf1f #ManCity #WomensFootball",
-        "source_url": "https://www.bbc.com/sport/football/videos/crl18dkwk1jo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Shaw hat-trick helps Man City to convincing win against Spurs",
-        "created_at": "2026-03-21T18:26:29.512555",
-        "scheduled_for": null,
-        "expires_at": "2026-03-21T22:26:29.512555",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "296bb054",
-        "tweet_text": "\ud83d\udea8 Bayern Munich thrash Union Berlin 4-0 with a stunning brace from Serge Gnabry, moving closer to the Bundesliga title! \ud83c\udfc6\u26bd\ufe0f #Bundesliga #FCBayern",
-        "source_url": "https://www.espn.com/soccer/report/_/gameId/746954",
-        "article_title": "Gnabry brace takes Bayern step closer to title",
-        "created_at": "2026-03-21T18:26:36.303034",
-        "scheduled_for": null,
-        "expires_at": "2026-03-21T22:26:36.303034",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "910e14d6",
         "tweet_text": "\ud83d\udea8 Non-league match abandoned! Kidderminster Harriers vs. Radcliffe halted as goalkeeper Christian Dibble and defender Joe Foulkes suffer head injuries and are hospitalized. \ud83e\udd15\u26bd\ufe0f #FootballNews #InjuryUpdate",
         "source_url": "https://www.mirror.co.uk/sport/football/news/kidderminster-harriers-head-injuries-hospital-36904207",
