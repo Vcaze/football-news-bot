@@ -75,5 +75,49 @@
         "expires_at": "2026-03-21T23:18:57.251624",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ef97f303",
+        "tweet_text": "\ud83d\udea8 Rangers crush Aberdeen 4-1 to leapfrog Celtic and secure 2nd place in the Scottish Premiership! \ud83d\udd25 Can they keep the momentum going? #ScottishPremiership #RangersFC",
+        "source_url": "https://www.skysports.com/football/rangers-vs-aberdeen/report/531912",
+        "article_title": "Rangers leapfrog Celtic with confident Aberdeen win to move second",
+        "created_at": "2026-03-21T20:18:13.321766",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T00:18:13.321766",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ffad9400",
+        "tweet_text": "\ud83d\udea8 Coventry dominate Swansea with a 3-0 victory, making a crucial move towards Premier League promotion! \ud83c\udf1f #CoventryCity #EFLChampionship",
+        "source_url": "https://www.skysports.com/football/swansea-city-vs-coventry-city/report/534785",
+        "article_title": "Coventry swat aside Swansea to continue march towards Premier League",
+        "created_at": "2026-03-21T20:18:15.304700",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T00:18:15.304700",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "06c8655f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Everton dominate Chelsea 3-0 at Hill Dickinson Stadium with Beto scoring twice and Ndiaye adding another! This marks Everton's biggest win over Chelsea since 1987! #EPL #Everton",
+        "source_url": "https://www.theguardian.com/football/2026/mar/21/everton-chelsea-premier-league-match-report",
+        "article_title": "Everton turn up heat on Rosenior as Beto double and Ndiaye sink Chelsea",
+        "created_at": "2026-03-21T20:18:19.537415",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T00:18:19.537415",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "4252235e",
+        "tweet_text": "\ud83d\udea8 Non-league match in Southern League suspended for an hour due to crowd violence, forcing players off the pitch. Safety first! \u26a0\ufe0f #FootballNews #CrowdSafety",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/yate-town-weymouth-crowd-incident-36904258",
+        "article_title": "Non-league football match halted after crowd violence as players forced to leave pitch",
+        "created_at": "2026-03-21T20:18:20.837862",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T00:18:20.837862",
+        "type": "manual",
+        "status": "pending"
     }
 ]
