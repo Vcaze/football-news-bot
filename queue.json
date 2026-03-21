@@ -9,5 +9,16 @@
         "expires_at": "2026-03-21T10:34:00.189100",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "bb23cc4f",
+        "tweet_text": "\ud83d\udea8 Espanyol's resurgence in La Liga continues as they battle for European spots in their second season back! Exciting times ahead for the club and fans! \u26bd\ufe0f\ud83d\udd25 #LaLiga #Espanyol",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/espanyol-la-liga-europe-qualification-36889475",
+        "article_title": "Inside Espanyol's La Liga resurgence with new owners as club fight for European places",
+        "created_at": "2026-03-21T10:19:31.683492",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T14:19:31.683492",
+        "type": "manual",
+        "status": "pending"
     }
 ]
