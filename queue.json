@@ -31,5 +31,27 @@
         "expires_at": "2026-03-21T15:17:44.342130",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "25001146",
+        "tweet_text": "\ud83d\udea8 Manchester United to file a formal complaint to PGMOL over VAR controversy regarding a missed penalty call in their 2-2 draw with Bournemouth. The club is furious! \u26bd\ufe0f\ud83d\ude21 #MUFC #VARDrama",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/manchester-united-maguire-pgmol-bournemouth-36903033",
+        "article_title": "Man Utd to fire complaint to PGMOL over Bournemouth VAR drama with club raging",
+        "created_at": "2026-03-21T12:32:43.418365",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T16:32:43.418365",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "7a2613e5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Pep Guardiola announces James Trafford will start in the Carabao Cup final for Man City, but hints at a potential exit for the young keeper. \u26bd\ufe0f\ud83d\udcbc #CarabaoCup #ManCity",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48258199/james-trafford-start-man-city-carabao-cup-final-exit-door-open",
+        "article_title": "Trafford to start final, but Man City exit door open",
+        "created_at": "2026-03-21T12:32:48.039920",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T16:32:48.039920",
+        "type": "manual",
+        "status": "pending"
     }
 ]
