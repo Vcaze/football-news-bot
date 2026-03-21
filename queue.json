@@ -75,5 +75,27 @@
         "expires_at": "2026-03-21T22:26:36.303034",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "910e14d6",
+        "tweet_text": "\ud83d\udea8 Non-league match abandoned! Kidderminster Harriers vs. Radcliffe halted as goalkeeper Christian Dibble and defender Joe Foulkes suffer head injuries and are hospitalized. \ud83e\udd15\u26bd\ufe0f #FootballNews #InjuryUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/kidderminster-harriers-head-injuries-hospital-36904207",
+        "article_title": "Non-league match abandoned as two players taken to hospital with head injuries",
+        "created_at": "2026-03-21T19:18:53.901513",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T23:18:53.901513",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "fb910d80",
+        "tweet_text": "Ra\u00fal Jim\u00e9nez scores his 1st goal since his father's passing, breaking down in tears during the emotional moment. A powerful tribute on the pitch. \ud83c\uddf2\ud83c\uddfd\u2764\ufe0f #FootballFamily #EmotionalMoment",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48269693/mexico-fulham-raul-jimenez-tears-goal-father-death",
+        "article_title": "Jim\u00e9nez in tears after 1st goal since father's death",
+        "created_at": "2026-03-21T19:18:57.251624",
+        "scheduled_for": null,
+        "expires_at": "2026-03-21T23:18:57.251624",
+        "type": "manual",
+        "status": "pending"
     }
 ]
