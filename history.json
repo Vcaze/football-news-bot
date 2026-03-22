@@ -1,5 +1,18 @@
 [
     {
+        "id": "defed59f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeat Arsenal 2-0 to claim the Carabao Cup title at Wembley! Nico O'Reilly shines with a stunning double! \ud83c\udfc6\u26bd\ufe0f #CarabaoCup #ManCity",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/401859837",
+        "article_title": "Man City dump Arsenal in final to win Carabao Cup",
+        "created_at": "2026-03-22T20:18:40.671464",
+        "scheduled_for": "2026-03-22T20:28:40.671464",
+        "expires_at": "2026-03-22T21:18:40.671464",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-22T20:28:44.586900",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035815965334642907"
+    },
+    {
         "id": "05b0113e",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: The Tyne-Wear derby between Newcastle and Sunderland was halted due to alleged racist abuse directed at Sunderland's Lutsharel Geertruida. The Premier League will investigate the incident. \u26bd\ufe0f\u270a #SayNoToRacism #PremierLeague",
         "source_url": "https://www.theguardian.com/football/2026/mar/22/newcastle-sunderland-alleged-racist-abuse-premier-league",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T14:11:29.350525",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031734759722762365"
-    },
-    {
-        "id": "2322d104",
-        "tweet_text": "Walsall have made a HUGE move! \ud83d\udea8 They\u2019ve sacked head coach Mat Sadler after a tough run, following that loss to Salford City. What\u2019s next for the club? \ud83e\udd14 #Football #LeagueTwo",
-        "source_url": "https://www.bbc.com/sport/football/articles/cn0exygeryko?at_medium=RSS&at_campaign=rss",
-        "article_title": "Walsall sack head coach Sadler after poor run",
-        "created_at": "2026-03-11T14:01:21.028072",
-        "scheduled_for": "2026-03-11T14:11:21.028072",
-        "expires_at": "2026-03-11T15:01:21.028072",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T14:11:29.090003",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031734758720381327"
     }
 ]
