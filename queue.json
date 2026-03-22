@@ -86,5 +86,38 @@
         "expires_at": "2026-03-22T23:20:16.331752",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "f9f76f5f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeat Arsenal 2-0 in the Carabao Cup final, with Nico O'Reilly scoring the decisive goal! This result could shake up the Premier League title race! \u26bd\ufe0f\ud83c\udfc6 #MCFC #CarabaoCup",
+        "source_url": "https://www.mirror.co.uk/sport/football/match-reports/arsenal-man-city-pep-guardiola-36906786",
+        "article_title": "Pep Guardiola drops biggest hint on Man City future yet with Carabao Cup final action",
+        "created_at": "2026-03-22T20:18:39.210260",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T00:18:39.210260",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "defed59f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeat Arsenal 2-0 to claim the Carabao Cup title at Wembley! Nico O'Reilly shines with a stunning double! \ud83c\udfc6\u26bd\ufe0f #CarabaoCup #ManCity",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/401859837",
+        "article_title": "Man City dump Arsenal in final to win Carabao Cup",
+        "created_at": "2026-03-22T20:18:40.671464",
+        "scheduled_for": "2026-03-22T20:28:40.671464",
+        "expires_at": "2026-03-22T21:18:40.671464",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "1beca55b",
+        "tweet_text": "Lionel Messi leads Inter Miami to a thrilling 3-2 comeback win over NYCFC at Yankee Stadium, scoring a free-kick equalizer and assisting the winner! \u26bd\ufe0f\ud83d\udd25 #InterMiami #MessiMagic",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/761510",
+        "article_title": "Messi keys Bronx rally in Miami win over NYCFC",
+        "created_at": "2026-03-22T20:18:42.807259",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T00:18:42.807259",
+        "type": "manual",
+        "status": "pending"
     }
 ]
