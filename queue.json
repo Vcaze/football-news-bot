@@ -1,27 +1,5 @@
 [
     {
-        "id": "aabc27df",
-        "tweet_text": "\ud83d\udea8 Newcastle vs Sunderland match halted by referee Anthony Taylor due to discrimination reports, following the Premier League's anti-discrimination protocol. \u26bd\ufe0f\u270a #NoToDiscrimination #PremierLeague",
-        "source_url": "https://www.bbc.com/sport/football/articles/c80mr4xjg85o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Newcastle-Sunderland halted after discrimination reports",
-        "created_at": "2026-03-22T14:21:26.558310",
-        "scheduled_for": null,
-        "expires_at": "2026-03-22T18:21:26.558310",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "220b527c",
-        "tweet_text": "\ud83d\udea8 Christian Pulisic scores his first goal of 2026, helping AC Milan secure a thrilling 3-2 victory over Torino! Milan closes the gap to Inter in the title race. \u26bd\ufe0f\ud83d\udd25 #ACMilan #Pulisic",
-        "source_url": "https://www.espn.com/soccer/report/_/gameId/737076",
-        "article_title": "Pulisic ends drought as Milan close gap to Inter",
-        "created_at": "2026-03-22T14:21:32.277418",
-        "scheduled_for": null,
-        "expires_at": "2026-03-22T18:21:32.277418",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "3217fd01",
         "tweet_text": "\ud83d\udea8 Beto shines with a brace as Everton crush Chelsea 3-0, handing the Blues their fourth consecutive defeat! \u26bd\ufe0f\ud83d\udc94 #EPL #Everton",
         "source_url": "https://www.bbc.com/sport/football/videos/cvgleze5g2yo?at_medium=RSS&at_campaign=rss",
