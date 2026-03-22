@@ -97,5 +97,60 @@
         "expires_at": "2026-03-22T22:27:24.669441",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "1de04171",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeat Arsenal 2-0 to win the Carabao Cup, dashing Arsenal's quadruple dreams! Nico O'Reilly scores both goals! \ud83c\udfc6\u26bd\ufe0f #CarabaoCup #ManCity",
+        "source_url": "https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923",
+        "article_title": "Man City end Arsenal's quadruple hopes as O'Reilly clinches Carabao Cup triumph",
+        "created_at": "2026-03-22T19:20:07.597188",
+        "scheduled_for": "2026-03-22T19:30:07.597188",
+        "expires_at": "2026-03-22T20:20:07.597188",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "9b64176e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Newcastle's Harvey Barnes is set to replace the injured Eberechi Eze in Thomas Tuchel's England squad! \ud83c\uddec\ud83c\udde7\u26bd #ThreeLions #EngSquad",
+        "source_url": "https://www.bbc.com/sport/football/articles/cgldklk5j34o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Newcastle's Barnes set to replace Eze in England squad",
+        "created_at": "2026-03-22T19:20:11.568286",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T23:20:11.568286",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "dfd372b3",
+        "tweet_text": "\ud83d\udea8 BREAKING: Newcastle vs Sunderland match paused after reported racism towards Geertruida. Referee Anthony Taylor halted the game following anti-discrimination protocol. \u26bd\ufe0f\u270a #NoToRacism #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/c80mr4xjg85o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Newcastle-Sunderland paused after reported racism towards Geertruida",
+        "created_at": "2026-03-22T19:20:13.427110",
+        "scheduled_for": "2026-03-22T19:30:13.427110",
+        "expires_at": "2026-03-22T20:20:13.427110",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "a3f1f80b",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City claim the Carabao Cup title, defeating Arsenal 2-0 thanks to Nico O\u2019Reilly's double! \ud83c\udfc6\u26bd\ufe0f #CarabaoCup #ManCity",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/arsenal-manchester-city-carabao-cup-final-match-report",
+        "article_title": "Manchester City win Carabao Cup after Nico O\u2019Reilly\u2019s double downs lacklustre Arsenal",
+        "created_at": "2026-03-22T19:20:16.331752",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T23:20:16.331752",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "05b0113e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Tyne-Wear derby between Newcastle and Sunderland was halted due to alleged racist abuse directed at Sunderland's Lutsharel Geertruida. The Premier League will investigate the incident. \u26bd\ufe0f\u270a #SayNoToRacism #PremierLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/newcastle-sunderland-alleged-racist-abuse-premier-league",
+        "article_title": "Newcastle promise action after alleged racist abuse stops derby with Sunderland",
+        "created_at": "2026-03-22T19:20:18.989748",
+        "scheduled_for": "2026-03-22T19:30:18.989748",
+        "expires_at": "2026-03-22T20:20:18.989748",
+        "type": "auto",
+        "status": "pending"
     }
 ]
