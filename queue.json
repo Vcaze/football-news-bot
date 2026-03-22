@@ -86,5 +86,16 @@
         "expires_at": "2026-03-23T01:19:40.666133",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "006e3211",
+        "tweet_text": "\ud83d\udea8 Ollie Watkins scores to seal Aston Villa's 2-0 win over West Ham, solidifying their spot in the Premier League's top four! Youri Tielemans makes an impactful return after injury! \ud83d\udd25\u26bd #AVFC #PremierLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/aston-villa-west-ham-premier-league-match-report",
+        "article_title": "Ollie Watkins puts seal on Villa\u2019s win over West Ham after England omission",
+        "created_at": "2026-03-22T22:18:33.531538",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T02:18:33.531538",
+        "type": "manual",
+        "status": "pending"
     }
 ]
