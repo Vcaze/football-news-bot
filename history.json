@@ -1,5 +1,18 @@
 [
     {
+        "id": "fe4a8327",
+        "tweet_text": "\ud83d\udea8 Newcastle and Sunderland fans clash violently just minutes before kick-off in the highly anticipated Tyne-Wear Derby at St James' Park! \u26a1\ufe0f #TyneWearDerby #FootballFever",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/newcastle-sunderland-fans-clash-violent-36905443",
+        "article_title": "Newcastle and Sunderland fans clash in violent scenes minutes before kick-off",
+        "created_at": "2026-03-22T12:34:39.048426",
+        "scheduled_for": "2026-03-22T12:44:39.048426",
+        "expires_at": "2026-03-22T13:34:39.048426",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-22T12:44:44.069023",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035699193835311566"
+    },
+    {
         "id": "a707c8cd",
         "tweet_text": "\ud83d\udea8 Galatasaray's chief faces backlash after making a vile comment regarding the racist abuse towards Liverpool's Ibrahima Konate following their Champions League clash. \ud83d\udc94 #NoToRacism #ChampionsLeague",
         "source_url": "https://www.mirror.co.uk/sport/football/news/galatasaray-chief-liverpool-ibrahima-konate-36902048",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T03:30:39.766276",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031573490352943348"
-    },
-    {
-        "id": "fbb3bdcc",
-        "tweet_text": "What a thrilling night in the Champions League! \ud83c\udf1f Lamine Yamal's late equalizer steals the show and leaves Newcastle dreaming of their next chance! \u26bd\ufe0f #ChampionsLeague #NewcastleUnited",
-        "source_url": "https://www.theguardian.com/football/2026/mar/10/newcastle-barcelona-champions-league-last-16-first-leg-match-report",
-        "article_title": "Lamine Yamal hurts Newcastle hopes as Barcelona snatch draw with last kick",
-        "created_at": "2026-03-11T03:05:55.240078",
-        "scheduled_for": null,
-        "expires_at": "2026-03-11T07:05:55.240078",
-        "type": "manual",
-        "status": "posted",
-        "posted_at": "2026-03-11T03:29:54.826235",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031573301710004596"
     }
 ]
