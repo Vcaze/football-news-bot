@@ -9,5 +9,16 @@
         "expires_at": "2026-03-22T16:34:36.653559",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "59798ed2",
+        "tweet_text": "\ud83d\udea8 Chelsea suffer a heavy 3-0 defeat to Everton, marking their fourth straight loss under manager Liam Rosenior. The club's billion-pound nursery project faces serious scrutiny! \u26bd\ufe0f\ud83d\udd25 #CFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liam-rosenior-chelsea-blueco-project-36905098",
+        "article_title": "Chelsea's billion-pound nursery project is flawed and Liam Rosenior is doomed",
+        "created_at": "2026-03-22T13:39:15.772864",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T17:39:15.772864",
+        "type": "manual",
+        "status": "pending"
     }
 ]
