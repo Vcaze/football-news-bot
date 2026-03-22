@@ -75,5 +75,49 @@
         "expires_at": "2026-03-22T19:19:24.112597",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "6d2f6541",
+        "tweet_text": "Nottingham Forest dominate Tottenham with a stunning 3-0 victory, intensifying Spurs' relegation concerns! \u26bd\ufe0f\ud83d\udd25 #NFFC #THFC",
+        "source_url": "https://www.skysports.com/football/tottenham-hotspur-vs-nottingham-forest/report/531437",
+        "article_title": "Forest ramp up Spurs' relegation fears with thumping win",
+        "created_at": "2026-03-22T16:21:03.091092",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T20:21:03.091092",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "83dccaa4",
+        "tweet_text": "\ud83d\udea8 Barcelona extend their La Liga lead to 7 points with a hard-fought 1-0 victory over Rayo Vallecano, thanks to Ronald Ara\u00fajo's header! \ud83d\udd35\ud83d\udd34 #LaLiga #For\u00e7aBar\u00e7a",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/barcelona-real-madrid-atletico-roma-inter",
+        "article_title": "European football: Barcelona tighten grip on top spot with win over Rayo Vallecano",
+        "created_at": "2026-03-22T16:21:08.883764",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T20:21:08.883764",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "8efa1d58",
+        "tweet_text": "\ud83d\udea8 Bruno Guimaraes diagnosed with mumps and placed in isolation, missing Newcastle's match against Sunderland. Stay strong, Bruno! \ud83d\udcaa\u26bd\ufe0f #NUFC #BrunoGuimaraes",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-bruno-guimaraes-reveals-diagnosis-36906185",
+        "article_title": "Bruno Guimaraes diagnosed with MUMPS as Newcastle star forced into isolation",
+        "created_at": "2026-03-22T16:21:12.906099",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T20:21:12.906099",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "fe9fe3a1",
+        "tweet_text": "\ud83d\udea8 Sunderland's match against Newcastle was paused due to reports of racist abuse directed at Lutsharel Geertruida. The club stands against discrimination! \ud83d\udda4\ud83e\udd0d #NoToRacism #FootballForAll",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48278231/newcastle-vs-sunderland-paused-due-report-discrimination",
+        "article_title": "Sunderland's Geertruida reports racist abuse",
+        "created_at": "2026-03-22T16:21:15.046808",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T20:21:15.046808",
+        "type": "manual",
+        "status": "pending"
     }
 ]
