@@ -1,5 +1,44 @@
 [
     {
+        "id": "05b0113e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Tyne-Wear derby between Newcastle and Sunderland was halted due to alleged racist abuse directed at Sunderland's Lutsharel Geertruida. The Premier League will investigate the incident. \u26bd\ufe0f\u270a #SayNoToRacism #PremierLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/newcastle-sunderland-alleged-racist-abuse-premier-league",
+        "article_title": "Newcastle promise action after alleged racist abuse stops derby with Sunderland",
+        "created_at": "2026-03-22T19:20:18.989748",
+        "scheduled_for": "2026-03-22T19:30:18.989748",
+        "expires_at": "2026-03-22T20:20:18.989748",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-22T19:30:22.419114",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035801276064399591"
+    },
+    {
+        "id": "dfd372b3",
+        "tweet_text": "\ud83d\udea8 BREAKING: Newcastle vs Sunderland match paused after reported racism towards Geertruida. Referee Anthony Taylor halted the game following anti-discrimination protocol. \u26bd\ufe0f\u270a #NoToRacism #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/c80mr4xjg85o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Newcastle-Sunderland paused after reported racism towards Geertruida",
+        "created_at": "2026-03-22T19:20:13.427110",
+        "scheduled_for": "2026-03-22T19:30:13.427110",
+        "expires_at": "2026-03-22T20:20:13.427110",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-22T19:30:22.148614",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035801275141665031"
+    },
+    {
+        "id": "1de04171",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeat Arsenal 2-0 to win the Carabao Cup, dashing Arsenal's quadruple dreams! Nico O'Reilly scores both goals! \ud83c\udfc6\u26bd\ufe0f #CarabaoCup #ManCity",
+        "source_url": "https://www.skysports.com/football/arsenal-vs-manchester-city/report/553923",
+        "article_title": "Man City end Arsenal's quadruple hopes as O'Reilly clinches Carabao Cup triumph",
+        "created_at": "2026-03-22T19:20:07.597188",
+        "scheduled_for": "2026-03-22T19:30:07.597188",
+        "expires_at": "2026-03-22T20:20:07.597188",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-22T19:30:21.929322",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2035801274235711911"
+    },
+    {
         "id": "fe4a8327",
         "tweet_text": "\ud83d\udea8 Newcastle and Sunderland fans clash violently just minutes before kick-off in the highly anticipated Tyne-Wear Derby at St James' Park! \u26a1\ufe0f #TyneWearDerby #FootballFever",
         "source_url": "https://www.mirror.co.uk/sport/football/news/newcastle-sunderland-fans-clash-violent-36905443",
@@ -609,44 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T14:11:29.090003",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031734758720381327"
-    },
-    {
-        "id": "b8815925",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jersey authorities are investigating if Abramovich's Chelsea sale cash is \"proceeds of crime\"! \ud83d\udcb0\ud83d\udcbc The \u00a32.4bn raised could complicate things with the UK! #ChelseaFC #FootballNews",
-        "source_url": "https://www.theguardian.com/world/2026/mar/11/investigation-roman-abramovich-chelsea-sale-cash",
-        "article_title": "Investigation may be looking at whether Roman Abramovich\u2019s Chelsea sale cash is \u2018proceeds of crime\u2019",
-        "created_at": "2026-03-11T09:35:41.795504",
-        "scheduled_for": "2026-03-11T09:45:41.795504",
-        "expires_at": "2026-03-11T10:35:41.795504",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T09:45:46.691285",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031667891301462165"
-    },
-    {
-        "id": "276fc78c",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: The Ravens have halted their blockbuster trade for Maxx Crosby due to medical concerns! What does this mean for their defense? \ud83e\udd14 #NFL #TradeNews",
-        "source_url": "https://www.skysports.com/nfl/news/12040/13518050/maxx-crosby-baltimore-ravens-back-out-of-trade-for-las-vegas-raiders-defensive-end",
-        "article_title": "Ravens pull plug on blockbuster Crosby trade after medical issues",
-        "created_at": "2026-03-11T07:39:07.542044",
-        "scheduled_for": "2026-03-11T07:49:07.542044",
-        "expires_at": "2026-03-11T08:39:07.542044",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T07:49:18.353250",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031638580255404166"
-    },
-    {
-        "id": "6ff157e3",
-        "tweet_text": "Is Igor Tudor's time at Spurs already in jeopardy? \ud83d\ude31 After a rough loss to Atletico Madrid, fans are on edge! Can he turn it around? #Tottenham #ChampionsLeague",
-        "source_url": "https://www.bbc.com/sport/football/articles/cy4w53719k7o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Is Tudor's Spurs reign almost up after only four games?",
-        "created_at": "2026-03-11T03:27:18.001885",
-        "scheduled_for": "2026-03-11T03:37:18.001885",
-        "expires_at": "2026-03-11T04:27:18.001885",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T03:30:39.766276",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031573490352943348"
     }
 ]
