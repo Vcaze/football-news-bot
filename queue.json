@@ -64,5 +64,38 @@
         "expires_at": "2026-03-23T00:18:42.807259",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "25222315",
+        "tweet_text": "\ud83d\udea8 Nottingham Forest dominate Tottenham with a 3-0 victory at the Tottenham Hotspur Stadium, pushing Spurs closer to relegation danger as they remain winless in 2023! \u26bd\ufe0f\ud83d\udd25 #NFFC #THFC",
+        "source_url": "https://www.bbc.com/sport/football/videos/c9vl83p33pro?at_medium=RSS&at_campaign=rss",
+        "article_title": "Forest win sinks Tottenham closer to relegation danger",
+        "created_at": "2026-03-22T21:19:35.354242",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T01:19:35.354242",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "c425da07",
+        "tweet_text": "\ud83d\udea8 Barcelona tightens grip on La Liga with a 1-0 win over Rayo Vallecano! Ronald Ara\u00fajo scores the only goal, extending their lead over Real Madrid to 7 points. \ud83d\udd35\ud83d\udd34 #LaLiga #FCBarcelona",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/barcelona-real-madrid-atletico-roma-inter",
+        "article_title": "European football: Barcelona tighten grip on top spot with win over Rayo Vallecano",
+        "created_at": "2026-03-22T21:19:37.961914",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T01:19:37.961914",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e28f348c",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Nico O'Reilly shines on his birthday, scoring twice as Manchester City beats Arsenal at Wembley! Pep's men prove their title credentials with a 2-0 victory! \ud83c\udf89\u26bd #ManCity #Arsenal",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/nico-oreilly-hails-perfect-birthday-36906906",
+        "article_title": "Nico O'Reilly hails perfect birthday as Bernardo Silva points finger at Arsenal's final flops",
+        "created_at": "2026-03-22T21:19:40.666133",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T01:19:40.666133",
+        "type": "manual",
+        "status": "pending"
     }
 ]
