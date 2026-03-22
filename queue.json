@@ -31,5 +31,16 @@
         "expires_at": "2026-03-22T10:41:29.449171",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "25a216ff",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Everton clinch a stunning 3-0 victory over Chelsea with Beto scoring twice and Ndiaye adding another! This marks Everton's biggest win against Chelsea since 1987! \u26bd\ufe0f\ud83d\udca5 #EPL #Everton",
+        "source_url": "https://www.theguardian.com/football/2026/mar/21/everton-chelsea-premier-league-match-report",
+        "article_title": "Everton turn up heat on Rosenior as Beto double and Ndiaye sink Chelsea",
+        "created_at": "2026-03-22T07:33:50.706969",
+        "scheduled_for": null,
+        "expires_at": "2026-03-22T11:33:50.706969",
+        "type": "manual",
+        "status": "pending"
     }
 ]
