@@ -42,5 +42,16 @@
         "expires_at": "2026-03-23T12:46:46.686270",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "0c0150c2",
+        "tweet_text": "\ud83d\udea8 Zinedine Zidane has reached a verbal agreement for a new managerial role, ending speculation about a move to Manchester United! \ud83d\udd25 #Zidane #ManagerialChange",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/zinedine-zidane-man-utd-france-36908278",
+        "article_title": "Zinedine Zidane reaches 'verbal agreement' over new job after Man Utd links",
+        "created_at": "2026-03-23T10:51:14.395143",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T14:51:14.395143",
+        "type": "manual",
+        "status": "pending"
     }
 ]
