@@ -64,5 +64,38 @@
         "expires_at": "2026-03-23T20:51:06.899062",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ed5960e6",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Arsenal defender Ben White receives his first England call-up since 2022 for upcoming friendlies against Uruguay and Japan! \ud83c\uddec\ud83c\udde7\u26bd #ThreeLions #ENG",
+        "source_url": "https://www.bbc.com/sport/football/articles/cx2dy01l238o?at_medium=RSS&at_campaign=rss",
+        "article_title": "White gets first England call-up since 2022",
+        "created_at": "2026-03-23T17:45:19.630304",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T21:45:19.630304",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "0d117113",
+        "tweet_text": "\ud83d\udea8 UEFA has rejected Premier League clubs' request for 28-man Champions League squads after a backlash from Spanish teams like Atl\u00e9tico Madrid! #UCL #FootballNews",
+        "source_url": "https://www.theguardian.com/football/2026/mar/23/english-clubs-plea-for-bigger-champions-league-squads-rejected-uefa-after-spanish-backlash",
+        "article_title": "English clubs\u2019 plea for bigger Champions League squads rejected after Spanish backlash",
+        "created_at": "2026-03-23T17:45:21.358914",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T21:45:21.358914",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "89a878e4",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ben White is back in the England squad for friendlies against Uruguay and Japan, ending his exile since 2022! Meanwhile, Harvey Barnes is also called up, a blow for Scotland. \ud83c\uddec\ud83c\udde7\u26bd #ENG #FootballNews",
+        "source_url": "https://www.theguardian.com/football/2026/mar/23/england-call-up-ben-white-and-harvey-barnes-for-pre-world-cup-friendlies",
+        "article_title": "England bring Ben White in from exile and call up Scotland target Harvey Barnes",
+        "created_at": "2026-03-23T17:45:24.120364",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T21:45:24.120364",
+        "type": "manual",
+        "status": "pending"
     }
 ]
