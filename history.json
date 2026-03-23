@@ -1,5 +1,31 @@
 [
     {
+        "id": "8ec5a3ad",
+        "tweet_text": "\ud83d\udea8 Tragic news: 18-year-old Santiago Castrillon has died after collapsing on the pitch while playing for Millonarios U20s. The club has released an emotional tribute to the young talent. \ud83d\udc94#RIP #FootballFamily",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/footballer-18-dies-hospital-after-36909730",
+        "article_title": "Footballer, 18, dies in hospital after collapsing on pitch as club pay emotional tribute",
+        "created_at": "2026-03-23T14:11:25.062004",
+        "scheduled_for": "2026-03-23T14:21:25.062004",
+        "expires_at": "2026-03-23T15:11:25.062004",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-23T14:21:33.683339",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036085948975333623"
+    },
+    {
+        "id": "a6d79f66",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: FC K\u00f6ln part ways with head coach Lukas Kwasniok after a dramatic 3-3 draw against Borussia M\u00f6nchengladbach. The club's struggles continue as he exits following the historic 100th derby. \u26bd\ufe0f\ud83d\udd34 #Bundesliga #K\u00f6ln",
+        "source_url": "https://www.theguardian.com/football/2026/mar/23/lukas-kwasniok-chaotic-koln-in-trouble-bundesliga",
+        "article_title": "It\u2019s 100 and out for Kwasniok after derby thriller leaves chaotic K\u00f6ln in trouble | Andy Brassell",
+        "created_at": "2026-03-23T14:11:20.767045",
+        "scheduled_for": "2026-03-23T14:21:20.767045",
+        "expires_at": "2026-03-23T15:11:20.767045",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-23T14:21:33.453253",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036085947486421183"
+    },
+    {
         "id": "2d95c68d",
         "tweet_text": "\ud83d\udea8 Brentford stars step up! Two players were left bloodied after intervening to stop a racist attack early Sunday morning. Their bravery shines a light on the fight against racism! \ud83d\udcaa\u270a #StandAgainstRacism #FootballUnity",
         "source_url": "https://www.mirror.co.uk/sport/football/news/brentford-players-racist-attack-london-36907141",
@@ -622,31 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T18:54:54.578527",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031806084898496689"
-    },
-    {
-        "id": "a35332aa",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS! Arsenal is gearing up to face Bayer Leverkusen in the Champions League last 16! \u26bd\ufe0f Can they make history this season? Get ready for an epic showdown! \ud83d\udd25 #ChampionsLeague #Arsenal",
-        "source_url": "https://www.theguardian.com/football/live/2026/mar/11/bayer-leverkusen-v-arsenal-champions-league-last-16-first-leg-live",
-        "article_title": "Bayer Leverkusen v Arsenal: Champions League last 16, first leg\u2013 live",
-        "created_at": "2026-03-11T16:43:02.138140",
-        "scheduled_for": "2026-03-11T16:53:02.138140",
-        "expires_at": "2026-03-11T17:43:02.138140",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T16:53:07.390304",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031775436267560984"
-    },
-    {
-        "id": "16a9c96f",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Iran\u2019s sports minister confirms the national football team will NOT participate in the 2026 World Cup! \ud83d\ude31 What a shocking turn of events! #Football #WorldCup2026",
-        "source_url": "https://www.theguardian.com/football/2026/mar/11/donald-trump-iran-welcome-2026-world-cup-gianni-infantino",
-        "article_title": "Iran\u2019s sports minister says football team will not play at 2026 World Cup",
-        "created_at": "2026-03-11T15:41:15.776355",
-        "scheduled_for": "2026-03-11T15:51:15.776355",
-        "expires_at": "2026-03-11T16:41:15.776355",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T15:51:20.530843",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031759888502649231"
     }
 ]
