@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "99d3a3e7",
+        "tweet_text": "Nottingham Forest dominate Tottenham with a 3-0 victory at the Tottenham Hotspur Stadium, leaving Spurs winless in the league this year and closer to relegation danger! \ud83d\udd25\u26bd\ufe0f #NFFC #THFC",
+        "source_url": "https://www.bbc.com/sport/football/videos/c9vl83p33pro?at_medium=RSS&at_campaign=rss",
+        "article_title": "Forest win sinks Tottenham closer to relegation danger",
+        "created_at": "2026-03-23T07:01:12.468026",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T11:01:12.468026",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "43924d74",
+        "tweet_text": "\ud83d\udea8 Ollie Watkins scores to secure Aston Villa's 2-0 victory over West Ham, solidifying their spot in the Premier League top four! Youri Tielemans makes a triumphant return from injury! \ud83d\udd25\u26bd #AVFC #PremierLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/aston-villa-west-ham-premier-league-match-report",
+        "article_title": "Ollie Watkins puts seal on Villa\u2019s win over West Ham after England omission",
+        "created_at": "2026-03-23T07:01:15.310682",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T11:01:15.310682",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3d106535",
+        "tweet_text": "\ud83d\udea8 Vin\u00edcius J\u00fanior shines with a brace as Real Madrid edges Atl\u00e9tico Madrid 3-2 in a thrilling derby! \ud83c\udf89 Bar\u00e7a leads La Liga by 4 points after defeating Vallecano. #LaLiga #MadridDerby",
+        "source_url": "https://www.theguardian.com/football/2026/mar/22/barcelona-real-madrid-atletico-roma-inter",
+        "article_title": "European football: Vin\u00edcius doubles up as Real Madrid edge Atl\u00e9tico in derby thriller",
+        "created_at": "2026-03-23T07:01:18.370494",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T11:01:18.370494",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2d95c68d",
+        "tweet_text": "\ud83d\udea8 Brentford stars step up! Two players were left bloodied after intervening to stop a racist attack early Sunday morning. Their bravery shines a light on the fight against racism! \ud83d\udcaa\u270a #StandAgainstRacism #FootballUnity",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/brentford-players-racist-attack-london-36907141",
+        "article_title": "Two Premier League stars left bloodied after saving man from 'racist attack'",
+        "created_at": "2026-03-23T07:01:21.828969",
+        "scheduled_for": "2026-03-23T07:11:21.828969",
+        "expires_at": "2026-03-23T08:01:21.828969",
+        "type": "auto",
+        "status": "pending"
+    }
+]
