@@ -97,5 +97,27 @@
         "expires_at": "2026-03-23T19:54:47.771466",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "b99fbf8f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Antoine Griezmann is set to sign a 2-year deal with Orlando City SC, including an option for a 3rd year! \u26bd\ufe0f\ud83c\udf1f #MLS #Griezmann",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48283621/antoine-griezmann-sign-2-year-deal-orlando",
+        "article_title": "Sources: Griezmann to ink 2-year deal at Orlando",
+        "created_at": "2026-03-23T16:51:04.253258",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T20:51:04.253258",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e85f681b",
+        "tweet_text": "\ud83d\udea8 BREAKING: Five Arsenal players have withdrawn from international duty due to injuries. Key squad members are sidelined as the Gunners prepare for upcoming matches. \ud83c\udfe5\u26bd\ufe0f #Arsenal #InjuryNews",
+        "source_url": "https://talksport.com/football/4133643/arsenal-injuries-international-duty-mikel-arteta/",
+        "article_title": "Five Arsenal players withdraw from international duty with injuries",
+        "created_at": "2026-03-23T16:51:06.899062",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T20:51:06.899062",
+        "type": "manual",
+        "status": "pending"
     }
 ]
