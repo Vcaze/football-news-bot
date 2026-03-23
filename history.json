@@ -1,5 +1,18 @@
 [
     {
+        "id": "edc62e76",
+        "tweet_text": "\ud83d\udea8 Tragic news as 20-year-old footballer Hugo Mosshagen has been shot dead, with police responding to an incident on Saturday. His father shares a heartbreaking statement. \ud83d\udc94 #RIPHugo #FootballCommunity",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/hugo-mosshagen-bk-forward-sweden-36911782",
+        "article_title": "Footballer shot dead at just 20 as dad issues heartbreaking statement",
+        "created_at": "2026-03-23T18:42:40.182025",
+        "scheduled_for": "2026-03-23T18:52:40.182025",
+        "expires_at": "2026-03-23T19:42:40.182025",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-23T18:52:48.917212",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036154212271194188"
+    },
+    {
         "id": "79859f1d",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Zinedine Zidane has verbally agreed to become the new head coach of the France national team, set to succeed Didier Deschamps this summer! \ud83c\uddeb\ud83c\uddf7\u26bd\ufe0f #Zidane #FranceNationalTeam",
         "source_url": "https://www.espn.com/soccer/story/_/id/48286234/zinedine-zidane-reaches-verbal-agreement-take-france-job-sources",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-11T22:31:23.909750",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2031860566135099574"
-    },
-    {
-        "id": "ca449e21",
-        "tweet_text": "\ud83d\udea8 Federico Valverde nets a first-half hat-trick as Real Madrid crush Manchester City 3-0, putting Pep's side on the brink of Champions League exit! \u26bd\ufe0f\ud83c\udfc6 #UCL #RealMadrid",
-        "source_url": "https://www.skysports.com/football/real-madrid-vs-manchester-city/report/554899",
-        "article_title": "Valverde's first-half hat-trick leaves Man City on brink of CL exit",
-        "created_at": "2026-03-11T22:21:06.367051",
-        "scheduled_for": "2026-03-11T22:31:06.367051",
-        "expires_at": "2026-03-11T23:21:06.367051",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-11T22:31:23.658351",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031860565099102255"
     }
 ]
