@@ -64,5 +64,49 @@
         "expires_at": "2026-03-23T18:11:31.547745",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "b6809d6b",
+        "tweet_text": "\ud83d\udea8 Arsenal face an injury crisis as Leandro Trossard and Gabriel Magalhaes withdraw from international duty, leaving Mikel Arteta with five key players sidelined! \u26a0\ufe0f #AFC #InjuryUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-trossard-gabriel-36910649",
+        "article_title": "Arsenal in sudden injury crisis as FIFTH star withdraws from international duty",
+        "created_at": "2026-03-23T15:54:42.839107",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T19:54:42.839107",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "33b57981",
+        "tweet_text": "\ud83d\udea8 Michael Carrick wins 7 of 10 matches as Manchester United manager but faces uncertainty about his long-term future! Can he secure the job? \u26bd\ufe0f\ud83d\udd34 #MUFC #Carrick",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-job-36910091",
+        "article_title": "Michael Carrick handed huge boost over landing Man Utd job as update on talks emerge",
+        "created_at": "2026-03-23T15:54:46.109453",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T19:54:46.109453",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e3e8ae0b",
+        "tweet_text": "\ud83d\udea8 Ben White returns to the England squad after a year away, replacing Jarell Quansah for upcoming matches against Uruguay and Japan! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ThreeLions #ENG",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/ben-white-england-tuchel-southgate-36910597",
+        "article_title": "Why Ben White snubbed England under Gareth Southgate after Steve Holland bust-up",
+        "created_at": "2026-03-23T15:54:47.771466",
+        "scheduled_for": null,
+        "expires_at": "2026-03-23T19:54:47.771466",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "79859f1d",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Zinedine Zidane has verbally agreed to become the new head coach of the France national team, set to succeed Didier Deschamps this summer! \ud83c\uddeb\ud83c\uddf7\u26bd\ufe0f #Zidane #FranceNationalTeam",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48286234/zinedine-zidane-reaches-verbal-agreement-take-france-job-sources",
+        "article_title": "Sources: Zidane verbally agrees to take France job",
+        "created_at": "2026-03-23T15:54:49.802606",
+        "scheduled_for": "2026-03-23T16:04:49.802606",
+        "expires_at": "2026-03-23T16:54:49.802606",
+        "type": "auto",
+        "status": "pending"
     }
 ]
