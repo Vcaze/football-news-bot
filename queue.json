@@ -1,27 +1,5 @@
 [
     {
-        "id": "d0024666",
-        "tweet_text": "\ud83d\udea8 European fans file a complaint with the European Commission against FIFA over World Cup ticket prices! This could change the game for future tournaments! \u26bd\ufe0f\ud83d\udcb0 #FIFAWC #FanRights",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48295992/fan-groups-complain-european-commission-world-cup-ticket-pricing",
-        "article_title": "European fans file complaint over WC ticket prices",
-        "created_at": "2026-03-24T17:06:00.697841",
-        "scheduled_for": null,
-        "expires_at": "2026-03-24T21:06:00.697841",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "f229f994",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Colin Kazim-Richards is set to take on his first managerial role in the EFL! Exciting times ahead for the former player as he steps into management. \u26bd\ufe0f\ud83d\udc54 #KazimRichards #EFL",
-        "source_url": "https://talksport.com/football/4136678/colin-kazim-richards-efl-first-job-crawley-league-two/",
-        "article_title": "Colin Kazim-Richards set to land surprise EFL job in first managerial role",
-        "created_at": "2026-03-24T17:06:04.366952",
-        "scheduled_for": null,
-        "expires_at": "2026-03-24T21:06:04.366952",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "748adac1",
         "tweet_text": "\ud83d\udea8 Mohamed Salah will depart Liverpool at the end of the season! Major change ahead for the Reds as they prepare to say goodbye to their star forward. \u26bd\ufe0f\ud83d\udd34 #LFC #Salah",
         "source_url": "https://www.skysports.com/football/news/12040/13523995/mohamed-salah-liverpool-forward-to-leave-premier-league-club-at-the-end-of-the-season",
@@ -55,28 +33,6 @@
         "status": "pending"
     },
     {
-        "id": "7dfe266d",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms his departure from Liverpool, signaling the end of an iconic era at the club. What a journey it has been! \ud83d\udd34\u26bd\ufe0f #LFC #Salah",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/mo-salah-last-liverpool-game-36918139",
-        "article_title": "When Mo Salah could play his final Liverpool game after shock farewell video",
-        "created_at": "2026-03-24T21:31:22.305965",
-        "scheduled_for": "2026-03-24T21:41:22.305965",
-        "expires_at": "2026-03-24T22:31:22.305965",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "3cb843cb",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he will leave Liverpool at the end of the season! Players past and present are paying tribute to the Reds legend. \ud83d\udd34\u26bd #LFC #Salah",
-        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-teammates-transfer-36918074",
-        "article_title": "How Liverpool players past and present responded to bombshell Mohamed Salah announcement",
-        "created_at": "2026-03-24T21:31:25.452471",
-        "scheduled_for": "2026-03-24T21:41:25.452471",
-        "expires_at": "2026-03-24T22:31:25.452471",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
         "id": "178e5be0",
         "tweet_text": "\ud83d\udea8 Mohamed Salah will leave Liverpool at the end of the season! His agent hints at potential next moves for the Egyptian star. \ud83d\udd25 #Salah #LFC",
         "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-next-club-liverpool-36918073",
@@ -85,28 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-25T01:31:28.165401",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "5ed18434",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah will leave Liverpool as a free agent at the end of the season, despite his contract running until 2027! Shocking decision from both player and club! \u26bd\ufe0f\ud83d\udd34 #LiverpoolFC #Salah",
-        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-liverpool-transfer-agreement-36918067",
-        "article_title": "Mohamed Salah and Liverpool strike free transfer agreement in shock decision",
-        "created_at": "2026-03-24T21:31:29.943855",
-        "scheduled_for": "2026-03-24T21:41:29.943855",
-        "expires_at": "2026-03-24T22:31:29.943855",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "f668f549",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ronaldinho is set to make a surprise return to football at a Premier League stadium! Fans are buzzing with excitement for this legendary comeback! \u26bd\ufe0f\ud83c\udf89 #RonaldinhoReturns #FootballLegends",
-        "source_url": "https://talksport.com/football/4137634/ronaldinho-and-friends-sunderland-stadium-of-light/",
-        "article_title": "Ronaldinho to make surprise return to football at Premier League stadium",
-        "created_at": "2026-03-24T21:31:34.662309",
-        "scheduled_for": "2026-03-24T21:41:34.662309",
-        "expires_at": "2026-03-24T22:31:34.662309",
-        "type": "auto",
         "status": "pending"
     }
 ]
