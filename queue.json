@@ -9,5 +9,27 @@
         "expires_at": "2026-03-24T11:51:54.763363",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "4511bf93",
+        "tweet_text": "\ud83d\udea8 UEFA has rejected English clubs' request for 28-man Champions League squads after pushback from Spanish teams, including Atl\u00e9tico Madrid. #ChampionsLeague #UEFA",
+        "source_url": "https://www.theguardian.com/football/2026/mar/23/english-clubs-plea-for-bigger-champions-league-squads-rejected-uefa-after-spanish-backlash",
+        "article_title": "English clubs\u2019 plea for bigger Champions League squads rejected after Spanish backlash",
+        "created_at": "2026-03-24T11:40:19.387535",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T15:40:19.387535",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "4f7c62bb",
+        "tweet_text": "\ud83d\udea8 Manchester United announces plans to privately finance their \u00a32bn stadium project, dubbed the 'Wembley of the North', without taxpayer support. Discussions are ongoing! \ud83c\udfdf\ufe0f\ud83d\udcb0 #MUFC #StadiumDevelopment",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-reveal-how-new-36913789",
+        "article_title": "Man Utd reveal how new \u00a32bn, 100,000 seater 'Wembley of the north' will be financed",
+        "created_at": "2026-03-24T11:40:21.219611",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T15:40:21.219611",
+        "type": "manual",
+        "status": "pending"
     }
 ]
