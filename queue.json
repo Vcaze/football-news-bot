@@ -31,5 +31,27 @@
         "expires_at": "2026-03-24T16:54:51.437475",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "02f1435a",
+        "tweet_text": "\ud83d\udea8 Scotland's journey to the men's World Cup is revealed! \ud83c\udf89 Hear from the heroes behind their epic win over Denmark, bringing them back to the finals for the first time since 1998! #ScotlandWorldCup #FootballHistory",
+        "source_url": "https://www.bbc.com/sport/football/articles/ckgl75x45z5o?at_medium=RSS&at_campaign=rss",
+        "article_title": "How Scotland reached the World Cup - told by those who made it happen",
+        "created_at": "2026-03-24T14:16:34.695534",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T18:16:34.695534",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "36db6f39",
+        "tweet_text": "\ud83d\udea8 PSG face injury setback ahead of their Champions League tie against Liverpool! A statement reveals concerns as they request to postpone an important Ligue 1 match. \u26bd\ufe0f\ud83d\udd34 #PSG #ChampionsLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/psg-liverpool-champions-league-statement-36915182",
+        "article_title": "PSG handed injury blow ahead of Liverpool Champions League tie as statement released",
+        "created_at": "2026-03-24T14:16:41.966230",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T18:16:41.966230",
+        "type": "manual",
+        "status": "pending"
     }
 ]
