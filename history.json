@@ -1,5 +1,31 @@
 [
     {
+        "id": "0b61b700",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he is LEAVING Liverpool this summer after a tough season! Fans brace for a major change at Anfield. \ud83d\udd34\u2708\ufe0f #LFC #SalahDeparture",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-mohamed-salah-leaving-liverpool-36917752",
+        "article_title": "Mohamed Salah announces he is LEAVING Liverpool in bombshell statement",
+        "created_at": "2026-03-24T18:53:21.218362",
+        "scheduled_for": "2026-03-24T19:03:21.218362",
+        "expires_at": "2026-03-24T19:53:21.218362",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-24T19:03:24.532038",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036519266091147468"
+    },
+    {
+        "id": "31ccfbca",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Antoine Griezmann is leaving Atl\u00e9tico Madrid to join MLS's Orlando City SC! The French forward's deal runs through 2029, marking a new chapter after 10 years with Atl\u00e9tico. \u26bd\ufe0f\ud83c\uddeb\ud83c\uddf7 #Griezmann #MLS",
+        "source_url": "https://www.theguardian.com/football/2026/mar/24/antoine-griezmann-mls-orlando-city-atletico-madrid",
+        "article_title": "Antoine Griezmann to leave Atl\u00e9tico Madrid and join MLS\u2019s Orlando City",
+        "created_at": "2026-03-24T18:53:17.820605",
+        "scheduled_for": "2026-03-24T19:03:17.820605",
+        "expires_at": "2026-03-24T19:53:17.820605",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-24T19:03:24.313442",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036519265147494679"
+    },
+    {
         "id": "880bb96a",
         "tweet_text": "\ud83d\udea8 BREAKING: A 63-year-old man has been arrested after two Brentford players intervened in a racially motivated assault. Quick action from the players highlights their commitment to tackling racism! \u270a\ud83c\udffd\u26bd #StandAgainstRacism #BrentfordFC",
         "source_url": "https://www.mirror.co.uk/sport/football/news/brentford-players-racially-motivated-attack-36916785",
@@ -622,31 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-13T10:39:09.679828",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2032406101480649026"
-    },
-    {
-        "id": "473228f8",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Concerns rise over potential disruption or cancellation of the 2026 FIFA World Cup in the USA, Canada, and Mexico amid escalating US-Iran tensions. Just 3 months to kick-off! \u26bd\ufe0f\ud83c\udf0d #WorldCup2026 #FootballNews",
-        "source_url": "https://www.mirror.co.uk/news/us-news/world-cup-disruption-cancellation-fears-36849163",
-        "article_title": "World Cup disruption or cancellation fears as US-Iran tensions escalate",
-        "created_at": "2026-03-12T14:52:55.013020",
-        "scheduled_for": "2026-03-12T15:02:55.013020",
-        "expires_at": "2026-03-12T15:52:55.013020",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-12T15:02:58.134130",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2032110102967116095"
-    },
-    {
-        "id": "d372ac2b",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Federico Valverde scores a stunning first-half hat-trick as Real Madrid defeats Manchester City 3-0 in the Champions League last-16 at the Bernabeu! \u26bd\ufe0f\ud83d\udd25 #ChampionsLeague #ValverdeMagic",
-        "source_url": "https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Valverde's brilliant first-half hat-trick stuns Man City",
-        "created_at": "2026-03-12T06:44:16.796546",
-        "scheduled_for": "2026-03-12T06:54:16.796546",
-        "expires_at": "2026-03-12T07:44:16.796546",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-12T06:54:25.239084",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2031987155812188509"
     }
 ]

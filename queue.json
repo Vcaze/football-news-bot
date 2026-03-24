@@ -97,27 +97,5 @@
         "expires_at": "2026-03-24T22:53:15.961554",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "31ccfbca",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Antoine Griezmann is leaving Atl\u00e9tico Madrid to join MLS's Orlando City SC! The French forward's deal runs through 2029, marking a new chapter after 10 years with Atl\u00e9tico. \u26bd\ufe0f\ud83c\uddeb\ud83c\uddf7 #Griezmann #MLS",
-        "source_url": "https://www.theguardian.com/football/2026/mar/24/antoine-griezmann-mls-orlando-city-atletico-madrid",
-        "article_title": "Antoine Griezmann to leave Atl\u00e9tico Madrid and join MLS\u2019s Orlando City",
-        "created_at": "2026-03-24T18:53:17.820605",
-        "scheduled_for": "2026-03-24T19:03:17.820605",
-        "expires_at": "2026-03-24T19:53:17.820605",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "0b61b700",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he is LEAVING Liverpool this summer after a tough season! Fans brace for a major change at Anfield. \ud83d\udd34\u2708\ufe0f #LFC #SalahDeparture",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-mohamed-salah-leaving-liverpool-36917752",
-        "article_title": "Mohamed Salah announces he is LEAVING Liverpool in bombshell statement",
-        "created_at": "2026-03-24T18:53:21.218362",
-        "scheduled_for": "2026-03-24T19:03:21.218362",
-        "expires_at": "2026-03-24T19:53:21.218362",
-        "type": "auto",
-        "status": "pending"
     }
 ]
