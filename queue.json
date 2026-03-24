@@ -53,16 +53,5 @@
         "expires_at": "2026-03-25T02:23:16.301180",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "b6ead550",
-        "tweet_text": "\ud83d\udea8 Mohamed Salah's agent confirms the Liverpool star will leave at the end of the season, walking away from his \u00a3400,000-per-week contract! \ud83d\udd25 #LFC #SalahExit",
-        "source_url": "https://www.dailymail.co.uk/sport/football/article-15675949/Mohamed-Salah-fiery-agent-breaks-silence-Liverpool-legend-Anfield-exit-star-confirmed-walking-away-400-000-year-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-        "article_title": "Mohamed Salah's fiery agent breaks silence on Liverpool legend's Anfield exit and lifts lid on his next move after star confirmed he is walking away from \u00a3400,000-per-week contract",
-        "created_at": "2026-03-24T22:23:19.217851",
-        "scheduled_for": "2026-03-24T22:33:19.217851",
-        "expires_at": "2026-03-24T23:23:19.217851",
-        "type": "auto",
-        "status": "pending"
     }
 ]
