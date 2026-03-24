@@ -64,5 +64,49 @@
         "expires_at": "2026-03-24T20:00:05.197675",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "880bb96a",
+        "tweet_text": "\ud83d\udea8 BREAKING: A 63-year-old man has been arrested after two Brentford players intervened in a racially motivated assault. Quick action from the players highlights their commitment to tackling racism! \u270a\ud83c\udffd\u26bd #StandAgainstRacism #BrentfordFC",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/brentford-players-racially-motivated-attack-36916785",
+        "article_title": "Man arrested after two Brentford players bloodied intervening in \u2018racially motivated assault\u2019",
+        "created_at": "2026-03-24T17:05:52.911035",
+        "scheduled_for": "2026-03-24T17:15:52.911035",
+        "expires_at": "2026-03-24T18:05:52.911035",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "3f761996",
+        "tweet_text": "\ud83d\udea8 Huge news for Manchester United fans! The club's stadium development chief confirms progress on land deals and investor talks for a new 100,000-seater Old Trafford worth \u00a32bn! \ud83c\udfdf\ufe0f\u26bd #MUFC #OldTrafford",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-new-stadium-latest-36916770",
+        "article_title": "Man Utd get 'positive news' as announcement set to be made on \u00a32bn new stadium",
+        "created_at": "2026-03-24T17:05:56.319261",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T21:05:56.319261",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d0024666",
+        "tweet_text": "\ud83d\udea8 European fans file a complaint with the European Commission against FIFA over World Cup ticket prices! This could change the game for future tournaments! \u26bd\ufe0f\ud83d\udcb0 #FIFAWC #FanRights",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48295992/fan-groups-complain-european-commission-world-cup-ticket-pricing",
+        "article_title": "European fans file complaint over WC ticket prices",
+        "created_at": "2026-03-24T17:06:00.697841",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T21:06:00.697841",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f229f994",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Colin Kazim-Richards is set to take on his first managerial role in the EFL! Exciting times ahead for the former player as he steps into management. \u26bd\ufe0f\ud83d\udc54 #KazimRichards #EFL",
+        "source_url": "https://talksport.com/football/4136678/colin-kazim-richards-efl-first-job-crawley-league-two/",
+        "article_title": "Colin Kazim-Richards set to land surprise EFL job in first managerial role",
+        "created_at": "2026-03-24T17:06:04.366952",
+        "scheduled_for": null,
+        "expires_at": "2026-03-24T21:06:04.366952",
+        "type": "manual",
+        "status": "pending"
     }
 ]
