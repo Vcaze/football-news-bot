@@ -1,16 +1,5 @@
 [
     {
-        "id": "e34280ad",
-        "tweet_text": "\ud83d\udea8 Arsenal's Eberechi Eze could be sidelined for 4-6 weeks due to a calf injury. A tough blow for the Gunners! \u26bd\ufe0f\ud83d\udc94 #Arsenal #EzeInjury",
-        "source_url": "https://www.bbc.com/sport/football/articles/c62j75q0805o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Arsenal's Eze could be out for month with injury",
-        "created_at": "2026-03-24T15:59:52.648526",
-        "scheduled_for": null,
-        "expires_at": "2026-03-24T19:59:52.648526",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "73fa9411",
         "tweet_text": "\ud83d\udea8 Man Utd star Casemiro is set to leave the club at the end of the season after offering to take a pay cut! A significant move for the Red Devils. \ud83d\udd34\u26bd\ufe0f #MUFC #Casemiro",
         "source_url": "https://www.mirror.co.uk/sport/football/news/casemiro-man-utd-wage-cut-36916602",
@@ -96,61 +85,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-24T22:53:15.961554",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "2d8f23f1",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah bids an emotional farewell to Liverpool fans, confirming he will leave Anfield at the end of the season. You'll never walk alone, Mo! \u2764\ufe0f\ud83d\udfe5 #LFC #Salah",
-        "source_url": "https://www.skysports.com/watch/video/13524017/mohamed-salah-to-leave-liverpool-salah-shares-emotional-farewell-message-to-reds-fans",
-        "article_title": "'I will never walk alone' | Salah shares heartfelt message to Liverpool fans",
-        "created_at": "2026-03-24T19:49:44.259358",
-        "scheduled_for": "2026-03-24T19:59:44.259358",
-        "expires_at": "2026-03-24T20:49:44.259358",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "c4539874",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season! The Reds will face a massive void as the star forward departs. \ud83d\udd34\u26bd\ufe0f #LFC #Salah",
-        "source_url": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Salah to leave Liverpool at end of season",
-        "created_at": "2026-03-24T19:49:46.647305",
-        "scheduled_for": "2026-03-24T19:59:46.647305",
-        "expires_at": "2026-03-24T20:49:46.647305",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "4c30ccec",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah is set to leave Liverpool at the end of the season after 9 incredible years! The club confirms his decision for transparency with fans. \u26bd\ufe0f\u2764\ufe0f #LFC #Salah",
-        "source_url": "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season",
-        "article_title": "Mohamed Salah to leave Liverpool at end of the season",
-        "created_at": "2026-03-24T19:49:50.865073",
-        "scheduled_for": "2026-03-24T19:59:50.865073",
-        "expires_at": "2026-03-24T20:49:50.865073",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "cc50aeb8",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season in an emotional video to fans. A massive chapter closes at Anfield! \ud83d\ude22 #LFC #Salah",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-mohamed-salah-exit-statement-36917850",
-        "article_title": "Mohamed Salah statement in full as Liverpool star reveals he is quitting club",
-        "created_at": "2026-03-24T19:49:54.901422",
-        "scheduled_for": "2026-03-24T19:59:54.901422",
-        "expires_at": "2026-03-24T20:49:54.901422",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "2abcf7a4",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah will leave Liverpool at the end of the season, the club announced today! \ud83d\udd34\u26bd #LFC #Salah",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48297617/mohamed-salah-leave-liverpool-end-season",
-        "article_title": "Salah to leave Liverpool at end of the season",
-        "created_at": "2026-03-24T19:49:57.998237",
-        "scheduled_for": "2026-03-24T19:59:57.998237",
-        "expires_at": "2026-03-24T20:49:57.998237",
-        "type": "auto",
         "status": "pending"
     }
 ]
