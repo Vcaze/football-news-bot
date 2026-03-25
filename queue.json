@@ -31,5 +31,49 @@
         "expires_at": "2026-03-25T14:41:26.407318",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "c3e4b2bf",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season, solidifying his status as an Anfield legend. Klopp sends warning to Arne Slot! \ud83d\udd34\u26bd\ufe0f #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-jurgen-klopp-slot-36920175",
+        "article_title": "Jurgen Klopp sent warning to Arne Slot about Mo Salah after extraordinary Liverpool rant",
+        "created_at": "2026-03-25T11:36:47.150498",
+        "scheduled_for": "2026-03-25T11:46:47.150498",
+        "expires_at": "2026-03-25T12:36:47.150498",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "89cac20f",
+        "tweet_text": "\ud83d\udea8 Liverpool's Mo Salah will leave at the end of the season, prompting the club to search for replacements! Exciting signings are on the horizon! \ud83d\udd34 #LFC #SalahDeparture",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-salah-replacement-transfer-olise-36919394",
+        "article_title": "Liverpool's scary front three next season with Mo Salah funds spent on two signings",
+        "created_at": "2026-03-25T11:36:50.022375",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T15:36:50.022375",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "8ee27ba0",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he will leave Liverpool at the end of the season after 9 successful years! Potential destinations include Saudi Pro League and MLS! \u26bd\ufe0f\ud83d\udd34 #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-liverpool-news-transfers-36919544",
+        "article_title": "Mohamed Salah's private feelings after Liverpool exit bombshell dropped",
+        "created_at": "2026-03-25T11:36:51.230333",
+        "scheduled_for": "2026-03-25T11:46:51.230333",
+        "expires_at": "2026-03-25T12:36:51.230333",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "ef8efc0b",
+        "tweet_text": "\ud83d\udea8 Huge news! Casemiro will leave Manchester United this summer as he agrees on a contract clause, giving Michael Carrick a significant boost in the Premier League! \u26bd\ufe0f\ud83d\udd34 #MUFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/casemiro-carrick-man-united-agreement-36919627",
+        "article_title": "Man Utd and Casemiro reach agreement on contract clause in major boost for Michael Carrick",
+        "created_at": "2026-03-25T11:36:53.755284",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T15:36:53.755284",
+        "type": "manual",
+        "status": "pending"
     }
 ]
