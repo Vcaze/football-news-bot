@@ -20,5 +20,16 @@
         "expires_at": "2026-03-25T10:54:42.658296",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "25af9c31",
+        "tweet_text": "\ud83d\udea8 Jamie Carragher claims Mo Salah will be remembered ahead of Cristiano Ronaldo after his impending Liverpool exit this season! Discussions heat up on his legacy as one of the Premier League's best. \u26bd\ufe0f\ud83d\udd25 #LFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/carragher-mo-salah-ronaldo-liverpool-36918575",
+        "article_title": "Jamie Carragher says Mo Salah will go down ahead of Cristiano Ronaldo after Liverpool exit",
+        "created_at": "2026-03-25T07:49:14.634898",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T11:49:14.634898",
+        "type": "manual",
+        "status": "pending"
     }
 ]
