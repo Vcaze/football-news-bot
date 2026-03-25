@@ -1,5 +1,18 @@
 [
     {
+        "id": "27aa3606",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he will leave Liverpool at the end of the season, just a year after signing a new contract! \u26bd\ufe0f\ud83d\udc94 #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-liverpool-transfer-saudi-36919026",
+        "article_title": "Mo Salah\u2019s public Arne Slot row and how Liverpool legend reached point of no return",
+        "created_at": "2026-03-25T10:41:28.268726",
+        "scheduled_for": "2026-03-25T10:51:28.268726",
+        "expires_at": "2026-03-25T11:41:28.268726",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-25T10:51:32.604244",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036757871971455021"
+    },
+    {
         "id": "17cc9bee",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool as a free agent at the end of the season, expressing gratitude for \"the best time of my life.\" \ud83d\udd34\u26bd #LFC #Salah",
         "source_url": "https://www.skysports.com/football/news/12040/13523995/mohamed-salah-liverpool-forward-to-leave-premier-league-club-at-the-end-of-the-season",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-16T19:02:55.377009",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2033620040927388152"
-    },
-    {
-        "id": "8cc99f29",
-        "tweet_text": "\ud83d\udea8 Chelsea fined a Premier League record \u00a310.75m and handed a suspended transfer ban for hidden payments in player signings. Major implications for the club! \u26bd\ufe0f\ud83d\udcb0 #ChelseaFC #PremierLeague",
-        "source_url": "https://www.bbc.com/sport/football/articles/cn48e171zlvo?at_medium=RSS&at_campaign=rss",
-        "article_title": "How Chelsea signed a star team with hidden payments",
-        "created_at": "2026-03-16T18:52:36.941004",
-        "scheduled_for": "2026-03-16T19:02:36.941004",
-        "expires_at": "2026-03-16T19:52:36.941004",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-16T19:02:55.148483",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2033620039861965249"
     }
 ]
