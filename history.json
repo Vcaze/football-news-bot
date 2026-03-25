@@ -1,5 +1,18 @@
 [
     {
+        "id": "17cc9bee",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool as a free agent at the end of the season, expressing gratitude for \"the best time of my life.\" \ud83d\udd34\u26bd #LFC #Salah",
+        "source_url": "https://www.skysports.com/football/news/12040/13523995/mohamed-salah-liverpool-forward-to-leave-premier-league-club-at-the-end-of-the-season",
+        "article_title": "'True legend' - Salah to leave Liverpool and become free agent",
+        "created_at": "2026-03-25T06:54:34.088815",
+        "scheduled_for": "2026-03-25T07:04:34.088815",
+        "expires_at": "2026-03-25T07:54:34.088815",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-25T07:04:47.238026",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036700806947229946"
+    },
+    {
         "id": "b6ead550",
         "tweet_text": "\ud83d\udea8 Mohamed Salah's agent confirms the Liverpool star will leave at the end of the season, walking away from his \u00a3400,000-per-week contract! \ud83d\udd25 #LFC #SalahExit",
         "source_url": "https://www.dailymail.co.uk/sport/football/article-15675949/Mohamed-Salah-fiery-agent-breaks-silence-Liverpool-legend-Anfield-exit-star-confirmed-walking-away-400-000-year-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-16T19:02:55.148483",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2033620039861965249"
-    },
-    {
-        "id": "e6e49e54",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea hit with a record-breaking eight-figure fine and a nine-month academy transfer ban after admitting to breaking Premier League rules! \u26bd\ufe0f\ud83d\udcb0 #Chelsea #PremierLeague",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-premier-league-transfer-ban-36875314",
-        "article_title": "Chelsea punishments, rule breaches and Premier League investigation results explained",
-        "created_at": "2026-03-16T14:18:07.035825",
-        "scheduled_for": "2026-03-16T14:28:07.035825",
-        "expires_at": "2026-03-16T15:18:07.035825",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-16T14:28:10.274165",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2033550897360355500"
     }
 ]
