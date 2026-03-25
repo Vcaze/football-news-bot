@@ -53,5 +53,49 @@
         "expires_at": "2026-03-25T16:52:05.790923",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "c75220df",
+        "tweet_text": "\ud83d\udea8 Huddersfield Town boss Liam Manning takes compassionate leave for the remainder of the season. Wishing him all the best during this time. \ud83d\udc99\u26bd #HuddersfieldTown #FootballNews",
+        "source_url": "https://www.bbc.com/sport/football/articles/cvg0nj19xvlo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Huddersfield boss Manning takes compassionate leave",
+        "created_at": "2026-03-25T14:14:52.325080",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T18:14:52.325080",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e759b815",
+        "tweet_text": "\ud83d\udea8 Liverpool and Wales legend John Toshack, 77, has been diagnosed with dementia, confirmed by his son Cameron. Toshack, a football icon, had a stellar playing and managerial career. \ud83d\udc94\u26bd #FootballLegend #DementiaAwareness",
+        "source_url": "https://www.theguardian.com/football/2026/mar/25/liverpool-and-wales-legend-john-toshack-diagnosed-with-dementia",
+        "article_title": "Liverpool and Wales legend John Toshack diagnosed with dementia",
+        "created_at": "2026-03-25T14:14:59.447619",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T18:14:59.447619",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "cb815790",
+        "tweet_text": "\ud83d\udea8 A man has avoided jail after racially abusing Lionesses star Jess Carter with vile messages during the 2025 European Championship. Nigel Dewale sent 'disgusting' messages while she played for England. #JusticeForJess #EndRacism",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/england-racist-abuse-jess-carter-36920950",
+        "article_title": "Man who racially abused Lionesses hero Jess Carter with vile messages avoids jail",
+        "created_at": "2026-03-25T14:15:01.411286",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T18:15:01.411286",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3ddae787",
+        "tweet_text": "\ud83d\udea8 FIFA breaks its own rule ahead of the 2026 World Cup due to stadium issues in the U.S. after 18 months of discussions! Sleep-deprived officials are scrambling for solutions! \u26bd\ufe0f\ud83c\udfdf\ufe0f #WorldCup2026 #FIFA",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/fifa-world-cup-2026-stadium-36921163",
+        "article_title": "FIFA forced to break own rule for 2026 World Cup over problem that caused 'sleepless nights'",
+        "created_at": "2026-03-25T14:15:03.192450",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T18:15:03.192450",
+        "type": "manual",
+        "status": "pending"
     }
 ]
