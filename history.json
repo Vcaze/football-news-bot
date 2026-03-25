@@ -1,5 +1,18 @@
 [
     {
+        "id": "edc8185e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he's leaving Liverpool! The football world is buzzing with questions about his next move and the club's future. \ud83d\udd34\u26bd\ufe0f #Salah #LFC",
+        "source_url": "https://www.skysports.com/football/news/12040/13524318/mohamed-salah-qa-who-made-the-call-for-the-liverpool-star-to-leave-what-do-liverpool-and-the-player-do-now-and-does-it-affect-arne-slots-future",
+        "article_title": "Salah Q&A: Who made the call - and what now for the player and Liverpool?",
+        "created_at": "2026-03-25T19:41:11.124330",
+        "scheduled_for": "2026-03-25T19:51:11.124330",
+        "expires_at": "2026-03-25T20:41:11.124330",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-25T19:51:25.558650",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036893737838620687"
+    },
+    {
         "id": "6bbdbdea",
         "tweet_text": "\ud83d\udea8 Sad news in football: Rachel Borthwick, partner of Dunfermline Athletic's Graham Carey, has passed away at 37 after a courageous four-year fight against cancer. Our thoughts are with Graham and their family. \ud83d\udc94 #RIP #FootballFamily",
         "source_url": "https://www.mirror.co.uk/sport/football/news/graham-carey-wife-rachel-dies-36922756",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-16T20:41:18.902022",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2033644802034598098"
-    },
-    {
-        "id": "e01e7a9c",
-        "tweet_text": "\ud83d\udea8 Mikel Arteta reveals Arsenal faces a major injury setback just one week before the Carabao Cup final. Key players' availability in doubt! \ud83d\udc94 #AFC #CarabaoCup",
-        "source_url": "https://talksport.com/football/4083757/arsenal-jurrien-timber-injury-everton-carabao-cup-final/",
-        "article_title": "Mikel Arteta issues update as Arsenal suffer major injury blow just a week before Carabao Cup final",
-        "created_at": "2026-03-16T19:50:04.593884",
-        "scheduled_for": "2026-03-16T20:00:04.593884",
-        "expires_at": "2026-03-16T20:50:04.593884",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-16T20:00:09.647869",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2033634445148803239"
     }
 ]
