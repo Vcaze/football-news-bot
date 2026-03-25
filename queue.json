@@ -64,5 +64,27 @@
         "expires_at": "2026-03-25T18:15:03.192450",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "8a838d5d",
+        "tweet_text": "\ud83d\udea8 Liverpool and Wales legend John Toshack has been diagnosed with dementia, as confirmed by his son Cameron Toshack. Our thoughts are with him and his family during this difficult time. \ud83d\udc94 #FootballFamily #MentalHealthAwareness",
+        "source_url": "https://www.bbc.com/sport/football/articles/cy01n951evwo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Liverpool & Wales great Toshack diagnosed with dementia",
+        "created_at": "2026-03-25T16:03:04.801925",
+        "scheduled_for": null,
+        "expires_at": "2026-03-25T20:03:04.801925",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6bbdbdea",
+        "tweet_text": "\ud83d\udea8 Sad news in football: Rachel Borthwick, partner of Dunfermline Athletic's Graham Carey, has passed away at 37 after a courageous four-year fight against cancer. Our thoughts are with Graham and their family. \ud83d\udc94 #RIP #FootballFamily",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/graham-carey-wife-rachel-dies-36922756",
+        "article_title": "Irish football star Graham Carey's partner Rachel dies aged 37 after cancer battle",
+        "created_at": "2026-03-25T16:03:11.533578",
+        "scheduled_for": "2026-03-25T16:13:11.533578",
+        "expires_at": "2026-03-25T17:03:11.533578",
+        "type": "auto",
+        "status": "pending"
     }
 ]
