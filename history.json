@@ -1,5 +1,18 @@
 [
     {
+        "id": "6bbdbdea",
+        "tweet_text": "\ud83d\udea8 Sad news in football: Rachel Borthwick, partner of Dunfermline Athletic's Graham Carey, has passed away at 37 after a courageous four-year fight against cancer. Our thoughts are with Graham and their family. \ud83d\udc94 #RIP #FootballFamily",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/graham-carey-wife-rachel-dies-36922756",
+        "article_title": "Irish football star Graham Carey's partner Rachel dies aged 37 after cancer battle",
+        "created_at": "2026-03-25T16:03:11.533578",
+        "scheduled_for": "2026-03-25T16:13:11.533578",
+        "expires_at": "2026-03-25T17:03:11.533578",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-25T16:13:21.080265",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036838857589563883"
+    },
+    {
         "id": "8ee27ba0",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah announces he will leave Liverpool at the end of the season after 9 successful years! Potential destinations include Saudi Pro League and MLS! \u26bd\ufe0f\ud83d\udd34 #LFC #Salah",
         "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-liverpool-news-transfers-36919544",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-16T20:00:09.647869",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2033634445148803239"
-    },
-    {
-        "id": "1e25b495",
-        "tweet_text": "\ud83d\udea8 Chelsea face potential further sanctions after receiving a transfer ban, raising concerns over their squad depth and future signings. \u26bd\ufe0f #CFC #TransferNews",
-        "source_url": "https://talksport.com/football/4102519/chelsea-further-sanctions-charges-transfer-ban-premier-league/",
-        "article_title": "Chelsea warned they are set to face further sanctions after being hit with transfer ban",
-        "created_at": "2026-03-16T19:50:02.511484",
-        "scheduled_for": "2026-03-16T20:00:02.511484",
-        "expires_at": "2026-03-16T20:50:02.511484",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-16T20:00:09.357521",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2033634443919782381"
     }
 ]
