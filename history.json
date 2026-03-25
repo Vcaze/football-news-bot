@@ -1,5 +1,18 @@
 [
     {
+        "id": "056aee91",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah is set to leave Liverpool at the end of the season after a stellar career at Anfield! MLS chief discusses possible next steps for the superstar. \u26bd\ufe0f\ud83c\udf0d #Salah #MLS",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-liverpool-exit-transfer-36924213",
+        "article_title": "MLS chief makes Mo Salah transfer statement after bombshell Liverpool exit confirmed",
+        "created_at": "2026-03-25T21:31:52.290718",
+        "scheduled_for": "2026-03-25T21:41:52.290718",
+        "expires_at": "2026-03-25T22:31:52.290718",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-25T21:41:59.707948",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2036921563430203586"
+    },
+    {
         "id": "780e5782",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Barcelona crush Real Madrid 6-2 in the first leg of the UWCL quarter-finals, taking a giant step towards the last four! \ud83d\udd25\u26bd\ufe0f #UWCL #BarcaDominance",
         "source_url": "https://www.espn.com/soccer/report/_/gameId/401842597",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-17T22:36:17.834530",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034036125581398016"
-    },
-    {
-        "id": "f6f902d7",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Real Madrid eliminates Manchester City from the Champions League again with a 2-1 win, securing a 5-1 aggregate victory! Vinicius Jr shines with two goals. \u26bd\ufe0f\ud83c\udfc6 #UCL #RealMadrid",
-        "source_url": "https://www.skysports.com/football/manchester-city-vs-real-madrid/report/554900",
-        "article_title": "Man City knocked out of Europe by Real Madrid AGAIN",
-        "created_at": "2026-03-17T22:25:57.258302",
-        "scheduled_for": "2026-03-17T22:35:57.258302",
-        "expires_at": "2026-03-17T23:25:57.258302",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-17T22:36:14.527143",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034036112167952830"
     }
 ]
