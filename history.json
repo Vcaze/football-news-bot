@@ -1,5 +1,18 @@
 [
     {
+        "id": "a3a283e7",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season, as former manager Jurgen Klopp comments on the situation. \ud83d\udd34\u26bd #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-klopp-liverpool-news-36929930",
+        "article_title": "Former Liverpool manager Jurgen Klopp breaks silence on Mo Salah exit",
+        "created_at": "2026-03-26T18:58:12.258474",
+        "scheduled_for": "2026-03-26T19:08:12.258474",
+        "expires_at": "2026-03-26T19:58:12.258474",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-26T19:08:19.410887",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2037245278626230594"
+    },
+    {
         "id": "a4de2e02",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season, sparking a heated debate between Jamie Carragher and Gary Neville! \ud83d\udd25 #Salah #LFC",
         "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/carragher-neville-mohamed-salah-liverpool-36925224",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-17T22:36:18.360864",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034036128265691320"
-    },
-    {
-        "id": "c5b85e96",
-        "tweet_text": "\ud83d\udea8 Chelsea booed off after a devastating 3-0 loss to PSG, resulting in an 8-2 aggregate defeat in the Champions League last-16! Tough night at Stamford Bridge! \u26bd\ufe0f\ud83d\udc94 #CFC #UCL",
-        "source_url": "https://www.skysports.com/football/chelsea-vs-paris-saint-germain/report/554901",
-        "article_title": "Chelsea booed off after PSG thrashing",
-        "created_at": "2026-03-17T22:26:02.737985",
-        "scheduled_for": "2026-03-17T22:36:02.737985",
-        "expires_at": "2026-03-17T23:26:02.737985",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-17T22:36:18.110404",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034036127254937715"
     }
 ]
