@@ -20,5 +20,16 @@
         "expires_at": "2026-03-26T15:44:02.300665",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "4cfc9685",
+        "tweet_text": "\ud83d\udea8 Four more VAR errors confirmed in the Premier League! Arsenal and Newcastle both denied penalties after the KMI panel's review. Major decisions impacting the title race! \u26bd\ufe0f\ud83d\udd0d #PremierLeague #VARErrors",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/premier-league-referee-var-decisions-36927665",
+        "article_title": "Four more Premier League VAR errors confirmed with Arsenal and Chelsea affected",
+        "created_at": "2026-03-26T14:25:10.843484",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T18:25:10.843484",
+        "type": "manual",
+        "status": "pending"
     }
 ]
