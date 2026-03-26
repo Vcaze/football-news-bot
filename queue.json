@@ -31,5 +31,27 @@
         "expires_at": "2026-03-26T21:56:01.492451",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "a3a283e7",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Mohamed Salah confirms he will leave Liverpool at the end of the season, as former manager Jurgen Klopp comments on the situation. \ud83d\udd34\u26bd #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-klopp-liverpool-news-36929930",
+        "article_title": "Former Liverpool manager Jurgen Klopp breaks silence on Mo Salah exit",
+        "created_at": "2026-03-26T18:58:12.258474",
+        "scheduled_for": "2026-03-26T19:08:12.258474",
+        "expires_at": "2026-03-26T19:58:12.258474",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "31f8e12a",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: BBC and ITV will stream 2026 World Cup matches on YouTube for FREE! \ud83c\uddec\ud83c\udde7 Fans in England can catch all the action live from the USA, Mexico, and Canada! #WorldCup2026 #FootballOnYouTube",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/world-cup-bbc-itv-youtube-36929779",
+        "article_title": "BBC and ITV given green light to show World Cup games on YouTube in landmark deal",
+        "created_at": "2026-03-26T18:58:16.218109",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T22:58:16.218109",
+        "type": "manual",
+        "status": "pending"
     }
 ]
