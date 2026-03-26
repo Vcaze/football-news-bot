@@ -20,5 +20,27 @@
         "expires_at": "2026-03-26T20:06:31.805932",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "f74235b6",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Arsenal captain Kim Little, 35, has signed a one-year contract extension with the club! The Gunners are keeping their leader for another season! \u26bd\ufe0f\ud83d\udcaa #AFC #KimLittle",
+        "source_url": "https://www.bbc.com/sport/football/articles/c0rxqg770rno?at_medium=RSS&at_campaign=rss",
+        "article_title": "Arsenal captain Little signs contract extension",
+        "created_at": "2026-03-26T17:55:58.991318",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T21:55:58.991318",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "220355e7",
+        "tweet_text": "\ud83d\udea8 Celtic's Maria McAneny has set a new world record for the fastest goal in women's football, scoring from the halfway line against Hibernian! \ud83c\udf0d\u26bd\ufe0f #CelticFC #WomenInFootball",
+        "source_url": "https://www.bbc.com/sport/videos/c9qe94ryd9wo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Watch Celtic's McAneny's world record-breaking halfway line goal",
+        "created_at": "2026-03-26T17:56:01.492451",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T21:56:01.492451",
+        "type": "manual",
+        "status": "pending"
     }
 ]
