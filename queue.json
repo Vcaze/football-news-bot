@@ -42,5 +42,16 @@
         "expires_at": "2026-03-26T12:04:44.252304",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "0891d774",
+        "tweet_text": "\ud83d\udea8 Liverpool announce a ticket price hike for the next three seasons despite a disappointing title defense under Arne Slot. Fans brace for changes! \ud83d\udd34\u26bd\ufe0f #LFC #TicketPrices",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-tickets-premier-league-36925581",
+        "article_title": "Liverpool confirm ticket price hike for next THREE seasons despite disastrous title defence",
+        "created_at": "2026-03-26T10:46:25.962807",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T14:46:25.962807",
+        "type": "manual",
+        "status": "pending"
     }
 ]
