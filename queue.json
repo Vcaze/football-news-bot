@@ -64,16 +64,5 @@
         "expires_at": "2026-03-27T00:29:38.498967",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "4b59a2e5",
-        "tweet_text": "\ud83d\udea8 Bayern Munich confirms they will NOT accept a \u00a3173m bid for star player, delivering a major blow to Liverpool's transfer hopes! \u26bd\ufe0f\ud83d\udd34 #TransferNews #BayernMunich",
-        "source_url": "https://talksport.com/football/4142928/bayern-munich-michael-olise-liverpool-transfer-news/",
-        "article_title": "Bayern Munich chief reveals they won&#8217;t accept \u00a3173million bid for star player in major Liverpool transfer blow",
-        "created_at": "2026-03-26T21:25:05.928523",
-        "scheduled_for": "2026-03-26T21:35:05.928523",
-        "expires_at": "2026-03-26T22:25:05.928523",
-        "type": "auto",
-        "status": "pending"
     }
 ]
