@@ -20,5 +20,16 @@
         "expires_at": "2026-03-26T14:46:25.962807",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "fac5fedf",
+        "tweet_text": "\ud83d\udea8 Everton are considering legal action against the Premier League over the lack of sanctions against Chelsea for rule breaches, despite penalties faced by other clubs. \u2696\ufe0f #EFC #ChelseaFC",
+        "source_url": "https://www.theguardian.com/football/2026/mar/25/everton-exploring-legal-options-over-lack-sporting-sanctions-against-chelsea",
+        "article_title": "Everton exploring legal options over lack of sporting sanctions against Chelsea",
+        "created_at": "2026-03-26T11:44:02.300665",
+        "scheduled_for": null,
+        "expires_at": "2026-03-26T15:44:02.300665",
+        "type": "manual",
+        "status": "pending"
     }
 ]
