@@ -42,5 +42,27 @@
         "expires_at": "2026-03-28T01:28:20.384769",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "5b3bf2fc",
+        "tweet_text": "Ben White scored but faced boos from England fans after giving away a penalty, resulting in a 1-1 draw against Uruguay at Wembley. A tough return for the defender! \ud83c\uddec\ud83c\udde7\u26bd #ENGURU #InternationalFootball",
+        "source_url": "https://www.skysports.com/football/england-vs-uruguay/report/550905",
+        "article_title": "White booed after scoring and gives away penalty in draw with Uruguay",
+        "created_at": "2026-03-27T22:24:25.305247",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T02:24:25.305247",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "4dd05761",
+        "tweet_text": "\ud83d\udea8 Everton to offer David Moyes a new contract this summer after his success in transforming the club from relegation candidates to European contenders! Currently sitting 8th, just 3 points off Champions League spots! \u26bd\ufe0f\ud83d\udc99 #EFC #MoyesMagic",
+        "source_url": "https://www.theguardian.com/football/2026/mar/27/everton-to-offer-david-moyes-new-deal-in-recognition-of-success-at-club",
+        "article_title": "Everton to offer David Moyes new deal in recognition of success at club",
+        "created_at": "2026-03-27T22:24:30.705055",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T02:24:30.705055",
+        "type": "manual",
+        "status": "pending"
     }
 ]
