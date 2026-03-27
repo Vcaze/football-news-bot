@@ -31,5 +31,27 @@
         "expires_at": "2026-03-27T10:59:43.819202",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "759bf345",
+        "tweet_text": "\ud83d\udea8 Argentina boss hints that Lionel Messi may NOT participate in the 2026 World Cup as the team awaits his decision on whether he'll defend their title. \ud83c\udde6\ud83c\uddf7\u26bd #Messi2026 #WorldCup2026",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-argentina-world-cup-36930933",
+        "article_title": "Argentina boss admits Lionel Messi might NOT play at 2026 World Cup",
+        "created_at": "2026-03-27T08:01:38.519679",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T12:01:38.519679",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3db5c850",
+        "tweet_text": "\ud83d\udea8 Thomas Tuchel issues a warning to Cole Palmer as he battles for a place in Chelsea's squad and the England team ahead of the World Cup! \ud83c\udfc6 #ChelseaFC #WorldCup2024",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/world-cup-tuchel-palmer-chelsea-36930589",
+        "article_title": "Cole Palmer sent clear World Cup warning by Thomas Tuchel amid Chelsea struggles",
+        "created_at": "2026-03-27T08:01:43.306048",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T12:01:43.306048",
+        "type": "manual",
+        "status": "pending"
     }
 ]
