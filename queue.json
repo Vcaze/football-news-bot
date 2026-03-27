@@ -20,5 +20,27 @@
         "expires_at": "2026-03-27T20:45:09.786379",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "7afbd29d",
+        "tweet_text": "\ud83d\udea8 Everton set to offer David Moyes a new contract this summer after his successful transformation of the team from relegation candidates to 8th place contenders for Europe! \u26bd\ufe0f #EFC #MoyesMagic",
+        "source_url": "https://www.theguardian.com/football/2026/mar/27/everton-to-offer-david-moyes-new-deal-in-recognition-of-success-at-club",
+        "article_title": "Everton to offer David Moyes new deal in recognition of success at club",
+        "created_at": "2026-03-27T17:43:40.495320",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T21:43:40.495320",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2d160629",
+        "tweet_text": "\ud83d\udea8 Wrexham's Bailey Cadamarteri scores the winner in a 1-0 victory over New Caledonia, securing Jamaica's spot in the World Cup interconfederational playoff final against DR Congo! \ud83c\uddef\ud83c\uddf2\u26bd\ufe0f #WorldCup2026 #JamaicaFootball",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/761388",
+        "article_title": "Wrexham's Cadamarteri gives Jamaica WC chance",
+        "created_at": "2026-03-27T17:43:45.597918",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T21:43:45.597918",
+        "type": "manual",
+        "status": "pending"
     }
 ]
