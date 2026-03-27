@@ -31,5 +31,27 @@
         "expires_at": "2026-03-27T21:43:45.597918",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "4e87fc01",
+        "tweet_text": "\ud83d\udea8 Klopp hails Salah as an \"all-time great\" at Liverpool, expressing confidence he could play for another 6-7 years despite announcing his departure at season's end. \ud83c\udf1f #LFC #Salah",
+        "source_url": "https://www.bbc.com/sport/football/videos/cz67pzzv0j1o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Salah set completely new standards - Klopp",
+        "created_at": "2026-03-27T19:37:06.799986",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T23:37:06.799986",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e804126c",
+        "tweet_text": "\ud83d\udea8 Jurgen Klopp discusses Mo Salah's impending departure from Liverpool, sharing insights on replacing the star. Salah's time at Anfield is set to conclude at the end of the season! \u26bd\ufe0f\ud83d\udd34 #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-jurgen-klopp-mo-salah-36935562",
+        "article_title": "Jurgen Klopp reveals Mo Salah text exchange and offers Liverpool advice on replacing him",
+        "created_at": "2026-03-27T19:37:10.580908",
+        "scheduled_for": null,
+        "expires_at": "2026-03-27T23:37:10.580908",
+        "type": "manual",
+        "status": "pending"
     }
 ]
