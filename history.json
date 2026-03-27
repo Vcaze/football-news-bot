@@ -1,5 +1,18 @@
 [
     {
+        "id": "00b8dd2b",
+        "tweet_text": "\ud83d\udea8 Uruguay's player stretchered off during the England clash as match was stopped due to a worrying injury. Thoughts are with him! \u26bd\ufe0f\ud83d\ude4f #FootballNews #InjuryUpdate",
+        "source_url": "https://talksport.com/football/4146275/england-uruguay-joaquin-piquerez-injury-stretcher/",
+        "article_title": "Uruguay player stretchered off with worrying injury as England clash stopped",
+        "created_at": "2026-03-27T20:30:34.179390",
+        "scheduled_for": "2026-03-27T20:40:34.179390",
+        "expires_at": "2026-03-27T21:30:34.179390",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-27T20:40:37.897796",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2037630896539357375"
+    },
+    {
         "id": "033167c0",
         "tweet_text": "\ud83d\udea8 Mohamed Salah is set to leave Liverpool at the end of the season, turning down \u00a320m to exit despite having a year left on his contract! \u26bd\ufe0f #LFC #Salah",
         "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-transfer-saudi-36935447",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-18T22:36:28.346648",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034398558053367955"
-    },
-    {
-        "id": "07cde4fc",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Newcastle's Champions League hopes were shattered as they fell 7-2 to Barcelona, who progress to the quarter-finals with an 8-3 aggregate! \ud83d\ude31\u26bd\ufe0f #UCL #Newcastle",
-        "source_url": "https://www.skysports.com/football/barcelona-vs-newcastle-united/report/554850",
-        "article_title": "SEVEN! Newcastle mauled by Barcelona with CL dreams demolished",
-        "created_at": "2026-03-18T20:29:12.868433",
-        "scheduled_for": "2026-03-18T20:39:12.868433",
-        "expires_at": "2026-03-18T21:29:12.868433",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-18T20:39:26.250147",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034369105139245415"
     }
 ]
