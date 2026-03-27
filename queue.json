@@ -1,27 +1,5 @@
 [
     {
-        "id": "6981809b",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Everton set to offer David Moyes a new contract this summer after his stunning transformation of the club from relegation zone to 8th place, just 3 points off Champions League! \u26bd\ufe0f\ud83d\udc99 #EFC #MoyesMagic",
-        "source_url": "https://www.theguardian.com/football/2026/mar/27/everton-to-offer-david-moyes-new-deal-in-recognition-of-success-at-club",
-        "article_title": "Everton to offer David Moyes new deal in recognition of success at club",
-        "created_at": "2026-03-27T12:45:33.081196",
-        "scheduled_for": null,
-        "expires_at": "2026-03-27T16:45:33.081196",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "62ec5148",
-        "tweet_text": "\ud83d\udea8 Casemiro confirms he will leave Manchester United at the end of the season, stating no plans for a dramatic U-turn after contract clause agreement. \ud83d\udd34\u26aa #MUFC #Casemiro",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-casemiro-36932245",
-        "article_title": "Casemiro makes decision on staying at Man Utd after contract clause agreement",
-        "created_at": "2026-03-27T12:45:38.290159",
-        "scheduled_for": null,
-        "expires_at": "2026-03-27T16:45:38.290159",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "6893d607",
         "tweet_text": "\ud83d\udea8 Good news! Republic of Ireland's Sammie Szmodics is out of the hospital and 'on the mend' after being knocked unconscious in a collision during Thursday's World Cup play-off against the Czech Republic. \ud83d\ude4f\u26bd #GetWellSoon #FootballRecovery",
         "source_url": "https://www.skysports.com/football/news/12040/13525052/sammie-szmodics-republic-of-ireland-forward-released-from-hospital-after-collision-in-world-cup-play-off",
@@ -30,17 +8,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-27T18:07:28.480959",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "c7a87cd5",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roy Hodgson returns to management at 78, replacing Gerhard Struber at Bristol City for the rest of the season! Can he steer the club up from 16th in the Championship? \u26bd\ufe0f\ud83d\udd25 #BristolCity #HodgsonReturns",
-        "source_url": "https://www.theguardian.com/football/2026/mar/27/roy-hodgson-return-management-bristol-city",
-        "article_title": "Roy Hodgson makes shock return to management at 78 with Bristol City",
-        "created_at": "2026-03-27T16:45:05.182234",
-        "scheduled_for": "2026-03-27T16:55:05.182234",
-        "expires_at": "2026-03-27T17:45:05.182234",
-        "type": "auto",
         "status": "pending"
     },
     {

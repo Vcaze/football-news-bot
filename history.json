@@ -1,5 +1,18 @@
 [
     {
+        "id": "c7a87cd5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roy Hodgson returns to management at 78, replacing Gerhard Struber at Bristol City for the rest of the season! Can he steer the club up from 16th in the Championship? \u26bd\ufe0f\ud83d\udd25 #BristolCity #HodgsonReturns",
+        "source_url": "https://www.theguardian.com/football/2026/mar/27/roy-hodgson-return-management-bristol-city",
+        "article_title": "Roy Hodgson makes shock return to management at 78 with Bristol City",
+        "created_at": "2026-03-27T16:45:05.182234",
+        "scheduled_for": "2026-03-27T16:55:05.182234",
+        "expires_at": "2026-03-27T17:45:05.182234",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-27T16:55:14.320108",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2037574174529466812"
+    },
+    {
         "id": "f54936ff",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Roy Hodgson, 78, takes over as caretaker manager at Bristol City after Gerhard Struber's sacking. Can the veteran coach turn things around? \u26bd\ufe0f\ud83d\udd34 #BristolCity #Hodgson",
         "source_url": "https://www.bbc.com/sport/football/articles/cy51k1z677ro?at_medium=RSS&at_campaign=rss",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-18T16:13:41.547510",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034302228261933331"
-    },
-    {
-        "id": "bfd50909",
-        "tweet_text": "\ud83d\udea8 Dagenham & Redbridge sack their manager just 15 days after KSI's takeover! Ex-Premier League star Andy Carroll steps in as the new boss. \u26bd\ufe0f #DagenhamRedbridge #KSI",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/ksi-dagenham-redbridge-andy-carroll-36887179",
-        "article_title": "Dagenham SACK boss just weeks after KSI buys club with ex-Premier League star now in charge",
-        "created_at": "2026-03-18T12:54:04.579622",
-        "scheduled_for": "2026-03-18T13:04:04.579622",
-        "expires_at": "2026-03-18T13:54:04.579622",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-18T13:04:15.667589",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034254556352110759"
     }
 ]
