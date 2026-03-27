@@ -42,5 +42,16 @@
         "expires_at": "2026-03-27T21:43:45.597918",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "033167c0",
+        "tweet_text": "\ud83d\udea8 Mohamed Salah is set to leave Liverpool at the end of the season, turning down \u00a320m to exit despite having a year left on his contract! \u26bd\ufe0f #LFC #Salah",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-transfer-saudi-36935447",
+        "article_title": "Mo Salah 'leaves \u00a320million on the table' after deciding to quit Liverpool",
+        "created_at": "2026-03-27T18:46:12.209932",
+        "scheduled_for": "2026-03-27T18:56:12.209932",
+        "expires_at": "2026-03-27T19:46:12.209932",
+        "type": "auto",
+        "status": "pending"
     }
 ]
