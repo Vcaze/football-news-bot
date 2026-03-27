@@ -1,16 +1,5 @@
 [
     {
-        "id": "6893d607",
-        "tweet_text": "\ud83d\udea8 Good news! Republic of Ireland's Sammie Szmodics is out of the hospital and 'on the mend' after being knocked unconscious in a collision during Thursday's World Cup play-off against the Czech Republic. \ud83d\ude4f\u26bd #GetWellSoon #FootballRecovery",
-        "source_url": "https://www.skysports.com/football/news/12040/13525052/sammie-szmodics-republic-of-ireland-forward-released-from-hospital-after-collision-in-world-cup-play-off",
-        "article_title": "Szmodics out of hospital and 'on the mend' after collision",
-        "created_at": "2026-03-27T14:07:28.480959",
-        "scheduled_for": null,
-        "expires_at": "2026-03-27T18:07:28.480959",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "e60e6153",
         "tweet_text": "Tottenham's woes deepen as their top managerial target turns them down amid a turbulent season. The club faces uncertainty with potential changes in both the boardroom and dugout! \u26bd\ufe0f\ud83d\ude31 #THFC #ManagerSearch",
         "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-tudor-dyche-freedman-relegation-36935159",
@@ -41,17 +30,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-27T21:43:45.597918",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "033167c0",
-        "tweet_text": "\ud83d\udea8 Mohamed Salah is set to leave Liverpool at the end of the season, turning down \u00a320m to exit despite having a year left on his contract! \u26bd\ufe0f #LFC #Salah",
-        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-transfer-saudi-36935447",
-        "article_title": "Mo Salah 'leaves \u00a320million on the table' after deciding to quit Liverpool",
-        "created_at": "2026-03-27T18:46:12.209932",
-        "scheduled_for": "2026-03-27T18:56:12.209932",
-        "expires_at": "2026-03-27T19:46:12.209932",
-        "type": "auto",
         "status": "pending"
     }
 ]
