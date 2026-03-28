@@ -31,5 +31,38 @@
         "expires_at": "2026-03-28T19:24:40.332177",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "99ffbb6b",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Manchester City defeats Manchester United 2-0, with Vivianne Miedema netting both goals, bringing City closer to clinching the Women's Super League title! \ud83c\udf89 #WSL #ManchesterDerby",
+        "source_url": "https://www.bbc.com/sport/football/videos/c6246ezkqleo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Man City edge closer to WSL title after beating Man Utd",
+        "created_at": "2026-03-28T16:25:16.005395",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T20:25:16.005395",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "fd272c3d",
+        "tweet_text": "\ud83d\udea8 Mohamed Salah confirms his exit from Liverpool this summer and shares a message on social media! Big changes ahead for the Reds! \ud83d\udd34\u2708\ufe0f #LFC #SalahDeparture",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-shares-pointed-message-36937880",
+        "article_title": "Mohamed Salah shares pointed message after Liverpool exit plan confirmed",
+        "created_at": "2026-03-28T16:25:21.306480",
+        "scheduled_for": "2026-03-28T16:35:21.306480",
+        "expires_at": "2026-03-28T17:25:21.306480",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "2d4d4d73",
+        "tweet_text": "\ud83d\udea8 Huge blow for Barcelona as forward Raphinha is ruled out for 5 weeks due to a hamstring injury suffered during international duty! \ud83d\udc94 #FCBarcelona #Raphinha",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
+        "article_title": "Raphinha ruled out 5 weeks in blow to Barcelona",
+        "created_at": "2026-03-28T16:25:26.890423",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T20:25:26.890423",
+        "type": "manual",
+        "status": "pending"
     }
 ]
