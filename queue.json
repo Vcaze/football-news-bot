@@ -75,5 +75,16 @@
         "expires_at": "2026-03-28T22:31:57.091989",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "1bfa987d",
+        "tweet_text": "\ud83d\udea8 Noni Madueke leaves Wembley with a knee brace after being subbed off in the first half of England's 1-1 draw against Uruguay, raising concerns for Arsenal. \ud83e\udd15\u26bd\ufe0f #InjuryUpdate #ThreeLions",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/noni-madueke-injury-england-arsenal-36937510",
+        "article_title": "Noni Madueke injury latest as England boss Thomas Tuchel issues worrying update",
+        "created_at": "2026-03-28T19:24:52.445324",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T23:24:52.445324",
+        "type": "manual",
+        "status": "pending"
     }
 ]
