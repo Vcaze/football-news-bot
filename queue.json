@@ -9,5 +9,16 @@
         "expires_at": "2026-03-28T10:50:18.872455",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "3153b861",
+        "tweet_text": "\ud83d\udea8 Florian Wirtz shines for Germany with a match-winning performance, showcasing his quality and catching Liverpool's attention! \ud83c\udde9\ud83c\uddea\u26bd\ufe0f #Wirtz #Germany",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-florian-wirtz-germany-switzerland-36936799",
+        "article_title": "Florian Wirtz changes his tune as German media notice stark difference on international duty",
+        "created_at": "2026-03-28T10:24:57.178302",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T14:24:57.178302",
+        "type": "manual",
+        "status": "pending"
     }
 ]
