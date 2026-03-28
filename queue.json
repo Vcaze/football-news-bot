@@ -9,5 +9,27 @@
         "expires_at": "2026-03-28T14:24:57.178302",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "c9f57838",
+        "tweet_text": "\ud83d\udea8 Man City stars eye exits as agent initiates transfer talks with Barcelona just days after Rodri's shocking news! \ud83d\udd04 #Transfers #MCFC",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-barcelona-bernardo-silva-36937388",
+        "article_title": "Man City star's agent launches Barcelona transfer talks days after Rodri bombshell",
+        "created_at": "2026-03-28T13:45:01.291238",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T17:45:01.291238",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "29e68ed0",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jurgen Klopp has stepped in to Liverpool's plans for Mohamed Salah's replacement, urging a \u00a387m transfer for a specific player as Salah is set to leave at season's end. \ud83d\udd34\u26bd\ufe0f #LFC #TransferNews",
+        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/jurgen-klopp-salah-liverpool-transfer-36937189",
+        "article_title": "Jurgen Klopp intervenes in Liverpool's Mohamed Salah replacement plan for \u00a387m transfer",
+        "created_at": "2026-03-28T13:45:03.275775",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T17:45:03.275775",
+        "type": "manual",
+        "status": "pending"
     }
 ]
