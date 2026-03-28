@@ -75,5 +75,16 @@
         "expires_at": "2026-03-29T01:23:38.989501",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "24a159c7",
+        "tweet_text": "\ud83d\udea8 Arsenal's Alessia Russo shines with a stunning hat-trick in just 22 minutes, leading the charge for a Champions League spot! \ud83d\udd25 The Gunners are on the hunt for Europe! #WSL #AFC",
+        "source_url": "https://www.bbc.com/sport/football/articles/c1d94qq501lo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Russo 'stepping up' as Arsenal lead hunt for European places",
+        "created_at": "2026-03-28T22:21:21.353178",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T02:21:21.353178",
+        "type": "manual",
+        "status": "pending"
     }
 ]
