@@ -53,5 +53,27 @@
         "expires_at": "2026-03-28T20:25:26.890423",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "10b354df",
+        "tweet_text": "\ud83d\udea8 Manchester City crush Manchester United 3-0 at Old Trafford, extending their lead in the Women's Super League and edging closer to the title! \ud83c\udfc6\u26bd\ufe0f #WSL #MCFC",
+        "source_url": "https://www.espn.com/soccer/report/_/gameId/754404",
+        "article_title": "Man City dominate Man United to near WSL title",
+        "created_at": "2026-03-28T17:23:02.261684",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T21:23:02.261684",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "671d2201",
+        "tweet_text": "\ud83d\udea8 Paul Pogba nets his first goal in over four years during a friendly match against a Premier League side! \u26bd\ufe0f #PogbaReturns #FriendlyGoals",
+        "source_url": "https://talksport.com/football/4146698/paul-pogba-scores-goal-monaco-man-united-brentford/",
+        "article_title": "Paul Pogba scores first goal in more than four years in friendly against Premier League side",
+        "created_at": "2026-03-28T17:23:05.243986",
+        "scheduled_for": null,
+        "expires_at": "2026-03-28T21:23:05.243986",
+        "type": "manual",
+        "status": "pending"
     }
 ]
