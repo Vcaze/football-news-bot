@@ -31,5 +31,38 @@
         "expires_at": "2026-03-29T16:38:02.046645",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "69f96352",
+        "tweet_text": "\ud83d\udea8 Chelsea triumph in a thrilling 4-3 clash against Aston Villa, thanks to Sjoeke Nusken's late winner! The victory propels them back to second place in the WSL! \u26bd\ufe0f\ud83d\udd25 #CFC #WSL",
+        "source_url": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/report/545713",
+        "article_title": "Chelsea edge seven-goal thriller against Villa to reclaim second place",
+        "created_at": "2026-03-29T13:47:53.695204",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T17:47:53.695204",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "8b9dd32e",
+        "tweet_text": "\ud83d\udea8 Arsenal's Piero Hincapie becomes the NINTH player to withdraw from international duty, adding pressure on manager Mikel Arteta as the crucial season approaches! \u26bd\ufe0f\ud83d\udee1\ufe0f #AFC #InternationalDuty",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-piero-hincapie-36939913",
+        "article_title": "Piero Hincapie NINTH Arsenal star to withdraw from international duty as statement released",
+        "created_at": "2026-03-29T13:48:04.341173",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T17:48:04.341173",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "0e82c947",
+        "tweet_text": "\ud83d\udea8 Phil Foden faces a crucial battle to secure his World Cup spot as Cole Palmer poses a significant threat for a place in Thomas Tuchel's 26-man England squad! \ud83c\udfc6 #FIFAWorldCup #ThreeLions",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/phil-foden-last-chance-saloon-36939947",
+        "article_title": "Phil Foden in last-chance saloon to seal World Cup spot as Cole Palmer threat looms large",
+        "created_at": "2026-03-29T13:48:06.485189",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T17:48:06.485189",
+        "type": "manual",
+        "status": "pending"
     }
 ]
