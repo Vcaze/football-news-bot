@@ -1,16 +1,5 @@
 [
     {
-        "id": "ca81f85f",
-        "tweet_text": "\ud83d\udea8 Michael Carrick is in pole position to become the full-time manager of Manchester United after winning 7 out of 10 matches as interim! Legends are weighing in, and David Beckham has spoken out! \u26bd\ufe0f\ud83d\udd25 #MUFC #CarrickManager",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-beckham-neville-36940077",
-        "article_title": "Man Utd legends' verdicts on Michael Carrick getting the job as David Beckham speaks out",
-        "created_at": "2026-03-29T14:28:15.078302",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T18:28:15.078302",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "1850ca2f",
         "tweet_text": "\ud83d\udea8 Tottenham set to appoint a new manager before their next Premier League game against Sunderland after Igor Tudor's exit. Two frontrunners are already in the mix! \u26bd\ufe0f #THFC #ManagerSearch",
         "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-de-zerbi-adi-hutter-36940415",
@@ -41,17 +30,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-29T20:27:11.915742",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "c2cee919",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham have parted ways with Igor Tudor after just 44 days and 7 games, failing to win a league match. Spurs sit precariously above the relegation zone! \u26bd\ufe0f #THFC #PremierLeague",
-        "source_url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
-        "article_title": "Igor Tudor leaves Tottenham after 44 days with club mired in relegation trouble",
-        "created_at": "2026-03-29T17:23:51.645299",
-        "scheduled_for": "2026-03-29T17:33:51.645299",
-        "expires_at": "2026-03-29T18:23:51.645299",
-        "type": "auto",
         "status": "pending"
     },
     {
