@@ -1,16 +1,5 @@
 [
     {
-        "id": "1850ca2f",
-        "tweet_text": "\ud83d\udea8 Tottenham set to appoint a new manager before their next Premier League game against Sunderland after Igor Tudor's exit. Two frontrunners are already in the mix! \u26bd\ufe0f #THFC #ManagerSearch",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-de-zerbi-adi-hutter-36940415",
-        "article_title": "Tottenham to act quickly in manager search as two frontrunners emerge after Igor Tudor exit",
-        "created_at": "2026-03-29T15:24:32.029467",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T19:24:32.029467",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "889a0238",
         "tweet_text": "\ud83d\udea8 Arsenal faces a potential title race crisis as 12 players are now injury doubts following the international break. Mikel Arteta's squad depth will be heavily tested! \ud83d\udd34\u26aa #AFC #InjuryCrisis",
         "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-latest-zubimendi-hincapie-36940538",
@@ -52,17 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-29T21:23:58.473455",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "daec2e4f",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur have parted ways with Igor Tudor after just 7 games as they fight to avoid relegation from the Premier League. \ud83d\udd25 #THFC #PremierLeague",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
-        "article_title": "Tudor leaves Tottenham after just seven games",
-        "created_at": "2026-03-29T18:31:43.987658",
-        "scheduled_for": "2026-03-29T18:41:43.987658",
-        "expires_at": "2026-03-29T19:31:43.987658",
-        "type": "auto",
         "status": "pending"
     },
     {
