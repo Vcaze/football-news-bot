@@ -20,5 +20,16 @@
         "expires_at": "2026-03-29T15:22:53.278587",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ededad8f",
+        "tweet_text": "\ud83d\udea8 Romania's 80-year-old boss Mircea Lucescu hospitalized after collapsing during a team meeting following World Cup heartbreak. Wishing him a swift recovery! \ud83d\udc94\u26bd\ufe0f #FootballNews #HealthUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/romania-world-cup-mircea-lucescu-36939753",
+        "article_title": "Romania boss, 80, in hospital after collapsing in training following World Cup heartbreak",
+        "created_at": "2026-03-29T12:38:02.046645",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T16:38:02.046645",
+        "type": "manual",
+        "status": "pending"
     }
 ]
