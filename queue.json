@@ -64,5 +64,38 @@
         "expires_at": "2026-03-29T19:31:43.987658",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "7d3091b1",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are targeting Roberto De Zerbi as their new permanent head coach following the departure of interim boss Igor Tudor! \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Spurs want De Zerbi to be new permanent boss",
+        "created_at": "2026-03-29T19:27:09.175593",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T23:27:09.175593",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ea635343",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Igor Tudor has left Tottenham after just 44 days and 7 games as interim head coach, failing to secure a league win. Spurs sit just above the relegation zone, seeking a new manager ASAP! \u26bd\ufe0f\ud83d\udd25 #THFC #PremierLeague",
+        "source_url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
+        "article_title": "Igor Tudor leaves Tottenham after 44 days with club mired in relegation trouble",
+        "created_at": "2026-03-29T19:27:12.547859",
+        "scheduled_for": "2026-03-29T19:37:12.547859",
+        "expires_at": "2026-03-29T20:27:12.547859",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "bf8a626e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jermain Defoe, ex-England and Spurs star, has taken his first managerial role with non-league side Woking! Exciting times ahead for the club! \u26bd\ufe0f\ud83d\udd25 #Defoe #WokingFC",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-jermain-defoe-woking-manager-36940939",
+        "article_title": "BREAKING: Ex-England and Spurs star Jermain Defoe lands first managerial job",
+        "created_at": "2026-03-29T19:27:16.784199",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T23:27:16.784199",
+        "type": "manual",
+        "status": "pending"
     }
 ]
