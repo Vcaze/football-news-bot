@@ -1,5 +1,18 @@
 [
     {
+        "id": "0303c24c",
+        "tweet_text": "\ud83d\udea8 Tragedy at the Estadio Banorte as a football fan dies after a horrific fall from a box seat just before Mexico's World Cup warm-up against Portugal. Our thoughts are with the family. \ud83d\udc94\u26bd #WorldCup2026 #FootballTragedy",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/fan-dies-world-cup-stadium-36939139",
+        "article_title": "Football fan dies at World Cup 2026 venue after horrific fall from box seat",
+        "created_at": "2026-03-29T08:32:48.840253",
+        "scheduled_for": "2026-03-29T08:42:48.840253",
+        "expires_at": "2026-03-29T09:32:48.840253",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-29T08:42:52.079657",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2038175041251102993"
+    },
+    {
         "id": "fd272c3d",
         "tweet_text": "\ud83d\udea8 Mohamed Salah confirms his exit from Liverpool this summer and shares a message on social media! Big changes ahead for the Reds! \ud83d\udd34\u2708\ufe0f #LFC #SalahDeparture",
         "source_url": "https://www.mirror.co.uk/sport/football/news/mohamed-salah-shares-pointed-message-36937880",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-19T11:40:32.377969",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034595875008233876"
-    },
-    {
-        "id": "5d26f5e4",
-        "tweet_text": "\ud83d\udea8 Ex-Tottenham star Lucas Moura rushed to hospital after struggling to breathe following a brutal late challenge during S\u00e3o Paulo's match against Atl\u00e9tico Mineiro. Wishing him a speedy recovery! \ud83d\ude4f #GetWellSoon #SerieA",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-lucas-moura-injury-update-36891370",
-        "article_title": "Ex-Tottenham star rushed to hospital after struggling to breathe following horror injury",
-        "created_at": "2026-03-19T09:36:21.083248",
-        "scheduled_for": "2026-03-19T09:46:21.083248",
-        "expires_at": "2026-03-19T10:36:21.083248",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-19T09:46:25.499534",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034567157078483277"
     }
 ]
