@@ -1,27 +1,5 @@
 [
     {
-        "id": "7d3091b1",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are targeting Roberto De Zerbi as their new permanent head coach following the departure of interim boss Igor Tudor! \u26bd\ufe0f #THFC #DeZerbi",
-        "source_url": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
-        "article_title": "Spurs want De Zerbi to be new permanent boss",
-        "created_at": "2026-03-29T19:27:09.175593",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T23:27:09.175593",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "bf8a626e",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jermain Defoe, ex-England and Spurs star, has taken his first managerial role with non-league side Woking! Exciting times ahead for the club! \u26bd\ufe0f\ud83d\udd25 #Defoe #WokingFC",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-jermain-defoe-woking-manager-36940939",
-        "article_title": "BREAKING: Ex-England and Spurs star Jermain Defoe lands first managerial job",
-        "created_at": "2026-03-29T19:27:16.784199",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T23:27:16.784199",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "a86f906a",
         "tweet_text": "\ud83d\udea8 Adi Hutter addresses the media regarding the Tottenham job following Igor Tudor's departure. Spurs are actively seeking a new manager during the international break! \u26bd\ufe0f\ud83d\udcdd #Tottenham #ManagerSearch",
         "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-next-manager-hutter-dezerbi-36940988",
@@ -41,39 +19,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-30T01:25:51.113627",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "d33b506c",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur part ways with Igor Tudor after just 7 games as they fight to avoid relegation in the Premier League! \u26bd\ufe0f #THFC #PremierLeague",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
-        "article_title": "Tudor leaves Tottenham after just seven games",
-        "created_at": "2026-03-29T22:22:52.835108",
-        "scheduled_for": "2026-03-29T22:32:52.835108",
-        "expires_at": "2026-03-29T23:22:52.835108",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "7df2f248",
-        "tweet_text": "\ud83d\udea8 WSL star Missy Bo Kearns shares heartbreaking news, announcing she has lost her baby in an emotional statement. Our thoughts are with her during this difficult time. \ud83d\udc94 #WSL #FootballCommunity",
-        "source_url": "https://talksport.com/football/4148810/missy-bo-kearns-miscarriage-announcement-aston-villa/",
-        "article_title": "WSL star Missy Bo Kearns announces she has lost baby in emotional statement",
-        "created_at": "2026-03-29T22:22:55.710923",
-        "scheduled_for": "2026-03-29T22:32:55.710923",
-        "expires_at": "2026-03-29T23:22:55.710923",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "60ebb20e",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jermain Defoe has been appointed as the new manager of non-league club BFS! Exciting times ahead for the former striker as he steps into management! \u26bd\ufe0f\ud83d\udd25 #Defoe #FootballManagement",
-        "source_url": "https://talksport.com/football/4148742/jermain-defoe-appointed-woking-manager/",
-        "article_title": "Jermain Defoe appointed manager of non-league club out of nowhere",
-        "created_at": "2026-03-29T22:22:58.081008",
-        "scheduled_for": "2026-03-29T22:32:58.081008",
-        "expires_at": "2026-03-29T23:22:58.081008",
-        "type": "auto",
         "status": "pending"
     }
 ]
