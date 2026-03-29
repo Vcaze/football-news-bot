@@ -75,16 +75,5 @@
         "expires_at": "2026-03-29T18:28:15.078302",
         "type": "manual",
         "status": "pending"
-    },
-    {
-        "id": "821857b8",
-        "tweet_text": "\ud83d\udea8 Tragic news as a football fan has died during the reopening of a 2026 World Cup stadium. Our thoughts are with the family and friends affected by this heartbreaking event. \ud83d\udd4a\ufe0f #FootballCommunity #WorldCup2026",
-        "source_url": "https://talksport.com/football/4148309/fan-dies-estadio-azteca-mexico-portugal-2026-world-cup/",
-        "article_title": "Football fan tragically dies at reopening of 2026 World Cup stadium",
-        "created_at": "2026-03-29T14:28:21.738576",
-        "scheduled_for": "2026-03-29T14:38:21.738576",
-        "expires_at": "2026-03-29T15:28:21.738576",
-        "type": "auto",
-        "status": "pending"
     }
 ]

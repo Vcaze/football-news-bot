@@ -1,5 +1,18 @@
 [
     {
+        "id": "821857b8",
+        "tweet_text": "\ud83d\udea8 Tragic news as a football fan has died during the reopening of a 2026 World Cup stadium. Our thoughts are with the family and friends affected by this heartbreaking event. \ud83d\udd4a\ufe0f #FootballCommunity #WorldCup2026",
+        "source_url": "https://talksport.com/football/4148309/fan-dies-estadio-azteca-mexico-portugal-2026-world-cup/",
+        "article_title": "Football fan tragically dies at reopening of 2026 World Cup stadium",
+        "created_at": "2026-03-29T14:28:21.738576",
+        "scheduled_for": "2026-03-29T14:38:21.738576",
+        "expires_at": "2026-03-29T15:28:21.738576",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-29T14:38:24.052935",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2038264513665933502"
+    },
+    {
         "id": "0303c24c",
         "tweet_text": "\ud83d\udea8 Tragedy at the Estadio Banorte as a football fan dies after a horrific fall from a box seat just before Mexico's World Cup warm-up against Portugal. Our thoughts are with the family. \ud83d\udc94\u26bd #WorldCup2026 #FootballTragedy",
         "source_url": "https://www.mirror.co.uk/sport/football/news/fan-dies-world-cup-stadium-36939139",
@@ -635,18 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-20T10:41:17.187522",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2034943351309447315"
-    },
-    {
-        "id": "9a997b5c",
-        "tweet_text": "\ud83d\udea8 Galatasaray's Noa Lang updates fans from his hospital bed after suffering a serious injury during the Champions League clash against Liverpool. Wishing him a speedy recovery! \ud83c\udfe5\u26bd #NoaLang #UCL",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/noa-lang-horror-injury-liverpool-36892130",
-        "article_title": "Noa Lang posts update from hospital bed after horror injury in Liverpool clash",
-        "created_at": "2026-03-19T11:30:27.450935",
-        "scheduled_for": "2026-03-19T11:40:27.450935",
-        "expires_at": "2026-03-19T12:30:27.450935",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-19T11:40:32.377969",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034595875008233876"
     }
 ]
