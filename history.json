@@ -1,5 +1,31 @@
 [
     {
+        "id": "b6e41afb",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Igor Tudor has left Tottenham Hotspur after just 44 days in charge! The club is now seeking a new manager. \u26bd\ufe0f\ud83d\udda4 #THFC #ManagerNews",
+        "source_url": "https://www.bbc.com/sport/football/articles/cz0g57p8512o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Tudor leaves Spurs after just 44 days in charge",
+        "created_at": "2026-03-29T15:24:24.184090",
+        "scheduled_for": "2026-03-29T15:34:24.184090",
+        "expires_at": "2026-03-29T16:24:24.184090",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-29T15:34:37.054246",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2038278661258780799"
+    },
+    {
+        "id": "c6a9c5f1",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Igor Tudor has left his position as head coach of Tottenham Hotspur after just seven games in charge! \u26bd\ufe0f #THFC #TudorOut",
+        "source_url": "https://www.skysports.com/football/news/12040/13515594/igor-tudor-croatian-leaves-tottenham-hotspur-by-mutual-consent-after-just-44-days-and-seven-games-in-charge",
+        "article_title": "Tudor leaves Tottenham after seven games",
+        "created_at": "2026-03-29T15:24:20.265879",
+        "scheduled_for": "2026-03-29T15:34:20.265879",
+        "expires_at": "2026-03-29T16:24:20.265879",
+        "type": "auto",
+        "status": "posted",
+        "posted_at": "2026-03-29T15:34:36.797383",
+        "posted_tweet_url": "https://twitter.com/anyuser/status/2038278660231147624"
+    },
+    {
         "id": "821857b8",
         "tweet_text": "\ud83d\udea8 Tragic news as a football fan has died during the reopening of a 2026 World Cup stadium. Our thoughts are with the family and friends affected by this heartbreaking event. \ud83d\udd4a\ufe0f #FootballCommunity #WorldCup2026",
         "source_url": "https://talksport.com/football/4148309/fan-dies-estadio-azteca-mexico-portugal-2026-world-cup/",
@@ -622,31 +648,5 @@
         "status": "posted",
         "posted_at": "2026-03-20T14:51:07.914800",
         "posted_tweet_url": "https://twitter.com/anyuser/status/2035006227030167759"
-    },
-    {
-        "id": "59eb53f4",
-        "tweet_text": "\ud83d\udea8 Liverpool FC condemns 'vile and abhorrent' racist abuse aimed at Ibrahima Konate following their Champions League victory over Galatasaray. #SayNoToRacism #LFC",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-liverpool-konate-racially-abused-36899524",
-        "article_title": "Liverpool 'disgusted' at 'vile and abhorrent' racist abuse aimed at Ibrahima Konate",
-        "created_at": "2026-03-20T13:57:03.152545",
-        "scheduled_for": "2026-03-20T14:07:03.152545",
-        "expires_at": "2026-03-20T14:57:03.152545",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-20T14:07:08.521482",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034995156341203122"
-    },
-    {
-        "id": "3e5d0719",
-        "tweet_text": "\ud83d\udea8 BREAKING: Arne Slot confirms Mohamed Salah is an injury concern for Liverpool following their Champions League win over Galatasaray. Stay tuned for further updates! \u26bd\ufe0f\ud83d\udd34 #LFC #SalahInjury",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-mohamed-salah-injury-update-36897451",
-        "article_title": "BREAKING: Mohamed Salah injury update as Arne Slot reveals latest on Liverpool star",
-        "created_at": "2026-03-20T10:31:11.719874",
-        "scheduled_for": "2026-03-20T10:41:11.719874",
-        "expires_at": "2026-03-20T11:31:11.719874",
-        "type": "auto",
-        "status": "posted",
-        "posted_at": "2026-03-20T10:41:17.187522",
-        "posted_tweet_url": "https://twitter.com/anyuser/status/2034943351309447315"
     }
 ]
