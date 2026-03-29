@@ -1,27 +1,5 @@
 [
     {
-        "id": "a116f769",
-        "tweet_text": "\ud83d\udea8 Arsenal face a major injury scare as Martin Zubimendi becomes the 11th player to withdraw from international duty! Their Premier League title hopes could be at risk. \u26bd\ufe0f\ud83d\udd34 #Arsenal #InjuryUpdate",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-injuries-mikel-arteta-zubimendi-36940629",
-        "article_title": "Arsenal injury scare as Martin Zubimendi becomes ELEVENTH star to pull out of international duty",
-        "created_at": "2026-03-29T17:23:56.812787",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T21:23:56.812787",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "90777daf",
-        "tweet_text": "\ud83d\udea8 Tottenham Hotspur are searching for their third manager this season after parting ways with Igor Tudor. Ex-Premier League boss is the favorite to take the helm! \u26bd\ufe0f\ud83d\udd0d #THFC #ManagerSearch",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/next-tottenham-hotspur-manager-odds-36940622",
-        "article_title": "Tottenham next manager odds with ex-Premier League boss favourite after talks",
-        "created_at": "2026-03-29T17:23:58.473455",
-        "scheduled_for": null,
-        "expires_at": "2026-03-29T21:23:58.473455",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "7d3091b1",
         "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are targeting Roberto De Zerbi as their new permanent head coach following the departure of interim boss Igor Tudor! \u26bd\ufe0f #THFC #DeZerbi",
         "source_url": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
@@ -52,28 +30,6 @@
         "scheduled_for": null,
         "expires_at": "2026-03-30T00:23:32.542593",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "39946f4c",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur have parted ways with Igor Tudor after just seven games as they fight to avoid relegation from the Premier League! \u26bd\ufe0f\ud83d\udd04 #THFC #PremierLeague",
-        "source_url": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
-        "article_title": "Tudor leaves Tottenham after just seven games",
-        "created_at": "2026-03-29T20:23:36.170715",
-        "scheduled_for": "2026-03-29T20:33:36.170715",
-        "expires_at": "2026-03-29T21:23:36.170715",
-        "type": "auto",
-        "status": "pending"
-    },
-    {
-        "id": "45c34063",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jermain Defoe has been appointed manager of non-league club AFC Bournemouth! Exciting times ahead for the club and the legendary striker! \u26bd\ufe0f\ud83d\udd1d #Defoe #AFCBournemouth",
-        "source_url": "https://talksport.com/football/4148742/jermain-defoe-appointed-woking-manager/",
-        "article_title": "Jermain Defoe appointed manager of non-league club out of nowhere",
-        "created_at": "2026-03-29T20:23:39.602951",
-        "scheduled_for": "2026-03-29T20:33:39.602951",
-        "expires_at": "2026-03-29T21:23:39.602951",
-        "type": "auto",
         "status": "pending"
     },
     {
