@@ -53,5 +53,38 @@
         "expires_at": "2026-03-30T01:25:51.113627",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d33b506c",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur part ways with Igor Tudor after just 7 games as they fight to avoid relegation in the Premier League! \u26bd\ufe0f #THFC #PremierLeague",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
+        "article_title": "Tudor leaves Tottenham after just seven games",
+        "created_at": "2026-03-29T22:22:52.835108",
+        "scheduled_for": "2026-03-29T22:32:52.835108",
+        "expires_at": "2026-03-29T23:22:52.835108",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "7df2f248",
+        "tweet_text": "\ud83d\udea8 WSL star Missy Bo Kearns shares heartbreaking news, announcing she has lost her baby in an emotional statement. Our thoughts are with her during this difficult time. \ud83d\udc94 #WSL #FootballCommunity",
+        "source_url": "https://talksport.com/football/4148810/missy-bo-kearns-miscarriage-announcement-aston-villa/",
+        "article_title": "WSL star Missy Bo Kearns announces she has lost baby in emotional statement",
+        "created_at": "2026-03-29T22:22:55.710923",
+        "scheduled_for": "2026-03-29T22:32:55.710923",
+        "expires_at": "2026-03-29T23:22:55.710923",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "60ebb20e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jermain Defoe has been appointed as the new manager of non-league club BFS! Exciting times ahead for the former striker as he steps into management! \u26bd\ufe0f\ud83d\udd25 #Defoe #FootballManagement",
+        "source_url": "https://talksport.com/football/4148742/jermain-defoe-appointed-woking-manager/",
+        "article_title": "Jermain Defoe appointed manager of non-league club out of nowhere",
+        "created_at": "2026-03-29T22:22:58.081008",
+        "scheduled_for": "2026-03-29T22:32:58.081008",
+        "expires_at": "2026-03-29T23:22:58.081008",
+        "type": "auto",
+        "status": "pending"
     }
 ]
