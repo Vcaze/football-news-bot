@@ -75,5 +75,16 @@
         "expires_at": "2026-03-29T21:23:58.473455",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "daec2e4f",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur have parted ways with Igor Tudor after just 7 games as they fight to avoid relegation from the Premier League. \ud83d\udd25 #THFC #PremierLeague",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
+        "article_title": "Tudor leaves Tottenham after just seven games",
+        "created_at": "2026-03-29T18:31:43.987658",
+        "scheduled_for": "2026-03-29T18:41:43.987658",
+        "expires_at": "2026-03-29T19:31:43.987658",
+        "type": "auto",
+        "status": "pending"
     }
 ]
