@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "df45bfdb",
+        "tweet_text": "\ud83d\udea8 Arsenal's Alessia Russo shines with a stunning 22-minute hat-trick against Tottenham, boosting their Champions League hopes! \ud83d\udd25 #WSL #ArsenalWomen",
+        "source_url": "https://www.bbc.com/sport/football/articles/c1d94qq501lo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Russo 'stepping up' as Arsenal lead hunt for European places",
+        "created_at": "2026-03-29T06:55:37.502558",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T10:55:37.502558",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ef1b33b2",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Alessia Russo nets a stunning hat-trick in just 22 minutes as Arsenal thrashes Tottenham 5-0 at the Emirates! This victory propels Arsenal to 2nd in the WSL! \u26bd\ufe0f\ud83d\udd25 #WSL #Arsenal",
+        "source_url": "https://www.theguardian.com/football/2026/mar/28/arsenal-tottenham-womens-super-league-match-report",
+        "article_title": "Alessia Russo\u2019s rapid fire hat-trick sinks Tottenham and sends Arsenal second in WSL",
+        "created_at": "2026-03-29T06:55:42.185484",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T10:55:42.185484",
+        "type": "manual",
+        "status": "pending"
+    }
+]
