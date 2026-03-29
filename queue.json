@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "d7feb8a7",
+        "tweet_text": "\ud83d\udea8 Arsenal's Alessia Russo shines with a stunning 22-minute hat-trick against Tottenham, boosting their Champions League hopes! \u26bd\ufe0f\ud83d\udd25 #WSL #ArsenalWomen",
+        "source_url": "https://www.bbc.com/sport/football/articles/c1d94qq501lo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Russo 'stepping up' as Arsenal lead hunt for European places",
+        "created_at": "2026-03-29T11:22:48.019334",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T15:22:48.019334",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ca90a6a3",
+        "tweet_text": "\ud83d\udea8 Zinedine Zidane has reportedly agreed terms for his next managerial role amid ongoing links to Manchester United! \ud83c\uddeb\ud83c\uddf7\u26bd\ufe0f #Zidane #ManUtd",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/france-zidane-man-utd-job-36939411",
+        "article_title": "France boss not getting into latest comments as Zidane 'agreement' emerges after Man Utd links",
+        "created_at": "2026-03-29T11:22:53.278587",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T15:22:53.278587",
+        "type": "manual",
+        "status": "pending"
+    }
+]
