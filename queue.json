@@ -64,5 +64,27 @@
         "expires_at": "2026-03-29T17:48:06.485189",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ca81f85f",
+        "tweet_text": "\ud83d\udea8 Michael Carrick is in pole position to become the full-time manager of Manchester United after winning 7 out of 10 matches as interim! Legends are weighing in, and David Beckham has spoken out! \u26bd\ufe0f\ud83d\udd25 #MUFC #CarrickManager",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-beckham-neville-36940077",
+        "article_title": "Man Utd legends' verdicts on Michael Carrick getting the job as David Beckham speaks out",
+        "created_at": "2026-03-29T14:28:15.078302",
+        "scheduled_for": null,
+        "expires_at": "2026-03-29T18:28:15.078302",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "821857b8",
+        "tweet_text": "\ud83d\udea8 Tragic news as a football fan has died during the reopening of a 2026 World Cup stadium. Our thoughts are with the family and friends affected by this heartbreaking event. \ud83d\udd4a\ufe0f #FootballCommunity #WorldCup2026",
+        "source_url": "https://talksport.com/football/4148309/fan-dies-estadio-azteca-mexico-portugal-2026-world-cup/",
+        "article_title": "Football fan tragically dies at reopening of 2026 World Cup stadium",
+        "created_at": "2026-03-29T14:28:21.738576",
+        "scheduled_for": "2026-03-29T14:38:21.738576",
+        "expires_at": "2026-03-29T15:28:21.738576",
+        "type": "auto",
+        "status": "pending"
     }
 ]
