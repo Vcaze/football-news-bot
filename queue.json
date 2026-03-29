@@ -20,5 +20,16 @@
         "expires_at": "2026-03-29T10:55:42.185484",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "0303c24c",
+        "tweet_text": "\ud83d\udea8 Tragedy at the Estadio Banorte as a football fan dies after a horrific fall from a box seat just before Mexico's World Cup warm-up against Portugal. Our thoughts are with the family. \ud83d\udc94\u26bd #WorldCup2026 #FootballTragedy",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/fan-dies-world-cup-stadium-36939139",
+        "article_title": "Football fan dies at World Cup 2026 venue after horrific fall from box seat",
+        "created_at": "2026-03-29T08:32:48.840253",
+        "scheduled_for": "2026-03-29T08:42:48.840253",
+        "expires_at": "2026-03-29T09:32:48.840253",
+        "type": "auto",
+        "status": "pending"
     }
 ]
