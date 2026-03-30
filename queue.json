@@ -20,5 +20,27 @@
         "expires_at": "2026-03-30T11:18:17.550701",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "383d1fe4",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ex-Brighton boss Roberto De Zerbi is open to becoming Tottenham's new head coach immediately! \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526010/roberto-de-zerbi-ex-brighton-boss-open-to-joining-tottenham-hotspur-as-new-head-coach-immediately",
+        "article_title": "De Zerbi open to joining Tottenham to become new boss immediately",
+        "created_at": "2026-03-30T09:04:59.564532",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T13:04:59.564532",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "8f6e6f46",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham have parted ways with Igor Tudor after just 44 days! They are now targeting Roberto De Zerbi to help steer them away from relegation. \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
+        "article_title": "Tottenham target De Zerbi to save them from relegation after parting company with Tudor",
+        "created_at": "2026-03-30T09:05:08.322541",
+        "scheduled_for": "2026-03-30T09:15:08.322541",
+        "expires_at": "2026-03-30T10:05:08.322541",
+        "type": "auto",
+        "status": "pending"
     }
 ]
