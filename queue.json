@@ -64,5 +64,60 @@
         "expires_at": "2026-03-30T20:05:47.387190",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "2fcda7f5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are in advanced talks with Roberto De Zerbi to become their new manager, with the former Brighton boss ready to take charge immediately! \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
+        "article_title": "De Zerbi in advanced talks to become Spurs manager",
+        "created_at": "2026-03-30T17:47:30.636843",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T21:47:30.636843",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e15e23e6",
+        "tweet_text": "\ud83d\udea8 BREAKING: A French court has dismissed Cardiff's \u00a3106m claim against Nantes over Emiliano Sala's tragic death in a 2019 plane crash. This marks another setback in Cardiff's ongoing legal battle. \u2696\ufe0f\ud83d\udc94 #EmilianoSala #CardiffCity",
+        "source_url": "https://www.theguardian.com/football/2026/mar/30/court-dismisses-cardiff-claim-against-nantes-emiliano-sala-death",
+        "article_title": "Court dismisses Cardiff\u2019s \u00a3106m claim against Nantes over Emiliano Sala\u2019s death",
+        "created_at": "2026-03-30T17:47:38.751924",
+        "scheduled_for": "2026-03-30T17:57:38.751924",
+        "expires_at": "2026-03-30T18:47:38.751924",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "edae41c0",
+        "tweet_text": "\ud83d\udea8 Liverpool hopeful Mohamed Salah will return from injury for the FA Cup quarter-final against Manchester City this Saturday! Alisson remains a doubt. #LFC #FACup",
+        "source_url": "https://www.theguardian.com/football/2026/mar/30/mohamed-salah-liverpool-hope-return-injury-fa-cup-quarter-final-manchester-city",
+        "article_title": "Mohamed Salah could make Liverpool return at Manchester City in FA Cup",
+        "created_at": "2026-03-30T17:47:42.061513",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T21:47:42.061513",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "0935e820",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham are actively pursuing Roberto De Zerbi to become their new manager before the season ends! \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48345529/roberto-de-zerbi-targeted-tottenham-take-job-season",
+        "article_title": "Sources: Spurs pushing for De Zerbi this season",
+        "created_at": "2026-03-30T17:47:47.819968",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T21:47:47.819968",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "516ac7f5",
+        "tweet_text": "\ud83d\udea8 Cardiff's $138M claim for compensation in Emiliano Sala's death has been dismissed by a French commercial court, over seven years after the tragic plane crash. \u2696\ufe0f #CardiffCity #EmilianoSala",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48346636/cardiff-city-138m-claim-emiliano-sala-death-dismissed",
+        "article_title": "Cardiff's $138M claim in Sala's death dismissed",
+        "created_at": "2026-03-30T17:47:49.588758",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T21:47:49.588758",
+        "type": "manual",
+        "status": "pending"
     }
 ]
