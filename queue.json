@@ -64,5 +64,49 @@
         "expires_at": "2026-03-30T15:53:26.242219",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d2ac86b8",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are in talks with Roberto de Zerbi to become their new permanent manager following the exit of interim boss Igor Tudor. \u26bd\ufe0f\ud83e\uddaf #THFC #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
+        "article_title": "De Zerbi in talks with Spurs to become manager",
+        "created_at": "2026-03-30T13:01:49.525211",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T17:01:49.525211",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "479e5062",
+        "tweet_text": "BREAKING: Cardiff City\u2019s \u00a3104m damages claim over Emiliano Sala's death has been dismissed, leaving the club to cover approximately \u00a3400,000 instead. \u26bd\ufe0f\ud83d\udc94 #CardiffCity #EmilianoSala",
+        "source_url": "https://www.bbc.com/news/articles/c8jkeprrn00o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Cardiff City damages claim over Emiliano Sala death dismissed",
+        "created_at": "2026-03-30T13:01:52.614193",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T17:01:52.614193",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "201e6e23",
+        "tweet_text": "\ud83d\udea8 Tottenham are in advanced talks with Roberto De Zerbi to become their new manager! With 7 games left, Spurs sit just 1 point above the relegation zone. \u26a0\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-relegation-roberto-de-zerbi-36943426",
+        "article_title": "Tottenham legend delivers worrying relegation verdict as Roberto De Zerbi nears job",
+        "created_at": "2026-03-30T13:01:57.601930",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T17:01:57.601930",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "882cb436",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur are actively pursuing Roberto De Zerbi to become their new manager before the season ends! \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48345529/roberto-de-zerbi-targeted-tottenham-take-job-season",
+        "article_title": "Sources: Spurs pushing for De Zerbi this season",
+        "created_at": "2026-03-30T13:02:01.434249",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T17:02:01.434249",
+        "type": "manual",
+        "status": "pending"
     }
 ]
