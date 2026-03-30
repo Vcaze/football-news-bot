@@ -86,5 +86,60 @@
         "expires_at": "2026-03-30T17:02:01.434249",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "58116d90",
+        "tweet_text": "\ud83d\udea8 BREAKING: Cardiff City's \u00a3100m compensation claim against Nantes over Emiliano Sala's tragic death has been dismissed by a French court. \u2696\ufe0f\ud83d\udc94 #CardiffCity #EmilianoSala",
+        "source_url": "https://www.skysports.com/football/news/12040/13526121/emiliano-sala-french-court-dismisses-cardiffs-compensation-claim-against-nantes-following-death-of-striker-in-2019",
+        "article_title": "French court dismisses Cardiff's compensation claim against Nantes over Sala's death",
+        "created_at": "2026-03-30T14:57:32.053376",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T18:57:32.053376",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "cbc4bdcf",
+        "tweet_text": "\ud83d\udea8 BREAKING: A French court has dismissed Cardiff City's \u00a3106m damages claim against Nantes over Emiliano Sala's tragic death in a 2019 plane crash. #FootballNews #EmilianoSala",
+        "source_url": "https://www.theguardian.com/football/2026/mar/30/court-dismisses-cardiff-claim-against-nantes-emiliano-sala-death",
+        "article_title": "Court dismisses Cardiff\u2019s \u00a3106m claim against Nantes over Emiliano Sala\u2019s death",
+        "created_at": "2026-03-30T14:57:39.238343",
+        "scheduled_for": "2026-03-30T15:07:39.238343",
+        "expires_at": "2026-03-30T15:57:39.238343",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "874c98b7",
+        "tweet_text": "\ud83d\udea8 Tottenham part ways with Igor Tudor after 44 days and 7 games without a league win! They are now targeting Roberto De Zerbi to help avoid relegation. \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
+        "article_title": "Tottenham target De Zerbi to save them from relegation after parting company with Tudor",
+        "created_at": "2026-03-30T14:57:42.626719",
+        "scheduled_for": "2026-03-30T15:07:42.626719",
+        "expires_at": "2026-03-30T15:57:42.626719",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "6bb5657b",
+        "tweet_text": "\ud83d\udea8 Cardiff City loses \u00a3104m compensation claim over the tragic death of Emiliano Sala, as a French court dismisses the case more than eight years later. \ud83d\udc94 #CardiffCity #EmilianoSala",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/cardiff-emiliano-sala-plane-crash-36944537",
+        "article_title": "Cardiff City lose \u00a3104m compensation claim over death of Emiliano Sala",
+        "created_at": "2026-03-30T14:57:48.321320",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T18:57:48.321320",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "1f610fe9",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roberto De Zerbi has reversed his decision to take a break and is now the frontrunner for the Tottenham head coach position! A bumper contract offer is on the table. #THFC #DeZerbi",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/roberto-de-zerbi-tottenham-manager-36943825",
+        "article_title": "Roberto De Zerbi's Tottenham U-turn, bumper contract offer and appointment timeline",
+        "created_at": "2026-03-30T14:57:52.883205",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T18:57:52.883205",
+        "type": "manual",
+        "status": "pending"
     }
 ]
