@@ -64,5 +64,38 @@
         "expires_at": "2026-03-30T14:57:34.371060",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ac392299",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham part ways with Igor Tudor after just 44 days and 7 games! Spurs are now targeting Roberto De Zerbi to help avoid relegation. \u26bd\ufe0f\ud83d\udd04 #THFC #DeZerbi",
+        "source_url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
+        "article_title": "Tottenham target De Zerbi to save them from relegation after parting company with Tudor",
+        "created_at": "2026-03-30T11:53:18.713107",
+        "scheduled_for": "2026-03-30T12:03:18.713107",
+        "expires_at": "2026-03-30T12:53:18.713107",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "c37d751d",
+        "tweet_text": "Sheffield Wednesday sends heartfelt support to ex-Premier League star Petter Rudi, who has been diagnosed with motor neurone disease at 52. \ud83d\udc94\ud83d\ude4f #SupportRudi #MNDawareness",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/sheffield-wednesday-petter-rudi-illness-36942764",
+        "article_title": "Ex-Premier League star diagnosed with MND as club release heartbreaking statement",
+        "created_at": "2026-03-30T11:53:24.336233",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T15:53:24.336233",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d26590fe",
+        "tweet_text": "\ud83d\udea8 Tottenham part ways with interim boss Igor Tudor as they search for a new manager to avoid relegation. Former players highlight the urgency for a strong appointment! \u26bd\ufe0f\ud83d\udd25 #THFC #ManagerSearch",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-manager-igor-tudor-replacement-36943134",
+        "article_title": "'I played for Tottenham manager candidate \u2013 everyone who has says same thing about him'",
+        "created_at": "2026-03-30T11:53:26.242219",
+        "scheduled_for": null,
+        "expires_at": "2026-03-30T15:53:26.242219",
+        "type": "manual",
+        "status": "pending"
     }
 ]
