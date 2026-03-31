@@ -75,5 +75,16 @@
         "expires_at": "2026-03-31T16:59:36.151116",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "fe109282",
+        "tweet_text": "\ud83d\udea8 Eddie Howe has seven games to prove his worth as Newcastle manager with the club currently sitting 12th in the Premier League. Chief exec David Hopkinson is not pleased after the recent 2-1 loss to Sunderland. \u26bd\ufe0f #NUFC #EddieHowe",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/eddie-howe-newcastle-premier-league-david-hopkinson",
+        "article_title": "Eddie Howe faces seven-game test to secure Newcastle job for next season",
+        "created_at": "2026-03-31T14:27:54.594751",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T18:27:54.594751",
+        "type": "manual",
+        "status": "pending"
     }
 ]
