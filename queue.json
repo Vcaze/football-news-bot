@@ -9,5 +9,60 @@
         "expires_at": "2026-03-31T18:27:54.594751",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "01f79eb2",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto De Zerbi as their third head coach of the season! Can he turn their fortunes around? \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526564/roberto-de-zerbi-spurs-appoint-italian-as-third-head-coach-of-the-season-on-five-year-contract",
+        "article_title": "Spurs appoint De Zerbi as third head coach of the season",
+        "created_at": "2026-03-31T17:50:33.124151",
+        "scheduled_for": "2026-03-31T18:00:33.124151",
+        "expires_at": "2026-03-31T18:50:33.124151",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "1cd4f896",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roberto de Zerbi is appointed as Tottenham's new manager, becoming their third boss this season! He has seven crucial games to turn the team's fortunes around. \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Seven games to save Tottenham's season - De Zerbi becomes Spurs boss",
+        "created_at": "2026-03-31T17:50:37.863242",
+        "scheduled_for": "2026-03-31T18:00:37.863242",
+        "expires_at": "2026-03-31T18:50:37.863242",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "d98d773b",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham confirm Roberto De Zerbi as head coach on a five-year deal! \ud83c\udfc6 He aims to inspire fans while battling relegation. No break clause included! #THFC #DeZerbi",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/tottenham-confirm-appointment-of-roberto-de-zerbi-as-new-manager",
+        "article_title": "Tottenham confirm Roberto De Zerbi as head coach on five-year contract",
+        "created_at": "2026-03-31T17:50:43.659136",
+        "scheduled_for": "2026-03-31T18:00:43.659136",
+        "expires_at": "2026-03-31T18:50:43.659136",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "5d06a939",
+        "tweet_text": "\ud83d\udea8 BREAKING: England confirm Harry Kane will miss the friendly against Japan due to a training injury, adding to Thomas Tuchel's World Cup concerns. Jordan Henderson has also exited the camp. \u26bd\ufe0f\ud83c\uddec\ud83c\udde7 #ThreeLions #WorldCup2022",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-england-harry-kane-tuchel-36951268",
+        "article_title": "BREAKING: England confirm Harry Kane injury as Thomas Tuchel lands new headache ahead of World Cup",
+        "created_at": "2026-03-31T17:50:47.824492",
+        "scheduled_for": "2026-03-31T18:00:47.824492",
+        "expires_at": "2026-03-31T18:50:47.824492",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "c66d6802",
+        "tweet_text": "Roberto De Zerbi outlines Tottenham's ambition as the club sets clear expectations for their new boss, amidst concerns over Premier League relegation. \u26bd\ufe0f\ud83d\udd0d #Tottenham #DeZerbi",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-roberto-de-zerbi-ambitions-36950925",
+        "article_title": "Roberto De Zerbi reveals Tottenham 'ambition' as club make demands clear to new boss",
+        "created_at": "2026-03-31T17:50:50.839062",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T21:50:50.839062",
+        "type": "manual",
+        "status": "pending"
     }
 ]
