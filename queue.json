@@ -86,5 +86,38 @@
         "expires_at": "2026-03-31T15:43:00.262619",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "8349cf06",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham are on the verge of appointing Roberto De Zerbi as their new head coach! \u26bd\ufe0f #THFC #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526064/roberto-de-zerbi-tottenham-close-to-announcing-ex-brighton-boss-as-their-new-head-coach",
+        "article_title": "Spurs close to announcing De Zerbi as new head coach",
+        "created_at": "2026-03-31T12:59:25.893095",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T16:59:25.893095",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "9f655e64",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto de Zerbi as their third manager this season! He has seven crucial games to turn their fortunes around. Can he save their season? \u26bd\ufe0f\ud83d\udd25 #Tottenham #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Seven games to save Tottenham's season - but why De Zerbi?",
+        "created_at": "2026-03-31T12:59:30.000096",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T16:59:30.000096",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "9440f08c",
+        "tweet_text": "\ud83d\udea8 Marc Cucurella criticizes Chelsea's hierarchy, stating \"We've paid the price\" for poor player recruitment and insists Enzo Maresca's sacking was unwarranted. \ud83d\udd25 #CFC #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-marc-cucurella-maresca-rosenior-36948994",
+        "article_title": "Marc Cucurella launches extraordinary rant at Chelsea hierarchy - 'We've paid the price'",
+        "created_at": "2026-03-31T12:59:36.151116",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T16:59:36.151116",
+        "type": "manual",
+        "status": "pending"
     }
 ]
