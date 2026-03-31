@@ -64,5 +64,38 @@
         "expires_at": "2026-03-31T21:50:50.839062",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "e20b8a67",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur appoint Robert De Zerbi as their new manager, replacing Igor Tudor! \ud83c\udf1f #THFC #DeZerbi",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48339368/tottenham-hire-roberto-de-zerbi-new-manager-head-coach",
+        "article_title": "Tottenham hire De Zerbi to replace Tudor",
+        "created_at": "2026-03-31T18:52:34.333282",
+        "scheduled_for": "2026-03-31T19:02:34.333282",
+        "expires_at": "2026-03-31T19:52:34.333282",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "da1a90db",
+        "tweet_text": "\ud83d\udea8 Tottenham appoint Roberto De Zerbi as new manager, prioritizing a 'change of culture' over Mauricio Pochettino's return! Exciting times ahead for Spurs! \u26bd\ufe0f\u2728 #Tottenham #DeZerbi",
+        "source_url": "https://talksport.com/football/4153247/why-tottenham-chose-de-zerbi-over-pochettino/",
+        "article_title": "Reason why Tottenham chose Roberto De Zerbi over Mauricio Pochettino revealed as new boss set to play key role in &#8216;change of culture&#8217;",
+        "created_at": "2026-03-31T18:52:37.876228",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T22:52:37.876228",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "c2d720cd",
+        "tweet_text": "\ud83d\udea8 Turkey U21 boss rushed to hospital after a fall on the touchline during a match. His condition is being assessed. Wishing him a speedy recovery! \ud83d\ude4f\u26bd #FootballNews #TurkeyU21",
+        "source_url": "https://talksport.com/football/4153449/turkey-u21-egemen-korkmaz-collapses-hospital/",
+        "article_title": "Turkey U21 boss rushed to hospital after falling on touchline during match",
+        "created_at": "2026-03-31T18:52:39.607335",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T22:52:39.607335",
+        "type": "manual",
+        "status": "pending"
     }
 ]
