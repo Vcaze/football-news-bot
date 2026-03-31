@@ -42,5 +42,60 @@
         "expires_at": "2026-03-31T22:52:39.607335",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "49611ff0",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Supporters' Trust criticises Roberto De Zerbi's appointment as head coach due to his backing of Mason Greenwood during his time at Marseille. \u26bd\ufe0f\ud83d\udde3\ufe0f #Tottenham #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526595/roberto-de-zerbis-spurs-appointment-criticised-by-tottenham-hotspur-supporters-trust-over-mason-greenwood-comments",
+        "article_title": "Tottenham Supporters' Trust criticises De Zerbi appointment over Greenwood backing",
+        "created_at": "2026-03-31T19:51:17.342835",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T23:51:17.342835",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ebfeee3d",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto De Zerbi as their third head coach of the season! \u26bd\ufe0f Can he turn their fortunes around? #THFC #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526564/roberto-de-zerbi-spurs-appoint-italian-as-third-head-coach-of-the-season-on-five-year-contract",
+        "article_title": "Spurs appoint De Zerbi as third head coach of the season",
+        "created_at": "2026-03-31T19:51:20.092834",
+        "scheduled_for": "2026-03-31T20:01:20.092834",
+        "expires_at": "2026-03-31T20:51:20.092834",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "b558fa6e",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roberto De Zerbi is the new Tottenham boss, marking the club's third managerial change this season! He has seven games to turn their season around. \u26bd\ufe0f #Tottenham #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Seven games to save Tottenham's season - De Zerbi becomes Spurs boss",
+        "created_at": "2026-03-31T19:51:23.360343",
+        "scheduled_for": "2026-03-31T20:01:23.360343",
+        "expires_at": "2026-03-31T20:51:23.360343",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "60aa6006",
+        "tweet_text": "Tottenham Hotspur Supporters' Trust raise concerns over Roberto De Zerbi's appointment as head coach due to his past comments about Mason Greenwood. Fans are demanding accountability! \u26bd\ufe0f\ud83d\udd0d #THFC #DeZerbi",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-spurs-roberto-de-zerbi-36951466",
+        "article_title": "Tottenham Supporters' Trust issue damning statement after Roberto De Zerbi appointment",
+        "created_at": "2026-03-31T19:51:28.641718",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T23:51:28.641718",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f8ac9e74",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Turkey U21 coach Egemen Korkmaz collapsed during the match against Croatia and was hospitalized after losing consciousness. Wishing him a speedy recovery! \ud83c\uddf9\ud83c\uddf7\ud83d\udc94 #Football #TurkeyU21",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/turkey-manager-collapses-hospital-ambulance-36951461",
+        "article_title": "Turkey coach collapses midway through game as statement released after medical attention",
+        "created_at": "2026-03-31T19:51:30.512428",
+        "scheduled_for": "2026-03-31T20:01:30.512428",
+        "expires_at": "2026-03-31T20:51:30.512428",
+        "type": "auto",
+        "status": "pending"
     }
 ]
