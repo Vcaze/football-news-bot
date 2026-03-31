@@ -64,5 +64,49 @@
         "expires_at": "2026-03-31T21:36:35.776382",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "57f35a10",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto De Zerbi as their third head coach of the season! Can he turn the team's fortunes around? \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.skysports.com/football/news/12040/13526564/roberto-de-zerbi-spurs-appoint-italian-as-third-head-coach-of-the-season-on-five-year-contract",
+        "article_title": "Spurs appoint De Zerbi as third head coach of the season",
+        "created_at": "2026-03-31T21:32:15.995890",
+        "scheduled_for": "2026-03-31T21:42:15.995890",
+        "expires_at": "2026-03-31T22:32:15.995890",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "68c3b3b7",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Roberto de Zerbi is appointed as Tottenham's new head coach, becoming their third boss this season! He has seven crucial games to save Spurs\u2019 campaign. \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Seven games to save Tottenham's season - De Zerbi becomes Spurs boss",
+        "created_at": "2026-03-31T21:32:19.854303",
+        "scheduled_for": "2026-03-31T21:42:19.854303",
+        "expires_at": "2026-03-31T22:32:19.854303",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "553b026c",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Turkey secures a spot in the World Cup after defeating Kosovo 1-0, thanks to Kerem Akturkoglu's goal! It's Turkey's first World Cup appearance in 24 years! \ud83c\uddf9\ud83c\uddf7\u26bd\ufe0f #WorldCup2026 #TurkeyVsKosovo",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/kosovo-turkey-world-cup-2026-qualifying-playoff-match-report",
+        "article_title": "Akturkoglu edges Turkey through to end Kosovo hopes of World Cup finals debut",
+        "created_at": "2026-03-31T21:32:24.789582",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T01:32:24.789582",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "917e11a2",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Sweden qualify for the World Cup after Viktor Gy\u00f6keres scores a dramatic 89th-minute winner against Poland! \ud83c\uddf8\ud83c\uddea\u26bd\ufe0f #WorldCup2026 #SwedenFootball",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/sweden-poland-world-cup-playoff-match-report",
+        "article_title": "Sweden qualify for World Cup after Viktor Gy\u00f6keres hits late winner against Poland",
+        "created_at": "2026-03-31T21:32:26.842856",
+        "scheduled_for": "2026-03-31T21:42:26.842856",
+        "expires_at": "2026-03-31T22:32:26.842856",
+        "type": "auto",
+        "status": "pending"
     }
 ]
