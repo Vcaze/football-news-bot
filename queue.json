@@ -86,5 +86,38 @@
         "expires_at": "2026-03-31T22:32:26.842856",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "b52f3a71",
+        "tweet_text": "\ud83d\udea8 Ten-man Italy fail to qualify for their third consecutive World Cup, losing to Bosnia and Herzegovina in a dramatic penalty shootout! \u26bd\ufe0f\ud83c\uddee\ud83c\uddf9 #WorldCup2026 #Italy",
+        "source_url": "https://www.skysports.com/football/news/12040/13526666/italy-miss-out-on-third-world-cup-in-a-row-after-penalties-defeat-to-bosnia-and-herzegovina-in-play-off",
+        "article_title": "Ten-man Italy miss out on third World Cup in a row",
+        "created_at": "2026-03-31T22:27:55.262050",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T02:27:55.262050",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "68f9b870",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Italy has missed out on the 2026 World Cup after losing to Bosnia and Herzegovina in a penalty shootout! Italy's heartbreak continues as they fail to qualify for a third consecutive tournament. \ud83c\udde7\ud83c\udde6\u26bd\ufe0f #WorldCup2026 #Italy",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report",
+        "article_title": "Italy miss out on World Cup again after Bosnia and Herzegovina\u2019s shootout triumph",
+        "created_at": "2026-03-31T22:28:00.217180",
+        "scheduled_for": "2026-03-31T22:38:00.217180",
+        "expires_at": "2026-03-31T23:28:00.217180",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "8eef6b96",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Italy misses out on their THIRD consecutive World Cup after a heartbreaking penalty shootout loss to Bosnia-Herzegovina. The Azzurri last appeared in 2014! \ud83c\uddee\ud83c\uddf9\u26bd #Italy #WorldCup2026",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/breaking-italy-world-cup-bosnia-36951948",
+        "article_title": "Italy fail to qualify for THIRD straight World Cup after penalty loss to Bosnia",
+        "created_at": "2026-03-31T22:28:03.207054",
+        "scheduled_for": "2026-03-31T22:38:03.207054",
+        "expires_at": "2026-03-31T23:28:03.207054",
+        "type": "auto",
+        "status": "pending"
     }
 ]
