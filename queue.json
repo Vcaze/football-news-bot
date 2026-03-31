@@ -86,5 +86,16 @@
         "expires_at": "2026-03-31T20:51:30.512428",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "5b657b87",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham Hotspur appoint Robert De Zerbi as their new head coach, replacing Igor Tudor. Exciting times ahead for Spurs! \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48339368/tottenham-hire-roberto-de-zerbi-new-manager-head-coach",
+        "article_title": "Tottenham hire De Zerbi to replace Tudor",
+        "created_at": "2026-03-31T20:36:35.776382",
+        "scheduled_for": "2026-03-31T20:46:35.776382",
+        "expires_at": "2026-03-31T21:36:35.776382",
+        "type": "auto",
+        "status": "pending"
     }
 ]
