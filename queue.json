@@ -86,5 +86,27 @@
         "expires_at": "2026-03-31T13:58:17.598123",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "c5022761",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Leah Williamson, Beth Mead, and 17-year-old Parkinson have been called up to the England squad for World Cup Qualifiers against Spain and Iceland! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ThreeLions #WorldCupQualifiers",
+        "source_url": "https://www.skysports.com/football/news/12040/13526367/leah-williamson-and-beth-mead-included-in-england-women-squad-for-world-cup-qualifiers-against-spain-and-iceland",
+        "article_title": "Williamson, Mead and 17-year-old Parkinson included in latest England squad",
+        "created_at": "2026-03-31T10:53:26.248531",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T14:53:26.248531",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6b5a6f59",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ghana sacked manager Otto Addo just 72 days before the 2026 World Cup after a string of defeats. A pivotal decision ahead of the tournament! \ud83c\uddec\ud83c\udded\u26bd #Ghana #WorldCup2026",
+        "source_url": "https://www.bbc.com/sport/football/articles/crr1zyyr8xvo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Ghana sack manager Addo, 72 days before World Cup",
+        "created_at": "2026-03-31T10:53:32.220063",
+        "scheduled_for": "2026-03-31T11:03:32.220063",
+        "expires_at": "2026-03-31T11:53:32.220063",
+        "type": "auto",
+        "status": "pending"
     }
 ]
