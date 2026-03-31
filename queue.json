@@ -42,5 +42,38 @@
         "expires_at": "2026-03-31T08:04:34.274773",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "b28bbd29",
+        "tweet_text": "\ud83d\udea8 Newcastle report record revenues of \u00a3335.3m for the year ending June 2025! However, Eddie Howe's future remains uncertain as discussions are pending. \u26bd\ufe0f\ud83d\udcb0 #NUFC #EddieHowe",
+        "source_url": "https://www.skysports.com/football/news/12040/13526245/newcastle-chief-discusses-eddie-howe-future-sandro-tonali-transfer-speculation-and-club-record-revenues",
+        "article_title": "Newcastle announce record revenues but Howe's future uncertain",
+        "created_at": "2026-03-31T08:49:46.282227",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T12:49:46.282227",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "46c86fcb",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Ghana have sacked manager Otto Addo just 72 days before the 2026 World Cup after a disappointing run of defeats. \ud83c\uddec\ud83c\udded\u26bd\ufe0f #GhanaFootball #WorldCup2026",
+        "source_url": "https://www.bbc.com/sport/football/articles/crr1zyyr8xvo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Ghana sack manager Addo, 72 days before World Cup",
+        "created_at": "2026-03-31T08:49:52.205352",
+        "scheduled_for": "2026-03-31T08:59:52.205352",
+        "expires_at": "2026-03-31T09:49:52.205352",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "7b6f44d2",
+        "tweet_text": "\ud83d\udea8 Thomas Tuchel questions the mass withdrawal of 11 Arsenal stars, including Eberechi Eze, Declan Rice, Bukayo Saka, and Noni Madueke, from international duty, calling it 'suspicious'. \ud83c\uddec\ud83c\udde7\u26bd #Arsenal #InternationalBreak",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/thomas-tuchel-england-arsenal-injuries-36946747",
+        "article_title": "Thomas Tuchel admits mass international withdrawal of Arsenal stars looks 'suspicious'",
+        "created_at": "2026-03-31T08:49:58.401446",
+        "scheduled_for": null,
+        "expires_at": "2026-03-31T12:49:58.401446",
+        "type": "manual",
+        "status": "pending"
     }
 ]
