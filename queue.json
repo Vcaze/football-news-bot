@@ -130,5 +130,38 @@
         "expires_at": "2026-04-01T21:37:32.111649",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "49645c43",
+        "tweet_text": "\ud83d\udea8 Chelsea's Sonia Bompastor sent off as Arsenal knock them out of the Women's Champions League with a 3-2 aggregate win! Nusken's late goal wasn't enough to secure a comeback. \u26bd\ufe0f\u26a1\ufe0f #WCL #Arsenal",
+        "source_url": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/551341",
+        "article_title": "Nusken goal not enough as Bompastor sent off in Chelsea's WCL exit to Arsenal",
+        "created_at": "2026-04-01T21:35:33.444447",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T01:35:33.444447",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "68a5ab3c",
+        "tweet_text": "\ud83d\udea8 Bayern Munich defeat Manchester United 2-1 in the Women's Champions League, advancing 5-3 on aggregate and ending United's dream. \ud83d\ude1e\u26bd\ufe0f #WCL #BayernMunich",
+        "source_url": "https://www.skysports.com/football/bayern-munich-women-vs-manchester-united-women/report/551342",
+        "article_title": "Man Utd 'fume' at set-play failure as WCL dream ends in Munich",
+        "created_at": "2026-04-01T21:35:35.499534",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T01:35:35.499534",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3e995656",
+        "tweet_text": "\ud83d\udea8 Arsenal keep their Champions League title defense alive, despite Sjoeke N\u00fcsken's late winner for Chelsea! Final score: Chelsea 1-0 Arsenal (Arsenal advance 3-2 on aggregate). #WomensChampionsLeague #ArsenalWomen",
+        "source_url": "https://www.theguardian.com/football/2026/apr/01/chelsea-arsenal-womens-champions-league-quarter-final-second-leg-match-report",
+        "article_title": "Arsenal keep title defence alive despite N\u00fcsken\u2019s late winner for Chelsea",
+        "created_at": "2026-04-01T21:35:38.424150",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T01:35:38.424150",
+        "type": "manual",
+        "status": "pending"
     }
 ]
