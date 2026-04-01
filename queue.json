@@ -9,5 +9,60 @@
         "expires_at": "2026-04-01T14:03:27.639551",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "ee9e1125",
+        "tweet_text": "\ud83d\udea8 England suffer a 2-1 defeat to Japan at Wembley, highlighting concerns about their World Cup prospects without captain Harry Kane. Can they find a solution before it\u2019s too late? \u26bd\ufe0f\ud83c\uddec\ud83c\udde7 #ThreeLions #WorldCup2023",
+        "source_url": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&at_campaign=rss",
+        "article_title": "Failed experiment as England get grim glimpse of life without Kane",
+        "created_at": "2026-04-01T11:44:49.636353",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T15:44:49.636353",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "779856e5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: The final six nations have qualified for the 2026 World Cup! Get ready for an expanded tournament featuring even more thrilling action. \ud83c\udf0d\u26bd\ufe0f #WorldCup2026 #FootballFever",
+        "source_url": "https://www.bbc.com/sport/football/articles/c3exv0820e4o?at_medium=RSS&at_campaign=rss",
+        "article_title": "The World Cup line-up is complete - here's what you need to know",
+        "created_at": "2026-04-01T11:44:53.420357",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T15:44:53.420357",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "446707cf",
+        "tweet_text": "\ud83d\udea8 World Cup 2026 confirms 48 teams! Egypt, Morocco, Tunisia, Algeria, Ghana, Cape Verde, South Africa, Senegal, C\u00f4te d\u2019Ivoire, and DR Congo have qualified! \ud83c\udf0d\u26bd #WorldCup2026 #FootballNews",
+        "source_url": "https://www.theguardian.com/football/2025/oct/10/world-cup-2026-which-countries-have-qualified-and-how-did-they-do-it",
+        "article_title": "World Cup 2026: which countries have qualified and how did they do it?",
+        "created_at": "2026-04-01T11:44:55.859126",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T15:44:55.859126",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "0731e005",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Italy misses out on the 2026 World Cup after a dramatic penalty shootout loss to Bosnia and Herzegovina. This marks their third consecutive World Cup absence! \ud83c\uddee\ud83c\uddf9\u26bd #WorldCup #Italy",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report",
+        "article_title": "Italy miss out on World Cup again after Bosnia and Herzegovina\u2019s shootout triumph",
+        "created_at": "2026-04-01T11:44:58.708482",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T15:44:58.708482",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "4a5b5a11",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Sweden qualifies for the World Cup after Viktor Gy\u00f6keres scores a late winner against Poland! They'll face Tunisia, Netherlands, and Japan. \ud83c\uddf8\ud83c\uddea\u26bd\ufe0f #WorldCup2026 #SwedenFootball",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/sweden-poland-world-cup-playoff-match-report",
+        "article_title": "Sweden qualify for World Cup after Viktor Gy\u00f6keres hits late winner against Poland",
+        "created_at": "2026-04-01T11:45:00.684435",
+        "scheduled_for": "2026-04-01T11:55:00.684435",
+        "expires_at": "2026-04-01T12:45:00.684435",
+        "type": "auto",
+        "status": "pending"
     }
 ]
