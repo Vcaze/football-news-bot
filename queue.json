@@ -1,1 +1,57 @@
-[]
+[
+    {
+        "id": "78a2986a",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Italy fails to qualify for their third consecutive World Cup after a penalty shootout loss to Bosnia and Herzegovina. A shocking exit for the Azzurri! \ud83c\uddee\ud83c\uddf9\u26bd #WorldCup #Italy",
+        "source_url": "https://www.skysports.com/football/news/12040/13526666/italy-miss-out-on-third-world-cup-in-a-row-after-penalties-defeat-to-bosnia-and-herzegovina-in-play-off",
+        "article_title": "Italy miss out on third World Cup in a row",
+        "created_at": "2026-04-01T07:11:32.106894",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T11:11:32.106894",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "600fb0ce",
+        "tweet_text": "England suffer a setback as they lose 2-0 to Japan at Wembley, highlighting the team's struggles without captain Harry Kane. World Cup hopes take a hit! \ud83c\uddec\ud83c\udde7\u26bd\ufe0f #ENGvJPN #ThreeLions",
+        "source_url": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&at_campaign=rss",
+        "article_title": "Failed experiment as England get grim glimpse of life without Kane",
+        "created_at": "2026-04-01T07:11:35.694588",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T11:11:35.694588",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "058ae141",
+        "tweet_text": "\ud83d\udea8 The final six nations have qualified for the 2026 World Cup, completing the line-up! Get ready for an expanded tournament like never before! \ud83c\udf0d\u26bd #WorldCup2026 #FootballNews",
+        "source_url": "https://www.bbc.com/sport/football/articles/c3exv0820e4o?at_medium=RSS&at_campaign=rss",
+        "article_title": "The World Cup line-up is complete - here's what you need to know",
+        "created_at": "2026-04-01T07:11:38.291746",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T11:11:38.291746",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3392bb1c",
+        "tweet_text": "\ud83d\udea8 Italy eliminated from the 2026 World Cup after a shootout loss to Bosnia and Herzegovina in the playoffs. This marks their third consecutive World Cup absence! \ud83c\uddee\ud83c\uddf9\u26bd\ufe0f #WorldCup2026 #Azzurri",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report",
+        "article_title": "Italy miss out on World Cup again after Bosnia and Herzegovina\u2019s shootout triumph",
+        "created_at": "2026-04-01T07:11:45.863686",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T11:11:45.863686",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "45942523",
+        "tweet_text": "\ud83d\udea8 Sweden qualify for the World Cup after Viktor Gy\u00f6keres scores a late winner against Poland! They'll join Tunisia, the Netherlands, and Japan in the tournament. \ud83c\uddf8\ud83c\uddea\u26bd #WorldCup2026 #FootballNews",
+        "source_url": "https://www.theguardian.com/football/2026/mar/31/sweden-poland-world-cup-playoff-match-report",
+        "article_title": "Sweden qualify for World Cup after Viktor Gy\u00f6keres hits late winner against Poland",
+        "created_at": "2026-04-01T07:11:48.070890",
+        "scheduled_for": "2026-04-01T07:21:48.070890",
+        "expires_at": "2026-04-01T08:11:48.070890",
+        "type": "auto",
+        "status": "pending"
+    }
+]
