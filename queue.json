@@ -1,16 +1,5 @@
 [
     {
-        "id": "b09946e6",
-        "tweet_text": "\ud83d\udea8 Mykhailo Mudryk faces a possible 4-year ban after a positive doping test, keeping him off the pitch for Chelsea since 2024. His daily routine remains under scrutiny. \ud83c\udfdf\ufe0f\u2696\ufe0f #ChelseaFC #Mudryk",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/myhailo-mudryk-ban-chelsea-palkin-36949951",
-        "article_title": "Mykhailo Mudryk's mood revealed and what Chelsea star does every day amid ban decision",
-        "created_at": "2026-04-01T10:03:27.639551",
-        "scheduled_for": null,
-        "expires_at": "2026-04-01T14:03:27.639551",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "ee9e1125",
         "tweet_text": "\ud83d\udea8 England suffer a 2-1 defeat to Japan at Wembley, highlighting concerns about their World Cup prospects without captain Harry Kane. Can they find a solution before it\u2019s too late? \u26bd\ufe0f\ud83c\uddec\ud83c\udde7 #ThreeLions #WorldCup2023",
         "source_url": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&at_campaign=rss",
@@ -74,17 +63,6 @@
         "scheduled_for": null,
         "expires_at": "2026-04-01T17:02:19.482837",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "2d6abb01",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto De Zerbi as their new manager on a five-year deal! An ex-Spurs star raves about their time together at Benevento. \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-roberto-de-zerbi-sandro-36953872",
-        "article_title": "Ex-Tottenham star 'fell in love with Roberto De Zerbi in a week' as new boss talked up",
-        "created_at": "2026-04-01T13:02:22.146844",
-        "scheduled_for": "2026-04-01T13:12:22.146844",
-        "expires_at": "2026-04-01T14:02:22.146844",
-        "type": "auto",
         "status": "pending"
     }
 ]
