@@ -97,5 +97,38 @@
         "expires_at": "2026-04-01T23:54:26.296664",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "7adf2da3",
+        "tweet_text": "\ud83d\udea8 Jermain Defoe is the new manager of Woking! The former Premier League star embraces his non-league journey, stating he can't expect to jump in at the top. \u26bd\ufe0f #WokingFC #DefoeManagement",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/jermain-defoe-woking-management-career-36957393",
+        "article_title": "Jermain Defoe 'can't expect to jump in at the top' after bagging Woking gig",
+        "created_at": "2026-04-01T20:37:25.754172",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T00:37:25.754172",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "92885902",
+        "tweet_text": "\ud83d\udea8 Thomas Tuchel warns Phil Foden about his World Cup chances after a tough outing for England against Japan. Foden's struggles could make him a key casualty for the Three Lions! \u26bd\ufe0f\ud83c\uddec\ud83c\udde7 #WorldCup #ENG",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tuchel-foden-england-world-cup-36954577",
+        "article_title": "Thomas Tuchel issues bleak World Cup warning to Phil Foden after failed England audition",
+        "created_at": "2026-04-01T20:37:28.918237",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T00:37:28.918237",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "6669abb5",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Pep Guardiola leaves Manchester City in limbo as speculation mounts over potential successors, including an ex-Premier League boss. What\u2019s next for the champions? \u26bd\ufe0f\ud83d\udd04 #ManCity #Guardiola",
+        "source_url": "https://talksport.com/football/4156523/pep-guardiola-next-man-city-manager/",
+        "article_title": "Pep Guardiola leaves Man City in limbo and ex-Premier League boss could succeed him",
+        "created_at": "2026-04-01T20:37:32.111649",
+        "scheduled_for": "2026-04-01T20:47:32.111649",
+        "expires_at": "2026-04-01T21:37:32.111649",
+        "type": "auto",
+        "status": "pending"
     }
 ]
