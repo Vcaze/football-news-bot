@@ -75,5 +75,60 @@
         "expires_at": "2026-04-01T20:07:11.749508",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d859d182",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea report a record pre-tax loss of \u00a3262.4m for the 2024-25 season, marking the biggest financial loss in Premier League history! \ud83d\udcb0\u26bd #ChelseaFC #FootballFinance",
+        "source_url": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Chelsea make pre-tax loss of \u00a3262.4m - biggest in Premier League history",
+        "created_at": "2026-04-01T17:43:28.814401",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T21:43:28.814401",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "895dfb5a",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Alexander Isak is set to return for Liverpool after a three-month injury layoff, following his leg break against Tottenham! \ud83d\udd34\u26bd #LFC #IsakReturn",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/arne-slot-alexander-isak-liverpool-36956819",
+        "article_title": "Arne Slot confirms Alexander Isak return date as Liverpool receive huge injury boost",
+        "created_at": "2026-04-01T17:43:35.479143",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T21:43:35.479143",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "983cfcc1",
+        "tweet_text": "\ud83d\udea8 Tottenham have appointed Roberto De Zerbi as their third manager of the season as they aim to avoid relegation. Can his tactics turn the tide for Spurs? \u26bd\ufe0f #Tottenham #DeZerbi",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48358210/tottenham-hotspur-roberto-de-zerbi-manager-appointment-tactics-news-transfers-analysis",
+        "article_title": "Why have Tottenham hired De Zerbi? Are his tactics right for a relegation fight?",
+        "created_at": "2026-04-01T17:43:41.474868",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T21:43:41.474868",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d09f1c93",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: FA charges Harry Maguire after his red card in Manchester United's match against Bournemouth. The defender faces disciplinary action! \u26bd\ufe0f\ud83d\udd34 #MUFC #FACharge",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48368366/harry-maguire-hit-fa-charge-man-united-red-card",
+        "article_title": "FA charge Maguire after Man United red card",
+        "created_at": "2026-04-01T17:43:44.084271",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T21:43:44.084271",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "753687d0",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea report a staggering pre-tax loss of \u00a3262.4 million for the year ending June 30, 2025, the highest in EPL history! The club also spent the most on agents' fees this season. \ud83d\udcb0\u26bd #CFC #EPL",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48368240/chelsea-record-highest-pre-tax-losses-premier-league-history",
+        "article_title": "Chelsea have highest pre-tax loss in EPL history",
+        "created_at": "2026-04-01T17:43:46.532980",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T21:43:46.532980",
+        "type": "manual",
+        "status": "pending"
     }
 ]
