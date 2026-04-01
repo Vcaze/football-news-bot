@@ -64,5 +64,16 @@
         "expires_at": "2026-04-01T09:56:33.953375",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "b09946e6",
+        "tweet_text": "\ud83d\udea8 Mykhailo Mudryk faces a possible 4-year ban after a positive doping test, keeping him off the pitch for Chelsea since 2024. His daily routine remains under scrutiny. \ud83c\udfdf\ufe0f\u2696\ufe0f #ChelseaFC #Mudryk",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/myhailo-mudryk-ban-chelsea-palkin-36949951",
+        "article_title": "Mykhailo Mudryk's mood revealed and what Chelsea star does every day amid ban decision",
+        "created_at": "2026-04-01T10:03:27.639551",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T14:03:27.639551",
+        "type": "manual",
+        "status": "pending"
     }
 ]
