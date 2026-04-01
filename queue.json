@@ -64,5 +64,38 @@
         "expires_at": "2026-04-01T12:45:00.684435",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "3e504b47",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Chelsea reports a record pre-tax loss of \u00a3262.4m for the 2024-25 season, the highest in Premier League history! This surpasses Manchester City's previous record of \u00a3179.5m in 2011. \ud83d\udc94\ud83d\udcc9 #CFC #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Chelsea make pre-tax loss of \u00a3262.4m - biggest in Premier League history",
+        "created_at": "2026-04-01T13:02:06.011087",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T17:02:06.011087",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d9ce4e76",
+        "tweet_text": "\ud83d\udea8 Michael Carrick has revitalized Manchester United's Champions League hopes and is the frontrunner for the permanent manager role after addressing Arne Slot's recent criticism! \ud83d\udd34\u26bd #MUFC #Carrick",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-united-carrick-liverpool-slot-36953699",
+        "article_title": "Michael Carrick appears to introduce Man Utd ban after Arne Slot's 'do not like it' rant",
+        "created_at": "2026-04-01T13:02:19.482837",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T17:02:19.482837",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2d6abb01",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Tottenham appoint Roberto De Zerbi as their new manager on a five-year deal! An ex-Spurs star raves about their time together at Benevento. \u26bd\ufe0f\ud83d\udd25 #THFC #DeZerbi",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/tottenham-roberto-de-zerbi-sandro-36953872",
+        "article_title": "Ex-Tottenham star 'fell in love with Roberto De Zerbi in a week' as new boss talked up",
+        "created_at": "2026-04-01T13:02:22.146844",
+        "scheduled_for": "2026-04-01T13:12:22.146844",
+        "expires_at": "2026-04-01T14:02:22.146844",
+        "type": "auto",
+        "status": "pending"
     }
 ]
