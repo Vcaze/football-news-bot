@@ -130,5 +130,38 @@
         "expires_at": "2026-04-01T21:43:46.532980",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "e5a1e81e",
+        "tweet_text": "\ud83d\udea8 Arne Slot praises Mohamed Salah as a Liverpool legend, confirming his departure at the end of the season. Salah aims to leave a lasting legacy! \u26bd\ufe0f\ud83d\udd34 #LFC #Salah",
+        "source_url": "https://www.theguardian.com/football/2026/apr/01/arne-slot-calls-mohamed-salah-a-liverpool-legend-as-isak-returns-to-team-training",
+        "article_title": "Arne Slot calls Mohamed Salah a Liverpool legend as Isak returns to team training",
+        "created_at": "2026-04-01T18:51:37.386810",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T22:51:37.386810",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "71f8bc38",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Former Premier League club owner buys a 40% stake in Dagenham & Redbridge! Exciting changes ahead for the team! \u26bd\ufe0f\ud83d\udd25 #DagenhamRedbridge #FootballOwnership",
+        "source_url": "https://talksport.com/football/4156469/owner-dagenham-and-redbridge-ksi-tony-fernandes/",
+        "article_title": "Ex-owner of Premier League club follows KSI and buys 40 per cent stake in Dagenham & Redbridge",
+        "created_at": "2026-04-01T18:51:44.605641",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T22:51:44.605641",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "b6853269",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Pep Guardiola leaves Manchester City in limbo as speculation grows on a potential successor from the ex-Premier League ranks! \ud83d\udd04 #ManCity #Guardiola",
+        "source_url": "https://talksport.com/football/4156523/pep-guardiola-next-man-city-manager/",
+        "article_title": "Pep Guardiola leaves Man City in limbo and ex-Premier League boss could succeed him",
+        "created_at": "2026-04-01T18:51:45.909047",
+        "scheduled_for": "2026-04-01T19:01:45.909047",
+        "expires_at": "2026-04-01T19:51:45.909047",
+        "type": "auto",
+        "status": "pending"
     }
 ]
