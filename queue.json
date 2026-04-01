@@ -97,5 +97,38 @@
         "expires_at": "2026-04-02T01:35:38.424150",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "c3047aa3",
+        "tweet_text": "\ud83d\udea8 Chelsea announce a record pre-tax loss of \u00a3262.4m for the 2024-25 season, the largest in Premier League history! \ud83d\udcb0 #CFC #PremierLeague",
+        "source_url": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Chelsea make pre-tax loss of \u00a3262.4m - biggest in Premier League history",
+        "created_at": "2026-04-01T22:30:15.713093",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T02:30:15.713093",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "346a9dfb",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Harry Maguire has been charged by the FA after receiving a red card in Manchester United's match against Bournemouth. \u26bd\ufe0f\ud83d\udd34 #MUFC #FACharge",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48368366/harry-maguire-hit-fa-charge-man-united-red-card",
+        "article_title": "FA charge Maguire after Man United red card",
+        "created_at": "2026-04-01T22:30:24.697895",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T02:30:24.697895",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ac5d65d1",
+        "tweet_text": "\ud83d\udea8 Chelsea report a staggering pre-tax loss of \u00a3262.4m for the year ending June 30, 2025, the highest in EPL history! They also led the league in agents' fees. \ud83d\udcb8\ud83d\udcc9 #CFC #EPL",
+        "source_url": "https://www.espn.com/soccer/story/_/id/48368240/chelsea-record-highest-pre-tax-losses-premier-league-history",
+        "article_title": "Chelsea have highest pre-tax loss in EPL history",
+        "created_at": "2026-04-01T22:30:28.660775",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T02:30:28.660775",
+        "type": "manual",
+        "status": "pending"
     }
 ]
