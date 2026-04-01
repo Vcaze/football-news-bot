@@ -64,5 +64,60 @@
         "expires_at": "2026-04-01T17:02:19.482837",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "50692ce8",
+        "tweet_text": "\ud83d\udea8 A Gateshead man has been arrested on suspicion of racially abusing Sunderland's Lutsharel Geertruida during last month's Premier League clash at Newcastle. \u26bd\ufe0f\u270a #RacismInFootball #PremierLeague",
+        "source_url": "https://www.bbc.com/news/articles/cz0edgk4xejo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Man arrested on suspicion of racially abusing Sunderland's Geertruida",
+        "created_at": "2026-04-01T14:58:17.607659",
+        "scheduled_for": "2026-04-01T15:08:17.607659",
+        "expires_at": "2026-04-01T15:58:17.607659",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "99137c2e",
+        "tweet_text": "\ud83d\udea8 Lamine Yamal condemns Spain fans for anti-Muslim chants during a friendly against Egypt in Barcelona, calling the behavior \"intolerable.\" Police are investigating the incident. \ud83c\udfdf\ufe0f\u270a #Respect #NoToRacism",
+        "source_url": "https://www.theguardian.com/football/2026/apr/01/spain-fans-islamophobic-and-xenophobic-chants-egypt-police-investigate",
+        "article_title": "Lamine Yamal furious with Spain fans over anti-Muslim chants against Egypt",
+        "created_at": "2026-04-01T14:58:27.396592",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T18:58:27.396592",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "e318862f",
+        "tweet_text": "Lamine Yamal condemns anti-Muslim chants from Spain fans during the clash with Egypt in Barcelona, urging for unity and respect. \ud83c\uddea\ud83c\uddf8\u270a #StandTogether #FootballForAll",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/lamine-yamal-muslim-chants-spain-36955807",
+        "article_title": "Lamine Yamal slams Spain fans for anti-Muslim chant with heartfelt statement",
+        "created_at": "2026-04-01T14:58:30.502940",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T18:58:30.502940",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2b54ce9a",
+        "tweet_text": "\ud83d\udea8 Manchester United set to offload EIGHT players this summer, giving the new manager a \u00a3100m head start in the transfer market! \ud83d\udcb0 #MUFC #TransferNews",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-sales-36954397",
+        "article_title": "Man Utd can give new manager \u00a3100m head start with EIGHT players set to leave this summer",
+        "created_at": "2026-04-01T14:58:33.953920",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T18:58:33.953920",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "3e039c4f",
+        "tweet_text": "\ud83d\udea8 Liverpool face a new injury setback as Jeremie Frimpong was subbed off after just 12 minutes while playing for the Netherlands. Arne Slot's squad depth continues to be tested! \u26bd\ufe0f\ud83d\udc94 #LFC #InjuryUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/slot-liverpool-injury-update-frimpong-36955116",
+        "article_title": "Arne Slot dealt fresh Liverpool injury blow as star subbed off after 13 minutes",
+        "created_at": "2026-04-01T14:58:37.327320",
+        "scheduled_for": null,
+        "expires_at": "2026-04-01T18:58:37.327320",
+        "type": "manual",
+        "status": "pending"
     }
 ]
