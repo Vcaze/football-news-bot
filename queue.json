@@ -64,5 +64,38 @@
         "expires_at": "2026-04-02T18:19:55.764990",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "faa96d90",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Gabriele Gravina resigns as head of the Italian FA and Gianluigi Buffon steps down from his national team role after Italy fails to qualify for a third consecutive World Cup! \ud83c\uddee\ud83c\uddf9\u26bd #Italy #WorldCup",
+        "source_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+        "article_title": "Italian FA head and Buffon quit over World Cup failure",
+        "created_at": "2026-04-02T15:53:59.127090",
+        "scheduled_for": "2026-04-02T16:03:59.127090",
+        "expires_at": "2026-04-02T16:53:59.127090",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "9b732f96",
+        "tweet_text": "\ud83d\udea8 Pep Guardiola has postponed his decision on staying at Manchester City until the end of the season! Fans will have to wait for clarity on his future. \u26bd\ufe0f\ud83d\udd35 #ManCity #PepGuardiola",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-man-city-future-36961409",
+        "article_title": "Pep Guardiola 'delays' final decision on staying at Man City with new deadline set",
+        "created_at": "2026-04-02T15:54:03.414941",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T19:54:03.414941",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f39fbe59",
+        "tweet_text": "\ud83d\udea8 Real Madrid are frustrated with England after Jude Bellingham's 'pointless' international trip, as he didn't play a minute despite just returning from injury. \u26bd\ufe0f\ud83c\uddec\ud83c\udde7 #RealMadrid #JudeBellingham",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/real-madrid-jude-bellingham-england-36960748",
+        "article_title": "Real Madrid unhappy with England after Jude Bellingham's 'pointless' trip",
+        "created_at": "2026-04-02T15:54:07.404571",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T19:54:07.404571",
+        "type": "manual",
+        "status": "pending"
     }
 ]
