@@ -20,5 +20,16 @@
         "expires_at": "2026-04-02T11:03:55.082085",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "a16f6164",
+        "tweet_text": "\ud83d\udea8 FIFA raises World Cup ticket prices again, leaving fans frustrated as they face issues purchasing tickets for the 2026 tournament in the USA. \ud83c\udf9f\ufe0f\ud83d\udc94 #WorldCup2026 #FIFAFail",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/fifa-world-cup-ticket-prices-36957994",
+        "article_title": "FIFA hike up World Cup ticket prices AGAIN as angry fans suffer issues trying to buy them",
+        "created_at": "2026-04-02T10:44:53.315777",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T14:44:53.315777",
+        "type": "manual",
+        "status": "pending"
     }
 ]
