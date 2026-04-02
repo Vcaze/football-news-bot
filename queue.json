@@ -64,5 +64,16 @@
         "expires_at": "2026-04-02T20:50:33.311137",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "7eb195b9",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Jesse Lingard makes history as the first Englishman to play in Brazil's top tier during his debut for Corinthians! \ud83c\udde7\ud83c\uddf7\u26bd #Lingard #Corinthians",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/jesse-lingard-debut-man-utd-36962609",
+        "article_title": "Jesse Lingard issued reality check on Corinthians debut as ex-Man Utd star creates history",
+        "created_at": "2026-04-02T17:43:29.629540",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T21:43:29.629540",
+        "type": "manual",
+        "status": "pending"
     }
 ]
