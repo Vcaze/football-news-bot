@@ -42,5 +42,27 @@
         "expires_at": "2026-04-02T15:40:42.310718",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "7c28e2e8",
+        "tweet_text": "\ud83d\udea8 FIFA raises top ticket price for the World Cup final to $10,990, up from $1,600 in 2022! Fans faced glitches during the ticket sales reopening for the July 19 match at MetLife Stadium. \ud83c\udf9f\ufe0f\u26bd #WorldCup2026 #FIFATickets",
+        "source_url": "https://www.theguardian.com/football/2026/apr/02/fifa-ticket-prices-world-cup-2026-final",
+        "article_title": "Fifa raises top ticket price for World Cup final to $10,990, up from $1,600 in 2022",
+        "created_at": "2026-04-02T12:55:39.137080",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T16:55:39.137080",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "9d6e88d3",
+        "tweet_text": "\ud83d\udea8 Premier League panel backs referee's decision on controversial Man Utd penalty appeal after Amad was denied in their draw against Bournemouth. United's official complaint has been dismissed! \u26bd\ufe0f\ud83e\udd14 #ManUtd #PremierLeague",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-penalty-bournemouth-complaint-36959632",
+        "article_title": "Premier League panel rule on controversial Man Utd penalty with official complaint lodged",
+        "created_at": "2026-04-02T12:55:45.678942",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T16:55:45.678942",
+        "type": "manual",
+        "status": "pending"
     }
 ]
