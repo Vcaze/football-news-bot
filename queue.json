@@ -9,5 +9,38 @@
         "expires_at": "2026-04-02T14:44:53.315777",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "958a2fc0",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Lincoln City are on the brink of a Championship return for the first time since 1961! Can they make history this season? \ud83c\udf1f #LincolnCity #ChampionshipBound",
+        "source_url": "https://www.skysports.com/football/news/12040/13526813/lincoln-city-on-cusp-of-championship-return-after-65-years-away",
+        "article_title": "The magical rise of Lincoln City - on cusp of Championship return after 65 years away",
+        "created_at": "2026-04-02T11:40:31.584740",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T15:40:31.584740",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "18299e68",
+        "tweet_text": "\ud83d\udea8 More than half of the World Cup nations face extra costs as FIFA fails to secure a tax exemption deal with the US government, impacting smaller countries the hardest! \u26bd\ufe0f\ud83d\udcb0 #WorldCup2026 #FIFA",
+        "source_url": "https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government",
+        "article_title": "More than half of World Cup countries face extra costs as Fifa fails to agree US tax deal",
+        "created_at": "2026-04-02T11:40:38.995180",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T15:40:38.995180",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d3b49781",
+        "tweet_text": "\ud83d\udea8 FIFA rankings updated! After England's loss, a new World No. 1 emerges as we gear up for World Cup 2026. \ud83c\udf0d\u26bd\ufe0f #FIFARankings #WorldCup2026",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/world-cup-2026-england-ranking-36959368",
+        "article_title": "FIFA world rankings confirmed ahead of World Cup with new No.1 after England lose",
+        "created_at": "2026-04-02T11:40:42.310718",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T15:40:42.310718",
+        "type": "manual",
+        "status": "pending"
     }
 ]
