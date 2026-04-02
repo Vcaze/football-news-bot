@@ -64,5 +64,38 @@
         "expires_at": "2026-04-02T19:54:07.404571",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "33b9946d",
+        "tweet_text": "\ud83d\udea8 More than 50% of World Cup nations face extra costs as FIFA fails to secure a tax exemption deal with the US government! Smaller nations will be hit hardest. \ud83c\udf0d\u26bd #WorldCup2026 #FIFA",
+        "source_url": "https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government",
+        "article_title": "More than half of World Cup countries face extra costs as Fifa fails to agree US tax deal",
+        "created_at": "2026-04-02T16:50:27.215394",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T20:50:27.215394",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2a7bb0c7",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: JJ Gabriel has been promoted to Manchester United's senior team after a stellar season in the academy! Exciting times ahead for the young talent! \ud83c\udf1f\u26bd\ufe0f #MUFC #YouthPromotion",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-pre-36962137",
+        "article_title": "JJ Gabriel discovers fate after Man United decision as summer plans unveiled",
+        "created_at": "2026-04-02T16:50:30.950958",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T20:50:30.950958",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "a206abdf",
+        "tweet_text": "\ud83d\udea8 FIFA faces backlash as World Cup 2026 final tickets soar to \u00a38,333, pricing out ordinary fans and igniting outrage over accessibility. \u26bd\ufe0f\ud83d\udcb0 #WorldCup2026 #FIFAFanOutrage",
+        "source_url": "https://www.mirror.co.uk/news/us-news/world-cup-final-tickets-hit-36961310",
+        "article_title": "World Cup final tickets hit \u00a38,000 as FIFA prices fans out of the beautiful game",
+        "created_at": "2026-04-02T16:50:33.311137",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T20:50:33.311137",
+        "type": "manual",
+        "status": "pending"
     }
 ]
