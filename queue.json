@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id": "89bf4a67",
+        "tweet_text": "\ud83d\udea8 Bayern Munich defeat Manchester United 2-1 in the Women's Champions League quarter-finals, advancing 5-3 on aggregate. Marc Skinner calls for more investment in experienced players! \u26bd\ufe0f\ud83d\udcaa #WCL #MUFC",
+        "source_url": "https://www.theguardian.com/football/2026/apr/01/bayern-munich-manchester-united-womens-champions-league-quarter-final-second-leg-match-report",
+        "article_title": "Skinner urges investment as Bayern end Manchester United WCL run in quarter-finals",
+        "created_at": "2026-04-02T07:03:48.880999",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T11:03:48.880999",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "f561a57f",
+        "tweet_text": "\ud83d\udea8 Marcus Rashford's contract clause has expired, raising questions about his future at Manchester United. Additionally, he has been charged by the FA. \ud83d\udd34\u26bd #MUFC #Rashford",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/manchester-united-rashford-transfer-maguire-36956104",
+        "article_title": "Man Utd news: Marcus Rashford contract clause expires and Red Devils star charged by FA",
+        "created_at": "2026-04-02T07:03:55.082085",
+        "scheduled_for": null,
+        "expires_at": "2026-04-02T11:03:55.082085",
+        "type": "manual",
+        "status": "pending"
+    }
+]
