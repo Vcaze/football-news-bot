@@ -97,5 +97,16 @@
         "expires_at": "2026-04-02T19:45:25.678780",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "482a6de8",
+        "tweet_text": "\ud83d\udea8 Barcelona crush Real Madrid 6-0 (agg 12-2) to advance to the Women's Champions League semi-finals! \ud83c\udfc6 Next up: a showdown with Bayern Munich! #WCL #FCB",
+        "source_url": "https://www.theguardian.com/football/2026/apr/02/barcelona-hit-six-past-real-madrid-again-to-set-up-wcl-semi-final-with-bayern-munich",
+        "article_title": "Barcelona hit six past Real Madrid again to set up WCL semi-final with Bayern Munich",
+        "created_at": "2026-04-02T19:43:56.849765",
+        "scheduled_for": "2026-04-02T19:53:56.849765",
+        "expires_at": "2026-04-02T20:43:56.849765",
+        "type": "auto",
+        "status": "pending"
     }
 ]
