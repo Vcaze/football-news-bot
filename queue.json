@@ -1,27 +1,5 @@
 [
     {
-        "id": "7c28e2e8",
-        "tweet_text": "\ud83d\udea8 FIFA raises top ticket price for the World Cup final to $10,990, up from $1,600 in 2022! Fans faced glitches during the ticket sales reopening for the July 19 match at MetLife Stadium. \ud83c\udf9f\ufe0f\u26bd #WorldCup2026 #FIFATickets",
-        "source_url": "https://www.theguardian.com/football/2026/apr/02/fifa-ticket-prices-world-cup-2026-final",
-        "article_title": "Fifa raises top ticket price for World Cup final to $10,990, up from $1,600 in 2022",
-        "created_at": "2026-04-02T12:55:39.137080",
-        "scheduled_for": null,
-        "expires_at": "2026-04-02T16:55:39.137080",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "9d6e88d3",
-        "tweet_text": "\ud83d\udea8 Premier League panel backs referee's decision on controversial Man Utd penalty appeal after Amad was denied in their draw against Bournemouth. United's official complaint has been dismissed! \u26bd\ufe0f\ud83e\udd14 #ManUtd #PremierLeague",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/man-utd-penalty-bournemouth-complaint-36959632",
-        "article_title": "Premier League panel rule on controversial Man Utd penalty with official complaint lodged",
-        "created_at": "2026-04-02T12:55:45.678942",
-        "scheduled_for": null,
-        "expires_at": "2026-04-02T16:55:45.678942",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "22c873f6",
         "tweet_text": "\ud83d\udea8 UEFA President Ceferin warns Italy it risks losing Euro 2032 due to poor stadium conditions, calling them \"among the worst in Europe.\" Action needed ASAP! \u26bd\ufe0f\ud83c\uddee\ud83c\uddf9 #Euro2032 #FootballInfrastructure",
         "source_url": "https://www.theguardian.com/football/2026/apr/02/uefa-president-ceferin-warns-italy-it-could-lose-euro-2032-without-action-on-stadiums",
@@ -30,17 +8,6 @@
         "scheduled_for": null,
         "expires_at": "2026-04-02T18:19:55.764990",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "faa96d90",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Gabriele Gravina resigns as head of the Italian FA and Gianluigi Buffon steps down from his national team role after Italy fails to qualify for a third consecutive World Cup! \ud83c\uddee\ud83c\uddf9\u26bd #Italy #WorldCup",
-        "source_url": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-        "article_title": "Italian FA head and Buffon quit over World Cup failure",
-        "created_at": "2026-04-02T15:53:59.127090",
-        "scheduled_for": "2026-04-02T16:03:59.127090",
-        "expires_at": "2026-04-02T16:53:59.127090",
-        "type": "auto",
         "status": "pending"
     },
     {
