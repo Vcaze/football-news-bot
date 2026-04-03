@@ -31,5 +31,38 @@
         "expires_at": "2026-04-03T14:36:46.661126",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "57693088",
+        "tweet_text": "\ud83d\udea8 Chelsea's Enzo Fernandez will miss the next two matches after manager Liam Rosenior revealed he \"crossed a line.\" Big implications for the squad! \u26bd\ufe0f\ud83d\udfe3 #CFC #Fernandez",
+        "source_url": "https://www.bbc.com/sport/football/articles/cz78l5nj4j3o?at_medium=RSS&at_campaign=rss",
+        "article_title": "Chelsea's Fernandez dropped after 'crossing a line'",
+        "created_at": "2026-04-03T11:33:06.913703",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T15:33:06.913703",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "c8b0bcdd",
+        "tweet_text": "\ud83d\udea8 OL Lyonnes defeat Wolfsburg 4-0 in extra time (4-1 on agg) to secure a Women's Champions League semi-final clash with Arsenal! \ud83d\udd25 Get ready for an exciting rematch! #WCL #Lyonnes",
+        "source_url": "https://www.theguardian.com/football/2026/apr/02/barcelona-hit-six-past-real-madrid-again-to-set-up-wcl-semi-final-with-bayern-munich",
+        "article_title": "OL Lyonnes sink Wolfsburg in extra time to set up Arsenal showdown in WCL",
+        "created_at": "2026-04-03T11:33:12.198670",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T15:33:12.198670",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "d3d354ee",
+        "tweet_text": "\ud83d\udea8 Liverpool's Alisson Becker is set to miss the rest of the season due to injury, while Arne Slot announces Mohamed Salah and Alexander Isak are back in training for upcoming FA Cup and Champions League matches! \u26bd\ufe0f\ud83d\udd25 #LFC #InjuryUpdate",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-injury-news-alisson-becker-36965193",
+        "article_title": "Arne Slot delivers Liverpool hammer blow as extent of Alisson injury emerges",
+        "created_at": "2026-04-03T11:33:14.926781",
+        "scheduled_for": "2026-04-03T11:43:14.926781",
+        "expires_at": "2026-04-03T12:33:14.926781",
+        "type": "auto",
+        "status": "pending"
     }
 ]
