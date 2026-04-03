@@ -1,16 +1,5 @@
 [
     {
-        "id": "031aebb3",
-        "tweet_text": "\ud83d\udea8 Millwall defeats Middlesbrough 2-1 in the Sky Bet Championship, with Josh Coburn scoring twice against his old club! Millwall jumps to second place! \ud83e\udd81\u26bd #Millwall #Championship",
-        "source_url": "https://www.skysports.com/football/middlesbrough-vs-millwall/report/534791",
-        "article_title": "Millwall leapfrog Boro into second after Coburn double against old club",
-        "created_at": "2026-04-03T13:59:09.439000",
-        "scheduled_for": null,
-        "expires_at": "2026-04-03T17:59:09.439000",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "039c028a",
         "tweet_text": "\ud83d\udea8 Harry Kane ruled out of England's friendly against Japan due to injury, raising concerns for Bayern Munich ahead of their clash with Real Madrid! \u26bd\ufe0f\ud83e\udd15 #BayernMunich #ChampionsLeague",
         "source_url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-injury-madrid-36966326",
@@ -74,17 +63,6 @@
         "scheduled_for": null,
         "expires_at": "2026-04-03T21:27:59.750956",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "2f8b225b",
-        "tweet_text": "\ud83d\udea8 Gennaro Gattuso has exited as Italy manager after the Azzurri's World Cup qualifying failure, missing three consecutive tournaments. Gattuso: \"It has been an honour to lead.\" \ud83c\uddee\ud83c\uddf9\u26bd #Italy #Gattuso",
-        "source_url": "https://www.theguardian.com/football/2026/apr/03/gennaro-gattuso-exits-italy-manager-world-cup-qualifying-failure",
-        "article_title": "Gennaro Gattuso exits as Italy manager after World Cup qualifying failure",
-        "created_at": "2026-04-03T17:28:01.667450",
-        "scheduled_for": "2026-04-03T17:38:01.667450",
-        "expires_at": "2026-04-03T18:28:01.667450",
-        "type": "auto",
         "status": "pending"
     },
     {
