@@ -64,5 +64,49 @@
         "expires_at": "2026-04-03T20:32:27.948483",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "823cb166",
+        "tweet_text": "\ud83d\udea8 Chelsea drop Enzo Fern\u00e1ndez for two matches after he \u201ccrossed a line\u201d with comments about his future and a desire to live in Madrid. Manager Liam Rosenior emphasizes the need to protect the club's culture. \u26bd\ufe0f\ud83d\udd35 #CFC #EnzoFernandez",
+        "source_url": "https://www.theguardian.com/football/2026/apr/03/chelsea-axe-enzo-fernandez-for-two-games-after-crossing-a-line-with-madrid-comments",
+        "article_title": "Chelsea axe Enzo Fern\u00e1ndez for two games after \u2018crossing a line\u2019 with Madrid comments",
+        "created_at": "2026-04-03T17:27:56.828974",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T21:27:56.828974",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "ba0e0bf1",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: Millwall secures 2nd place in the Championship, defeating Middlesbrough 2-0 thanks to a double from Josh Coburn! They're now one point ahead of Boro. \ud83d\udd25\u26bd\ufe0f #Championship #Millwall",
+        "source_url": "https://www.theguardian.com/football/2026/apr/03/middlesbrough-millwall-championship-match-report",
+        "article_title": "Millwall leapfrog Middlesbrough in Championship promotion race after Coburn double",
+        "created_at": "2026-04-03T17:27:59.750956",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T21:27:59.750956",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "2f8b225b",
+        "tweet_text": "\ud83d\udea8 Gennaro Gattuso has exited as Italy manager after the Azzurri's World Cup qualifying failure, missing three consecutive tournaments. Gattuso: \"It has been an honour to lead.\" \ud83c\uddee\ud83c\uddf9\u26bd #Italy #Gattuso",
+        "source_url": "https://www.theguardian.com/football/2026/apr/03/gennaro-gattuso-exits-italy-manager-world-cup-qualifying-failure",
+        "article_title": "Gennaro Gattuso exits as Italy manager after World Cup qualifying failure",
+        "created_at": "2026-04-03T17:28:01.667450",
+        "scheduled_for": "2026-04-03T17:38:01.667450",
+        "expires_at": "2026-04-03T18:28:01.667450",
+        "type": "auto",
+        "status": "pending"
+    },
+    {
+        "id": "3c66a35e",
+        "tweet_text": "Enzo Fernandez's agent defends him against Chelsea's 2-match ban, calling it \"completely unfair.\" Crunch talks are set to follow! \u26bd\ufe0f\ud83d\udcbc #CFC #EnzoFernandez",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/enzo-fernandez-agent-chelsea-rosenior-36967312",
+        "article_title": "Enzo Fernandez agent hits back at 'completely unfair' Chelsea ban with crunch talks to be held",
+        "created_at": "2026-04-03T17:28:04.253419",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T21:28:04.253419",
+        "type": "manual",
+        "status": "pending"
     }
 ]
