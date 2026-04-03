@@ -1,16 +1,5 @@
 [
     {
-        "id": "184f3dea",
-        "tweet_text": "\ud83d\udea8 HUGE NEWS: Liverpool are set for a massive overhaul as they put five players up for sale, following Mohamed Salah's exit announcement! \ud83d\udd34\u2708\ufe0f #LFC #TransferNews",
-        "source_url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-slot-salah-sell-players-36963832",
-        "article_title": "Liverpool 'put five players up for sale' as Arne Slot begins huge clear out",
-        "created_at": "2026-04-03T08:04:41.249241",
-        "scheduled_for": null,
-        "expires_at": "2026-04-03T12:04:41.249241",
-        "type": "manual",
-        "status": "pending"
-    },
-    {
         "id": "df5e42c5",
         "tweet_text": "\ud83d\udea8 Liverpool owners are contemplating a change as Arne Slot faces scrutiny over inconsistent performances this season. Big decisions ahead for the club! \ud83d\udd34\u26bd\ufe0f #LFC #ArneSlot",
         "source_url": "https://www.mirror.co.uk/sport/football/news/arne-slot-sack-liverpool-fsg-36964358",
@@ -52,17 +41,6 @@
         "scheduled_for": null,
         "expires_at": "2026-04-03T15:33:12.198670",
         "type": "manual",
-        "status": "pending"
-    },
-    {
-        "id": "d3d354ee",
-        "tweet_text": "\ud83d\udea8 Liverpool's Alisson Becker is set to miss the rest of the season due to injury, while Arne Slot announces Mohamed Salah and Alexander Isak are back in training for upcoming FA Cup and Champions League matches! \u26bd\ufe0f\ud83d\udd25 #LFC #InjuryUpdate",
-        "source_url": "https://www.mirror.co.uk/sport/football/news/liverpool-injury-news-alisson-becker-36965193",
-        "article_title": "Arne Slot delivers Liverpool hammer blow as extent of Alisson injury emerges",
-        "created_at": "2026-04-03T11:33:14.926781",
-        "scheduled_for": "2026-04-03T11:43:14.926781",
-        "expires_at": "2026-04-03T12:33:14.926781",
-        "type": "auto",
         "status": "pending"
     },
     {
