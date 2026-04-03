@@ -53,5 +53,27 @@
         "expires_at": "2026-04-03T10:46:20.217119",
         "type": "auto",
         "status": "pending"
+    },
+    {
+        "id": "df5e42c5",
+        "tweet_text": "\ud83d\udea8 Liverpool owners are contemplating a change as Arne Slot faces scrutiny over inconsistent performances this season. Big decisions ahead for the club! \ud83d\udd34\u26bd\ufe0f #LFC #ArneSlot",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/arne-slot-sack-liverpool-fsg-36964358",
+        "article_title": "What FSG really think about sacking Arne Slot as Liverpool owners hatch summer plan",
+        "created_at": "2026-04-03T10:36:43.867874",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T14:36:43.867874",
+        "type": "manual",
+        "status": "pending"
+    },
+    {
+        "id": "faa00df1",
+        "tweet_text": "\ud83d\udea8 Chelsea drop Enzo Fernandez for the FA Cup clash against Port Vale after he hinted at a move to Real Madrid. Liam Rosenior states, \"a line has been crossed.\" \u26bd\ufe0f #CFC #FACup",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/chelsea-enzo-fernandez-dropped-future-36964944",
+        "article_title": "Chelsea DROP Enzo Fernandez after Real Madrid transfer hint - 'A line has been crossed'",
+        "created_at": "2026-04-03T10:36:46.661126",
+        "scheduled_for": null,
+        "expires_at": "2026-04-03T14:36:46.661126",
+        "type": "manual",
+        "status": "pending"
     }
 ]
