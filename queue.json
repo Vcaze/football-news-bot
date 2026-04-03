@@ -42,5 +42,16 @@
         "expires_at": "2026-04-03T12:04:41.249241",
         "type": "manual",
         "status": "pending"
+    },
+    {
+        "id": "d491d068",
+        "tweet_text": "\ud83d\udea8 HUGE NEWS: James Rodriguez has been hospitalised in the USA after representing Colombia during the international break. The football federation confirms he is receiving treatment. \ud83e\udd15\ud83c\udde8\ud83c\uddf4 #JamesRodriguez #Colombia",
+        "source_url": "https://www.mirror.co.uk/sport/football/news/james-rodriguez-health-condition-colombia-36964140",
+        "article_title": "James Rodriguez hospitalised after game with immediate health update issued",
+        "created_at": "2026-04-03T09:46:20.217119",
+        "scheduled_for": "2026-04-03T09:56:20.217119",
+        "expires_at": "2026-04-03T10:46:20.217119",
+        "type": "auto",
+        "status": "pending"
     }
 ]
